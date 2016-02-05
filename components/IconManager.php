@@ -8,19 +8,14 @@ use \Yii;
 
 class IconManager extends \yii\base\Component {
 
+	public $iconSets	= [ 'cmt' => true, 'fa' => true ];
+
 	public function __construct( $config = [] ) {
 
-        if( !empty( $config ) ) {
-
-            Yii::configure( $this, $config );
-        }
-
-		// init tasks
-
-        $this->init();
+		parent::__construct( $config );
 	}
 
-	// IconManager ----------------------------------------------------------
+	// IconManager --------------------------------------------
 
 }
 
