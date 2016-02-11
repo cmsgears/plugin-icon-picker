@@ -46,7 +46,7 @@ class IconAssets extends \yii\web\AssetBundle {
 			$this->depends[]	= 'cmsgears\icons\assets\FontAwesomeAssets';
 		}
 
-		if( isset( $iconSets[ 'cmt' ] ) && $iconSets[ 'cmt' ] ) {
+		if( isset( $iconSets[ 'cmti' ] ) && $iconSets[ 'cmti' ] ) {
 			
 			$this->depends[]	= 'cmsgears\icons\assets\CmtIconLibAssets';
 		}
