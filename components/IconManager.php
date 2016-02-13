@@ -5,6 +5,7 @@ namespace cmsgears\icons\components;
 use \Yii;
 
 // CMG Imports
+use cmsgears\files\components\FileManager;
 
 class IconManager extends \yii\base\Component {
 
@@ -43,12 +44,12 @@ class IconManager extends \yii\base\Component {
 
 			case FileManager::FILE_TYPE_AUDIO: {
 
-				return 'cmti-file-audio'; 
+				return 'cmti-file-audio';
 			}
 
 			case FileManager::FILE_TYPE_DOCUMENT: {
 
-				return 'cmti-document'; 
+				return 'cmti-document';
 			}
 
 			case FileManager::FILE_TYPE_COMPRESSED: {
