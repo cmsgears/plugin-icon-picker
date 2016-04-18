@@ -9,6 +9,9 @@
 	</span>
 	<div class="icon-sets cscroller">
 		<span class="wrap-icon">
+			<i class="picker-icon" icon=""></i>
+		</span>
+		<span class="wrap-icon">
 			<i class="picker-icon cmti cmti-alarm" icon="icon cmti cmti-alarm"></i>
 		</span>
 		<span class="wrap-icon">
