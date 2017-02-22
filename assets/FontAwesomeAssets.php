@@ -31,16 +31,14 @@ class FontAwesomeAssets extends \yii\web\AssetBundle {
 	// Constructor and Initialisation ------------------------------
 
     public function __construct( $config = [] ) {
-		
+
 		// do some more config
-		
+
         parent::__construct( $config );
     }
-	
+
 	public function init() {
 
 		// init bundle
 	}
 }
-
-?>
