@@ -103,5 +103,3 @@ class IconChooser extends \cmsgears\core\common\base\Widget {
 		return $this->defaultIcon;
 	}
 }
-
-?>
