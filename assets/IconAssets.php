@@ -2,7 +2,7 @@
 namespace cmsgears\icons\assets;
 
 // Yii Imports
-use \Yii;
+use Yii;
 use yii\web\View;
 
 class IconAssets extends \yii\web\AssetBundle {
@@ -32,7 +32,7 @@ class IconAssets extends \yii\web\AssetBundle {
 
 	// Define dependent Asset Loaders
     public $depends = [
-		'yii\web\JqueryAsset'
+		'cmsgears\core\common\assets\Jquery'
     ];
 
 	// Constructor and Initialisation ------------------------------
