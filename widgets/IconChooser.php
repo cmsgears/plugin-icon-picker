@@ -2,7 +2,6 @@
 namespace cmsgears\icons\widgets;
 
 // Yii Imports
-use \Yii;
 use yii\helpers\Html;
 
 // CMG Imports
@@ -103,5 +102,3 @@ class IconChooser extends \cmsgears\core\common\base\Widget {
 		return $this->defaultIcon;
 	}
 }
-
-?>
