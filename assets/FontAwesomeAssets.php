@@ -1,44 +1,60 @@
 <?php
+/**
+ * This file is part of CMSGears Framework. Please view License file distributed
+ * with the source code for license details.
+ *
+ * @link https://www.cmsgears.org/
+ * @copyright Copyright (c) 2015 VulpineCode Technologies Pvt. Ltd.
+ */
+
 namespace cmsgears\icons\assets;
 
 // Yii Imports
-use yii\web\View;
+use yii\web\AssetBundle;
 
-class FontAwesomeAssets extends \yii\web\AssetBundle {
+class FontAwesomeAssets extends AssetBundle {
 
-	// Public variables --------------------------------------------
+	// Variables ---------------------------------------------------
+
+	// Globals ----------------
+
+	// Public -----------------
 
 	// Path Configuration
-
-    public $sourcePath = '@bower/fontawesome';
+	public $sourcePath = '@bower-asset/fontawesome';
 
 	// Load CSS
-
-	public $css     = [
+	public $css = [
 		'css/font-awesome.min.css'
-    ];
+	];
 
 	// Publish
 	// TODO: It's not working for now
-/*
+	/*
 	public $publishOptions = [
-        'only' => [
-            'fonts/',
-            'css/'
-        ]
-    ];
-*/
+		'only' => [
+			'fonts/',
+			'css/'
+		]
+	];
+	*/
+
+	// Protected --------------
+
+	// Private ----------------
+
 	// Constructor and Initialisation ------------------------------
 
-    public function __construct( $config = [] ) {
+	// Instance methods --------------------------------------------
 
-		// do some more config
+	// Yii interfaces ------------------------
 
-        parent::__construct( $config );
-    }
+	// Yii parent classes --------------------
 
-	public function init() {
+	// CMG interfaces ------------------------
 
-		// init bundle
-	}
+	// CMG parent classes --------------------
+
+	// FontAwesomeAssets ---------------------
+
 }

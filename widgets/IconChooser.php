@@ -1,53 +1,72 @@
 <?php
+/**
+ * This file is part of CMSGears Framework. Please view License file distributed
+ * with the source code for license details.
+ *
+ * @link https://www.cmsgears.org/
+ * @copyright Copyright (c) 2015 VulpineCode Technologies Pvt. Ltd.
+ */
+
 namespace cmsgears\icons\widgets;
 
 // Yii Imports
 use yii\helpers\Html;
 
 // CMG Imports
+use cmsgears\core\common\base\Widget;
 
-class IconChooser extends \cmsgears\core\common\base\Widget {
+/**
+ * IconChooser widget provide options to choose icon from standard libraries.
+ *
+ * @since 1.0.0
+ */
+class IconChooser extends Widget {
 
 	// Variables ---------------------------------------------------
 
-	// Public Variables --------------------
+	// Globals -------------------------------
 
-	public $class			= null;
-	public $model			= null;
-	public $attribute		= 'icon';
-	public $label			= 'icon';
-	public $icon			= null;
+	// Constants --------------
 
-	public $defaultIcon		= 'icon'; // none
+	// Public -----------------
 
-	public $disabled		= false;
+	// Protected --------------
+
+	// Variables -----------------------------
+
+	// Public -----------------
+
+	public $wrap		= true;
+
+	public $class		= null;
+	public $model		= null;
+	public $attribute	= 'icon';
+	public $label		= 'icon';
+	public $icon		= null;
+
+	public $defaultIcon	= 'icon'; // none
+
+	public $disabled	= false;
+
+	// Protected --------------
+
+	// Private ----------------
+
+	// Traits ------------------------------------------------------
 
 	// Constructor and Initialisation ------------------------------
 
-	// yii\base\Object
+	// Instance methods --------------------------------------------
 
-	/**
-	 * @inheritdoc
-	 */
-    public function init() {
+	// Yii interfaces ------------------------
 
-        parent::init();
-    }
+	// Yii parent classes --------------------
 
-	// Instance Methods --------------------------------------------
+	// CMG interfaces ------------------------
 
-	// yii\base\Widget
+	// CMG parent classes --------------------
 
-	/**
-	 * @inheritdoc
-	 */
-    public function run() {
-
-		$widgetHtml = $this->renderWidget();
-
-		// wraps both the login and register boxes in a div.
-		return Html::tag( 'div', $widgetHtml, $this->options );
-    }
+	// cmsgears\core\common\base\Widget
 
 	public function renderWidget( $config = [] ) {
 
@@ -59,9 +78,21 @@ class IconChooser extends \cmsgears\core\common\base\Widget {
 			'disabled' => $this->disabled
 		]);
 
+		if( $this->wrap ) {
+
+			return Html::tag( $this->wrapper, $widgetHtml, $this->options );
+		}
+
 		return $widgetHtml;
 	}
 
+	// IconChooser ---------------------------
+
+	/**
+	 * Return the model name used while submitting the form.
+	 * 
+	 * @return string
+	 */
 	private function getModelName() {
 
 		// Provided name will override
@@ -81,6 +112,11 @@ class IconChooser extends \cmsgears\core\common\base\Widget {
 		return 'Icon';
 	}
 
+	/**
+	 * Return the icon to be displayed.
+	 *
+	 * @return string
+	 */
 	private function getIcon() {
 
 		// Provided name will override
@@ -101,4 +137,5 @@ class IconChooser extends \cmsgears\core\common\base\Widget {
 
 		return $this->defaultIcon;
 	}
+
 }

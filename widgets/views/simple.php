@@ -1,3 +1,13 @@
+<?php
+/**
+ * This file is part of CMSGears Framework. Please view License file distributed
+ * with the source code for license details.
+ *
+ * @link https://www.cmsgears.org/
+ * @copyright Copyright (c) 2015 VulpineCode Technologies Pvt. Ltd.
+ */
+?>
+
 <?php if( isset( $label ) ) { ?>
 	<label>Icon</label>
 <?php } ?>
@@ -11,6 +21,6 @@
 		<span class="picker-icon-wrap">
 			<i class="picker-icon" icon=""></i>
 		</span>
-		<?php include_once "library/font-awesome.php"?>
+		<?php include_once "library/font-awesome.php"; ?>
 	</div>
 </div>
