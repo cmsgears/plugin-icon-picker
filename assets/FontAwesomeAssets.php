@@ -21,7 +21,7 @@ class FontAwesomeAssets extends AssetBundle {
 	// Public -----------------
 
 	// Path Configuration
-	public $sourcePath = '@bower-asset/fontawesome';
+	public $sourcePath = '@bower/fontawesome';
 
 	// Load CSS
 	public $css = [

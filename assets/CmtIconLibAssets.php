@@ -21,7 +21,7 @@ class CmtIconLibAssets extends AssetBundle {
 	// Public -----------------
 
 	// Path Configuration
-	public $sourcePath = '@bower-asset/cmt-iconlib';
+	public $sourcePath = '@bower/cmt-iconlib';
 
 	// Load CSS
 	public $css = [
