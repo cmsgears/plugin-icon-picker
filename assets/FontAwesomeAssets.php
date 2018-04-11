@@ -21,11 +21,12 @@ class FontAwesomeAssets extends AssetBundle {
 	// Public -----------------
 
 	// Path Configuration
-	public $sourcePath = '@bower/fontawesome';
+
+	public $sourcePath = '@bower/fontawesome/web-fonts-with-css';
 
 	// Load CSS
 	public $css = [
-		'css/font-awesome.min.css'
+		'css/fontawesome-all.min.css'
 	];
 
 	// Publish
