@@ -12,7 +12,7 @@ namespace cmsgears\icons\assets;
 // Yii Imports
 use yii\web\AssetBundle;
 
-class CmtIconLibAssets extends AssetBundle {
+class CmtiCoreAssets extends AssetBundle {
 
 	// Variables ---------------------------------------------------
 
@@ -25,7 +25,7 @@ class CmtIconLibAssets extends AssetBundle {
 
 	// Load CSS
 	public $css = [
-		'dist/css/cmti.min.css'
+		'dist/css/cmti-core.min.css'
 	];
 
 	// Publish
@@ -55,6 +55,6 @@ class CmtIconLibAssets extends AssetBundle {
 
 	// CMG parent classes --------------------
 
-	// CmtIconLibAssets ----------------------
+	// CmtiCoreAssets ------------------------
 
 }
