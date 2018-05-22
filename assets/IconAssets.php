@@ -43,7 +43,7 @@ class IconAssets extends AssetBundle {
 
 	// Define dependent Asset Loaders
 	public $depends = [
-		'cmsgears\core\common\assets\Jquery'
+		'cmsgears\assets\jquery\Jquery'
 	];
 
 	// Protected --------------
