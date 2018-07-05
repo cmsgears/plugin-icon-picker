@@ -21,11 +21,11 @@ class CmtiCurrencyAssets extends AssetBundle {
 	// Public -----------------
 
 	// Path Configuration
-	public $sourcePath = '@bower/cmt-iconlib';
+	public $sourcePath = '@bower/cmt-breeze-icons';
 
 	// Load CSS
 	public $css = [
-		'dist/css/cmti-currency.min.css'
+		'dist/css/breeze-icons-currency.min.css'
 	];
 
 	// Protected --------------

@@ -21,11 +21,11 @@ class CmtiCoreAssets extends AssetBundle {
 	// Public -----------------
 
 	// Path Configuration
-	public $sourcePath = '@bower/cmt-iconlib';
+	public $sourcePath = '@bower/cmt-breeze-icons';
 
 	// Load CSS
 	public $css = [
-		'dist/css/cmti-core.min.css'
+		'dist/css/breeze-icons-core.min.css'
 	];
 
 	// Publish
