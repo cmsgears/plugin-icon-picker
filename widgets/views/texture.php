@@ -4,7 +4,7 @@
 	<label><?= $label ?></label>
 <?php } ?>
 
-<div class="icon-picker">
+<div class="cmt-icon-picker icon-picker">
 	<input class="icon-field" type="hidden" name="<?= $name ?>[<?= $attribute ?>]" value="<?= $texture ?>" />
 	<span class="picker-icon-wrap choose-icon <?php if( $disabled ) echo 'disabled'; ?>">
 		<i class="picker-icon <?= $texture ?>"></i>
