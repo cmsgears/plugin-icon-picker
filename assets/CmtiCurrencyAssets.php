@@ -12,7 +12,7 @@ namespace cmsgears\icons\assets;
 // Yii Imports
 use yii\web\AssetBundle;
 
-class FontAwesomeAssets extends AssetBundle {
+class CmtiCurrencyAssets extends AssetBundle {
 
 	// Variables ---------------------------------------------------
 
@@ -21,24 +21,12 @@ class FontAwesomeAssets extends AssetBundle {
 	// Public -----------------
 
 	// Path Configuration
-
-	public $sourcePath = '@bower/fontawesome/web-fonts-with-css';
+	public $sourcePath = '@bower/cmt-breeze-icons';
 
 	// Load CSS
 	public $css = [
-		'css/fontawesome-all.min.css'
+		'dist/css/breeze-icons-currency.min.css'
 	];
-
-	// Publish
-	// TODO: It's not working for now
-	/*
-	public $publishOptions = [
-		'only' => [
-			'fonts/',
-			'css/'
-		]
-	];
-	*/
 
 	// Protected --------------
 
@@ -56,6 +44,6 @@ class FontAwesomeAssets extends AssetBundle {
 
 	// CMG parent classes --------------------
 
-	// FontAwesomeAssets ---------------------
+	// CmtiCurrencyAssets ---------------------
 
 }

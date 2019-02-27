@@ -1,2526 +1,2967 @@
 <span class="picker-icon-wrap">
-	<i title='angle-double-down' class='picker-icon fa fa-angle-double-down' icon='icon fa fa-angle-double-down'></i>
+	<i title="address-book" class="picker-icon fas fa-address-book" icon="icon fas fa-address-book"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='angle-double-left' class='picker-icon fa fa-angle-double-left' icon='icon fa fa-angle-double-left'></i>
+	<i title="address-card" class="picker-icon fas fa-address-card" icon="icon fas fa-address-card"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='angle-double-right' class='picker-icon fa fa-angle-double-right' icon='icon fa fa-angle-double-right'></i>
+	<i title="adjust" class="picker-icon fas fa-adjust" icon="icon fas fa-adjust"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='angle-double-up' class='picker-icon fa fa-angle-double-up' icon='icon fa fa-angle-double-up'></i>
+	<i title="align-center" class="picker-icon fas fa-align-center" icon="icon fas fa-align-center"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='angle-down' class='picker-icon fa fa-angle-down' icon='icon fa fa-angle-down'></i>
+	<i title="align-justify" class="picker-icon fas fa-align-justify" icon="icon fas fa-align-justify"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='angle-left' class='picker-icon fa fa-angle-left' icon='icon fa fa-angle-left'></i>
+	<i title="align-left" class="picker-icon fas fa-align-left" icon="icon fas fa-align-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='angle-right' class='picker-icon fa fa-angle-right' icon='icon fa fa-angle-right'></i>
+	<i title="align-right" class="picker-icon fas fa-align-right" icon="icon fas fa-align-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='angle-up' class='picker-icon fa fa-angle-up' icon='icon fa fa-angle-up'></i>
+	<i title="allergies" class="picker-icon fas fa-allergies" icon="icon fas fa-allergies"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrow-circle-down' class='picker-icon fa fa-arrow-circle-down' icon='icon fa fa-arrow-circle-down'></i>
+	<i title="ambulance" class="picker-icon fas fa-ambulance" icon="icon fas fa-ambulance"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrow-circle-left' class='picker-icon fa fa-arrow-circle-left' icon='icon fa fa-arrow-circle-left'></i>
+	<i title="american-sign-language-interpreting" class="picker-icon fas fa-american-sign-language-interpreting" icon="icon fas fa-american-sign-language-interpreting"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrow-circle-o-down' class='picker-icon fa fa-arrow-circle-o-down' icon='icon fa fa-arrow-circle-o-down'></i>
+	<i title="anchor" class="picker-icon fas fa-anchor" icon="icon fas fa-anchor"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrow-circle-o-left' class='picker-icon fa fa-arrow-circle-o-left' icon='icon fa fa-arrow-circle-o-left'></i>
+	<i title="angle-double-down" class="picker-icon fas fa-angle-double-down" icon="icon fas fa-angle-double-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrow-circle-o-right' class='picker-icon fa fa-arrow-circle-o-right' icon='icon fa fa-arrow-circle-o-right'></i>
+	<i title="angle-double-left" class="picker-icon fas fa-angle-double-left" icon="icon fas fa-angle-double-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrow-circle-o-up' class='picker-icon fa fa-arrow-circle-o-up' icon='icon fa fa-arrow-circle-o-up'></i>
+	<i title="angle-double-right" class="picker-icon fas fa-angle-double-right" icon="icon fas fa-angle-double-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrow-circle-right' class='picker-icon fa fa-arrow-circle-right' icon='icon fa fa-arrow-circle-right'></i>
+	<i title="angle-double-up" class="picker-icon fas fa-angle-double-up" icon="icon fas fa-angle-double-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrow-circle-up' class='picker-icon fa fa-arrow-circle-up' icon='icon fa fa-arrow-circle-up'></i>
+	<i title="angle-down" class="picker-icon fas fa-angle-down" icon="icon fas fa-angle-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrow-down' class='picker-icon fa fa-arrow-down' icon='icon fa fa-arrow-down'></i>
+	<i title="angle-left" class="picker-icon fas fa-angle-left" icon="icon fas fa-angle-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrow-left' class='picker-icon fa fa-arrow-left' icon='icon fa fa-arrow-left'></i>
+	<i title="angle-right" class="picker-icon fas fa-angle-right" icon="icon fas fa-angle-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrow-right' class='picker-icon fa fa-arrow-right' icon='icon fa fa-arrow-right'></i>
+	<i title="angle-up" class="picker-icon fas fa-angle-up" icon="icon fas fa-angle-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrow-up' class='picker-icon fa fa-arrow-up' icon='icon fa fa-arrow-up'></i>
+	<i title="archive" class="picker-icon fas fa-archive" icon="icon fas fa-archive"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrows' class='picker-icon fa fa-arrows' icon='icon fa fa-arrows'></i>
+	<i title="arrow-alt-circle-down" class="picker-icon fas fa-arrow-alt-circle-down" icon="icon fas fa-arrow-alt-circle-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrows-alt' class='picker-icon fa fa-arrows-alt' icon='icon fa fa-arrows-alt'></i>
+	<i title="arrow-alt-circle-left" class="picker-icon fas fa-arrow-alt-circle-left" icon="icon fas fa-arrow-alt-circle-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrows-h' class='picker-icon fa fa-arrows-h' icon='icon fa fa-arrows-h'></i>
+	<i title="arrow-alt-circle-right" class="picker-icon fas fa-arrow-alt-circle-right" icon="icon fas fa-arrow-alt-circle-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrows-v' class='picker-icon fa fa-arrows-v' icon='icon fa fa-arrows-v'></i>
+	<i title="arrow-alt-circle-up" class="picker-icon fas fa-arrow-alt-circle-up" icon="icon fas fa-arrow-alt-circle-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='backward' class='picker-icon fa fa-backward' icon='icon fa fa-backward'></i>
+	<i title="arrow-circle-down" class="picker-icon fas fa-arrow-circle-down" icon="icon fas fa-arrow-circle-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='caret-down' class='picker-icon fa fa-caret-down' icon='icon fa fa-caret-down'></i>
+	<i title="arrow-circle-left" class="picker-icon fas fa-arrow-circle-left" icon="icon fas fa-arrow-circle-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='caret-left' class='picker-icon fa fa-caret-left' icon='icon fa fa-caret-left'></i>
+	<i title="arrow-circle-right" class="picker-icon fas fa-arrow-circle-right" icon="icon fas fa-arrow-circle-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='caret-right' class='picker-icon fa fa-caret-right' icon='icon fa fa-caret-right'></i>
+	<i title="arrow-circle-up" class="picker-icon fas fa-arrow-circle-up" icon="icon fas fa-arrow-circle-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='caret-square-o-down' class='picker-icon fa fa-caret-square-o-down' icon='icon fa fa-caret-square-o-down'></i>
+	<i title="arrow-down" class="picker-icon fas fa-arrow-down" icon="icon fas fa-arrow-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='caret-square-o-left' class='picker-icon fa fa-caret-square-o-left' icon='icon fa fa-caret-square-o-left'></i>
+	<i title="arrow-left" class="picker-icon fas fa-arrow-left" icon="icon fas fa-arrow-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='caret-square-o-right' class='picker-icon fa fa-caret-square-o-right' icon='icon fa fa-caret-square-o-right'></i>
+	<i title="arrow-right" class="picker-icon fas fa-arrow-right" icon="icon fas fa-arrow-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='caret-square-o-up' class='picker-icon fa fa-caret-square-o-up' icon='icon fa fa-caret-square-o-up'></i>
+	<i title="arrow-up" class="picker-icon fas fa-arrow-up" icon="icon fas fa-arrow-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='caret-up' class='picker-icon fa fa-caret-up' icon='icon fa fa-caret-up'></i>
+	<i title="arrows-alt" class="picker-icon fas fa-arrows-alt" icon="icon fas fa-arrows-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cart-arrow-down' class='picker-icon fa fa-cart-arrow-down' icon='icon fa fa-cart-arrow-down'></i>
+	<i title="arrows-alt-h" class="picker-icon fas fa-arrows-alt-h" icon="icon fas fa-arrows-alt-h"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='chevron-circle-down' class='picker-icon fa fa-chevron-circle-down' icon='icon fa fa-chevron-circle-down'></i>
+	<i title="arrows-alt-v" class="picker-icon fas fa-arrows-alt-v" icon="icon fas fa-arrows-alt-v"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='chevron-circle-left' class='picker-icon fa fa-chevron-circle-left' icon='icon fa fa-chevron-circle-left'></i>
+	<i title="assistive-listening-systems" class="picker-icon fas fa-assistive-listening-systems" icon="icon fas fa-assistive-listening-systems"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='chevron-circle-right' class='picker-icon fa fa-chevron-circle-right' icon='icon fa fa-chevron-circle-right'></i>
+	<i title="asterisk" class="picker-icon fas fa-asterisk" icon="icon fas fa-asterisk"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='chevron-circle-up' class='picker-icon fa fa-chevron-circle-up' icon='icon fa fa-chevron-circle-up'></i>
+	<i title="at" class="picker-icon fas fa-at" icon="icon fas fa-at"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='chevron-down' class='picker-icon fa fa-chevron-down' icon='icon fa fa-chevron-down'></i>
+	<i title="audio-description" class="picker-icon fas fa-audio-description" icon="icon fas fa-audio-description"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='chevron-left' class='picker-icon fa fa-chevron-left' icon='icon fa fa-chevron-left'></i>
+	<i title="backward" class="picker-icon fas fa-backward" icon="icon fas fa-backward"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='chevron-right' class='picker-icon fa fa-chevron-right' icon='icon fa fa-chevron-right'></i>
+	<i title="balance-scale" class="picker-icon fas fa-balance-scale" icon="icon fas fa-balance-scale"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='chevron-up' class='picker-icon fa fa-chevron-up' icon='icon fa fa-chevron-up'></i>
+	<i title="ban" class="picker-icon fas fa-ban" icon="icon fas fa-ban"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cloud-download' class='picker-icon fa fa-cloud-download' icon='icon fa fa-cloud-download'></i>
+	<i title="band-aid" class="picker-icon fas fa-band-aid" icon="icon fas fa-band-aid"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cloud-upload' class='picker-icon fa fa-cloud-upload' icon='icon fa fa-cloud-upload'></i>
+	<i title="barcode" class="picker-icon fas fa-barcode" icon="icon fas fa-barcode"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='compress' class='picker-icon fa fa-compress' icon='icon fa fa-compress'></i>
+	<i title="bars" class="picker-icon fas fa-bars" icon="icon fas fa-bars"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='download' class='picker-icon fa fa-download' icon='icon fa fa-download'></i>
+	<i title="baseball-ball" class="picker-icon fas fa-baseball-ball" icon="icon fas fa-baseball-ball"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='exchange' class='picker-icon fa fa-exchange' icon='icon fa fa-exchange'></i>
+	<i title="basketball-ball" class="picker-icon fas fa-basketball-ball" icon="icon fas fa-basketball-ball"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='expand' class='picker-icon fa fa-expand' icon='icon fa fa-expand'></i>
+	<i title="bath" class="picker-icon fas fa-bath" icon="icon fas fa-bath"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='external-link' class='picker-icon fa fa-external-link' icon='icon fa fa-external-link'></i>
+	<i title="battery-empty" class="picker-icon fas fa-battery-empty" icon="icon fas fa-battery-empty"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='external-link-square' class='picker-icon fa fa-external-link-square' icon='icon fa fa-external-link-square'></i>
+	<i title="battery-full" class="picker-icon fas fa-battery-full" icon="icon fas fa-battery-full"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='fast-backward' class='picker-icon fa fa-fast-backward' icon='icon fa fa-fast-backward'></i>
+	<i title="battery-half" class="picker-icon fas fa-battery-half" icon="icon fas fa-battery-half"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='fast-forward' class='picker-icon fa fa-fast-forward' icon='icon fa fa-fast-forward'></i>
+	<i title="battery-quarter" class="picker-icon fas fa-battery-quarter" icon="icon fas fa-battery-quarter"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='forward' class='picker-icon fa fa-forward' icon='icon fa fa-forward'></i>
+	<i title="battery-three-quarters" class="picker-icon fas fa-battery-three-quarters" icon="icon fas fa-battery-three-quarters"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hand-o-down' class='picker-icon fa fa-hand-o-down' icon='icon fa fa-hand-o-down'></i>
+	<i title="bed" class="picker-icon fas fa-bed" icon="icon fas fa-bed"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hand-o-left' class='picker-icon fa fa-hand-o-left' icon='icon fa fa-hand-o-left'></i>
+	<i title="beer" class="picker-icon fas fa-beer" icon="icon fas fa-beer"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hand-o-right' class='picker-icon fa fa-hand-o-right' icon='icon fa fa-hand-o-right'></i>
+	<i title="bell" class="picker-icon fas fa-bell" icon="icon fas fa-bell"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hand-o-up' class='picker-icon fa fa-hand-o-up' icon='icon fa fa-hand-o-up'></i>
+	<i title="bell-slash" class="picker-icon fas fa-bell-slash" icon="icon fas fa-bell-slash"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='history' class='picker-icon fa fa-history' icon='icon fa fa-history'></i>
+	<i title="bicycle" class="picker-icon fas fa-bicycle" icon="icon fas fa-bicycle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='level-down' class='picker-icon fa fa-level-down' icon='icon fa fa-level-down'></i>
+	<i title="binoculars" class="picker-icon fas fa-binoculars" icon="icon fas fa-binoculars"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='level-up' class='picker-icon fa fa-level-up' icon='icon fa fa-level-up'></i>
+	<i title="birthday-cake" class="picker-icon fas fa-birthday-cake" icon="icon fas fa-birthday-cake"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='location-arrow' class='picker-icon fa fa-location-arrow' icon='icon fa fa-location-arrow'></i>
+	<i title="blind" class="picker-icon fas fa-blind" icon="icon fas fa-blind"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='long-arrow-down' class='picker-icon fa fa-long-arrow-down' icon='icon fa fa-long-arrow-down'></i>
+	<i title="bold" class="picker-icon fas fa-bold" icon="icon fas fa-bold"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='long-arrow-left' class='picker-icon fa fa-long-arrow-left' icon='icon fa fa-long-arrow-left'></i>
+	<i title="bolt" class="picker-icon fas fa-bolt" icon="icon fas fa-bolt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='long-arrow-right' class='picker-icon fa fa-long-arrow-right' icon='icon fa fa-long-arrow-right'></i>
+	<i title="bomb" class="picker-icon fas fa-bomb" icon="icon fas fa-bomb"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='long-arrow-up' class='picker-icon fa fa-long-arrow-up' icon='icon fa fa-long-arrow-up'></i>
+	<i title="book" class="picker-icon fas fa-book" icon="icon fas fa-book"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mail-forward' class='picker-icon fa fa-mail-forward' icon='icon fa fa-mail-forward'></i>
+	<i title="bookmark" class="picker-icon fas fa-bookmark" icon="icon fas fa-bookmark"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mail-reply' class='picker-icon fa fa-mail-reply' icon='icon fa fa-mail-reply'></i>
+	<i title="bowling-ball" class="picker-icon fas fa-bowling-ball" icon="icon fas fa-bowling-ball"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mail-reply-all' class='picker-icon fa fa-mail-reply-all' icon='icon fa fa-mail-reply-all'></i>
+	<i title="box" class="picker-icon fas fa-box" icon="icon fas fa-box"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='play' class='picker-icon fa fa-play' icon='icon fa fa-play'></i>
+	<i title="box-open" class="picker-icon fas fa-box-open" icon="icon fas fa-box-open"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='random' class='picker-icon fa fa-random' icon='icon fa fa-random'></i>
+	<i title="boxes" class="picker-icon fas fa-boxes" icon="icon fas fa-boxes"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='recycle' class='picker-icon fa fa-recycle' icon='icon fa fa-recycle'></i>
+	<i title="braille" class="picker-icon fas fa-braille" icon="icon fas fa-braille"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='reply' class='picker-icon fa fa-reply' icon='icon fa fa-reply'></i>
+	<i title="briefcase" class="picker-icon fas fa-briefcase" icon="icon fas fa-briefcase"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='reply-all' class='picker-icon fa fa-reply-all' icon='icon fa fa-reply-all'></i>
+	<i title="briefcase-medical" class="picker-icon fas fa-briefcase-medical" icon="icon fas fa-briefcase-medical"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='retweet' class='picker-icon fa fa-retweet' icon='icon fa fa-retweet'></i>
+	<i title="bug" class="picker-icon fas fa-bug" icon="icon fas fa-bug"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='share' class='picker-icon fa fa-share' icon='icon fa fa-share'></i>
+	<i title="building" class="picker-icon fas fa-building" icon="icon fas fa-building"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='share-square' class='picker-icon fa fa-share-square' icon='icon fa fa-share-square'></i>
+	<i title="bullhorn" class="picker-icon fas fa-bullhorn" icon="icon fas fa-bullhorn"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='share-square-o' class='picker-icon fa fa-share-square-o' icon='icon fa fa-share-square-o'></i>
+	<i title="bullseye" class="picker-icon fas fa-bullseye" icon="icon fas fa-bullseye"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sign-in' class='picker-icon fa fa-sign-in' icon='icon fa fa-sign-in'></i>
+	<i title="burn" class="picker-icon fas fa-burn" icon="icon fas fa-burn"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sign-out' class='picker-icon fa fa-sign-out' icon='icon fa fa-sign-out'></i>
+	<i title="bus" class="picker-icon fas fa-bus" icon="icon fas fa-bus"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sort' class='picker-icon fa fa-sort' icon='icon fa fa-sort'></i>
+	<i title="calculator" class="picker-icon fas fa-calculator" icon="icon fas fa-calculator"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sort-alpha-asc' class='picker-icon fa fa-sort-alpha-asc' icon='icon fa fa-sort-alpha-asc'></i>
+	<i title="calendar" class="picker-icon fas fa-calendar" icon="icon fas fa-calendar"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sort-alpha-desc' class='picker-icon fa fa-sort-alpha-desc' icon='icon fa fa-sort-alpha-desc'></i>
+	<i title="calendar-alt" class="picker-icon fas fa-calendar-alt" icon="icon fas fa-calendar-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sort-amount-asc' class='picker-icon fa fa-sort-amount-asc' icon='icon fa fa-sort-amount-asc'></i>
+	<i title="calendar-check" class="picker-icon fas fa-calendar-check" icon="icon fas fa-calendar-check"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sort-amount-desc' class='picker-icon fa fa-sort-amount-desc' icon='icon fa fa-sort-amount-desc'></i>
+	<i title="calendar-minus" class="picker-icon fas fa-calendar-minus" icon="icon fas fa-calendar-minus"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sort-asc' class='picker-icon fa fa-sort-asc' icon='icon fa fa-sort-asc'></i>
+	<i title="calendar-plus" class="picker-icon fas fa-calendar-plus" icon="icon fas fa-calendar-plus"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sort-desc' class='picker-icon fa fa-sort-desc' icon='icon fa fa-sort-desc'></i>
+	<i title="calendar-times" class="picker-icon fas fa-calendar-times" icon="icon fas fa-calendar-times"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sort-down' class='picker-icon fa fa-sort-down' icon='icon fa fa-sort-down'></i>
+	<i title="camera" class="picker-icon fas fa-camera" icon="icon fas fa-camera"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sort-numeric-asc' class='picker-icon fa fa-sort-numeric-asc' icon='icon fa fa-sort-numeric-asc'></i>
+	<i title="camera-retro" class="picker-icon fas fa-camera-retro" icon="icon fas fa-camera-retro"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sort-numeric-desc' class='picker-icon fa fa-sort-numeric-desc' icon='icon fa fa-sort-numeric-desc'></i>
+	<i title="capsules" class="picker-icon fas fa-capsules" icon="icon fas fa-capsules"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sort-up' class='picker-icon fa fa-sort-up' icon='icon fa fa-sort-up'></i>
+	<i title="car" class="picker-icon fas fa-car" icon="icon fas fa-car"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='step-backward' class='picker-icon fa fa-step-backward' icon='icon fa fa-step-backward'></i>
+	<i title="caret-down" class="picker-icon fas fa-caret-down" icon="icon fas fa-caret-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='step-forward' class='picker-icon fa fa-step-forward' icon='icon fa fa-step-forward'></i>
+	<i title="caret-left" class="picker-icon fas fa-caret-left" icon="icon fas fa-caret-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='toggle-down' class='picker-icon fa fa-toggle-down' icon='icon fa fa-toggle-down'></i>
+	<i title="caret-right" class="picker-icon fas fa-caret-right" icon="icon fas fa-caret-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='toggle-left' class='picker-icon fa fa-toggle-left' icon='icon fa fa-toggle-left'></i>
+	<i title="caret-square-down" class="picker-icon fas fa-caret-square-down" icon="icon fas fa-caret-square-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='toggle-right' class='picker-icon fa fa-toggle-right' icon='icon fa fa-toggle-right'></i>
+	<i title="caret-square-left" class="picker-icon fas fa-caret-square-left" icon="icon fas fa-caret-square-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='toggle-up' class='picker-icon fa fa-toggle-up' icon='icon fa fa-toggle-up'></i>
+	<i title="caret-square-right" class="picker-icon fas fa-caret-square-right" icon="icon fas fa-caret-square-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='unsorted' class='picker-icon fa fa-unsorted' icon='icon fa fa-unsorted'></i>
+	<i title="caret-square-up" class="picker-icon fas fa-caret-square-up" icon="icon fas fa-caret-square-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='upload' class='picker-icon fa fa-upload' icon='icon fa fa-upload'></i>
+	<i title="caret-up" class="picker-icon fas fa-caret-up" icon="icon fas fa-caret-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='youtube-play' class='picker-icon fa fa-youtube-play' icon='icon fa fa-youtube-play'></i>
+	<i title="cart-arrow-down" class="picker-icon fas fa-cart-arrow-down" icon="icon fas fa-cart-arrow-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='ambulance' class='picker-icon fa fa-ambulance' icon='icon fa fa-ambulance'></i>
+	<i title="cart-plus" class="picker-icon fas fa-cart-plus" icon="icon fas fa-cart-plus"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='anchor' class='picker-icon fa fa-anchor' icon='icon fa fa-anchor'></i>
+	<i title="certificate" class="picker-icon fas fa-certificate" icon="icon fas fa-certificate"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='automobile' class='picker-icon fa fa-automobile' icon='icon fa fa-automobile'></i>
+	<i title="chart-area" class="picker-icon fas fa-chart-area" icon="icon fas fa-chart-area"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bed' class='picker-icon fa fa-bed' icon='icon fa fa-bed'></i>
+	<i title="chart-bar" class="picker-icon fas fa-chart-bar" icon="icon fas fa-chart-bar"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bicycle' class='picker-icon fa fa-bicycle' icon='icon fa fa-bicycle'></i>
+	<i title="chart-line" class="picker-icon fas fa-chart-line" icon="icon fas fa-chart-line"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='building' class='picker-icon fa fa-building' icon='icon fa fa-building'></i>
+	<i title="chart-pie" class="picker-icon fas fa-chart-pie" icon="icon fas fa-chart-pie"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='building-o' class='picker-icon fa fa-building-o' icon='icon fa fa-building-o'></i>
+	<i title="check" class="picker-icon fas fa-check" icon="icon fas fa-check"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bus' class='picker-icon fa fa-bus' icon='icon fa fa-bus'></i>
+	<i title="check-circle" class="picker-icon fas fa-check-circle" icon="icon fas fa-check-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cab' class='picker-icon fa fa-cab' icon='icon fa fa-cab'></i>
+	<i title="check-square" class="picker-icon fas fa-check-square" icon="icon fas fa-check-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='car' class='picker-icon fa fa-car' icon='icon fa fa-car'></i>
+	<i title="chess" class="picker-icon fas fa-chess" icon="icon fas fa-chess"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='compass' class='picker-icon fa fa-compass' icon='icon fa fa-compass'></i>
+	<i title="chess-bishop" class="picker-icon fas fa-chess-bishop" icon="icon fas fa-chess-bishop"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='dashboard' class='picker-icon fa fa-dashboard' icon='icon fa fa-dashboard'></i>
+	<i title="chess-board" class="picker-icon fas fa-chess-board" icon="icon fas fa-chess-board"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='fighter-jet' class='picker-icon fa fa-fighter-jet' icon='icon fa fa-fighter-jet'></i>
+	<i title="chess-king" class="picker-icon fas fa-chess-king" icon="icon fas fa-chess-king"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='globe' class='picker-icon fa fa-globe' icon='icon fa fa-globe'></i>
+	<i title="chess-knight" class="picker-icon fas fa-chess-knight" icon="icon fas fa-chess-knight"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='h-square' class='picker-icon fa fa-h-square' icon='icon fa fa-h-square'></i>
+	<i title="chess-pawn" class="picker-icon fas fa-chess-pawn" icon="icon fas fa-chess-pawn"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='home' class='picker-icon fa fa-home' icon='icon fa fa-home'></i>
+	<i title="chess-queen" class="picker-icon fas fa-chess-queen" icon="icon fas fa-chess-queen"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hotel' class='picker-icon fa fa-hotel' icon='icon fa fa-hotel'></i>
+	<i title="chess-rook" class="picker-icon fas fa-chess-rook" icon="icon fas fa-chess-rook"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='map-marker' class='picker-icon fa fa-map-marker' icon='icon fa fa-map-marker'></i>
+	<i title="chevron-circle-down" class="picker-icon fas fa-chevron-circle-down" icon="icon fas fa-chevron-circle-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='motorcycle' class='picker-icon fa fa-motorcycle' icon='icon fa fa-motorcycle'></i>
+	<i title="chevron-circle-left" class="picker-icon fas fa-chevron-circle-left" icon="icon fas fa-chevron-circle-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='plane' class='picker-icon fa fa-plane' icon='icon fa fa-plane'></i>
+	<i title="chevron-circle-right" class="picker-icon fas fa-chevron-circle-right" icon="icon fas fa-chevron-circle-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='road' class='picker-icon fa fa-road' icon='icon fa fa-road'></i>
+	<i title="chevron-circle-up" class="picker-icon fas fa-chevron-circle-up" icon="icon fas fa-chevron-circle-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='rocket' class='picker-icon fa fa-rocket' icon='icon fa fa-rocket'></i>
+	<i title="chevron-down" class="picker-icon fas fa-chevron-down" icon="icon fas fa-chevron-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='ship' class='picker-icon fa fa-ship' icon='icon fa fa-ship'></i>
+	<i title="chevron-left" class="picker-icon fas fa-chevron-left" icon="icon fas fa-chevron-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='shopping-cart' class='picker-icon fa fa-shopping-cart' icon='icon fa fa-shopping-cart'></i>
+	<i title="chevron-right" class="picker-icon fas fa-chevron-right" icon="icon fas fa-chevron-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='space-shuttle' class='picker-icon fa fa-space-shuttle' icon='icon fa fa-space-shuttle'></i>
+	<i title="chevron-up" class="picker-icon fas fa-chevron-up" icon="icon fas fa-chevron-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='street-view' class='picker-icon fa fa-street-view' icon='icon fa fa-street-view'></i>
+	<i title="child" class="picker-icon fas fa-child" icon="icon fas fa-child"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='subway' class='picker-icon fa fa-subway' icon='icon fa fa-subway'></i>
+	<i title="circle" class="picker-icon fas fa-circle" icon="icon fas fa-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='suitcase' class='picker-icon fa fa-suitcase' icon='icon fa fa-suitcase'></i>
+	<i title="circle-notch" class="picker-icon fas fa-circle-notch" icon="icon fas fa-circle-notch"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='tachometer' class='picker-icon fa fa-tachometer' icon='icon fa fa-tachometer'></i>
+	<i title="clipboard" class="picker-icon fas fa-clipboard" icon="icon fas fa-clipboard"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='taxi' class='picker-icon fa fa-taxi' icon='icon fa fa-taxi'></i>
+	<i title="clipboard-check" class="picker-icon fas fa-clipboard-check" icon="icon fas fa-clipboard-check"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='train' class='picker-icon fa fa-train' icon='icon fa fa-train'></i>
+	<i title="clipboard-list" class="picker-icon fas fa-clipboard-list" icon="icon fas fa-clipboard-list"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='truck' class='picker-icon fa fa-truck' icon='icon fa fa-truck'></i>
+	<i title="clock" class="picker-icon fas fa-clock" icon="icon fas fa-clock"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='wheelchair' class='picker-icon fa fa-wheelchair' icon='icon fa fa-wheelchair'></i>
+	<i title="clone" class="picker-icon fas fa-clone" icon="icon fas fa-clone"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='at' class='picker-icon fa fa-at' icon='icon fa fa-at'></i>
+	<i title="closed-captioning" class="picker-icon fas fa-closed-captioning" icon="icon fas fa-closed-captioning"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='comment' class='picker-icon fa fa-comment' icon='icon fa fa-comment'></i>
+	<i title="cloud" class="picker-icon fas fa-cloud" icon="icon fas fa-cloud"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='comment-o' class='picker-icon fa fa-comment-o' icon='icon fa fa-comment-o'></i>
+	<i title="cloud-download-alt" class="picker-icon fas fa-cloud-download-alt" icon="icon fas fa-cloud-download-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='comments' class='picker-icon fa fa-comments' icon='icon fa fa-comments'></i>
+	<i title="cloud-upload-alt" class="picker-icon fas fa-cloud-upload-alt" icon="icon fas fa-cloud-upload-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='comments-o' class='picker-icon fa fa-comments-o' icon='icon fa fa-comments-o'></i>
+	<i title="code" class="picker-icon fas fa-code" icon="icon fas fa-code"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='envelope' class='picker-icon fa fa-envelope' icon='icon fa fa-envelope'></i>
+	<i title="code-branch" class="picker-icon fas fa-code-branch" icon="icon fas fa-code-branch"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='envelope-o' class='picker-icon fa fa-envelope-o' icon='icon fa fa-envelope-o'></i>
+	<i title="coffee" class="picker-icon fas fa-coffee" icon="icon fas fa-coffee"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='envelope-square' class='picker-icon fa fa-envelope-square' icon='icon fa fa-envelope-square'></i>
+	<i title="cog" class="picker-icon fas fa-cog" icon="icon fas fa-cog"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='inbox' class='picker-icon fa fa-inbox' icon='icon fa fa-inbox'></i>
+	<i title="cogs" class="picker-icon fas fa-cogs" icon="icon fas fa-cogs"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mail-forward' class='picker-icon fa fa-mail-forward' icon='icon fa fa-mail-forward'></i>
+	<i title="columns" class="picker-icon fas fa-columns" icon="icon fas fa-columns"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mail-reply' class='picker-icon fa fa-mail-reply' icon='icon fa fa-mail-reply'></i>
+	<i title="comment" class="picker-icon fas fa-comment" icon="icon fas fa-comment"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mail-reply-all' class='picker-icon fa fa-mail-reply-all' icon='icon fa fa-mail-reply-all'></i>
+	<i title="comment-alt" class="picker-icon fas fa-comment-alt" icon="icon fas fa-comment-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='quote-left' class='picker-icon fa fa-quote-left' icon='icon fa fa-quote-left'></i>
+	<i title="comment-dots" class="picker-icon fas fa-comment-dots" icon="icon fas fa-comment-dots"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='quote-right' class='picker-icon fa fa-quote-right' icon='icon fa fa-quote-right'></i>
+	<i title="comment-slash" class="picker-icon fas fa-comment-slash" icon="icon fas fa-comment-slash"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='reply' class='picker-icon fa fa-reply' icon='icon fa fa-reply'></i>
+	<i title="comments" class="picker-icon fas fa-comments" icon="icon fas fa-comments"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='reply-all' class='picker-icon fa fa-reply-all' icon='icon fa fa-reply-all'></i>
+	<i title="compass" class="picker-icon fas fa-compass" icon="icon fas fa-compass"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='send' class='picker-icon fa fa-send' icon='icon fa fa-send'></i>
+	<i title="compress" class="picker-icon fas fa-compress" icon="icon fas fa-compress"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='send-o' class='picker-icon fa fa-send-o' icon='icon fa fa-send-o'></i>
+	<i title="copy" class="picker-icon fas fa-copy" icon="icon fas fa-copy"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='asterisk' class='picker-icon fa fa-asterisk' icon='icon fa fa-asterisk'></i>
+	<i title="copyright" class="picker-icon fas fa-copyright" icon="icon fas fa-copyright"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='star' class='picker-icon fa fa-star' icon='icon fa fa-star'></i>
+	<i title="couch" class="picker-icon fas fa-couch" icon="icon fas fa-couch"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='star-half' class='picker-icon fa fa-star-half' icon='icon fa fa-star-half'></i>
+	<i title="credit-card" class="picker-icon fas fa-credit-card" icon="icon fas fa-credit-card"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='star-half-empty' class='picker-icon fa fa-star-half-empty' icon='icon fa fa-star-half-empty'></i>
+	<i title="crop" class="picker-icon fas fa-crop" icon="icon fas fa-crop"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='star-half-full' class='picker-icon fa fa-star-half-full' icon='icon fa fa-star-half-full'></i>
+	<i title="crosshairs" class="picker-icon fas fa-crosshairs" icon="icon fas fa-crosshairs"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='star-half-o' class='picker-icon fa fa-star-half-o' icon='icon fa fa-star-half-o'></i>
+	<i title="cube" class="picker-icon fas fa-cube" icon="icon fas fa-cube"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='star-o' class='picker-icon fa fa-star-o' icon='icon fa fa-star-o'></i>
+	<i title="cubes" class="picker-icon fas fa-cubes" icon="icon fas fa-cubes"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='adjust' class='picker-icon fa fa-adjust' icon='icon fa fa-adjust'></i>
+	<i title="cut" class="picker-icon fas fa-cut" icon="icon fas fa-cut"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='crop' class='picker-icon fa fa-crop' icon='icon fa fa-crop'></i>
+	<i title="database" class="picker-icon fas fa-database" icon="icon fas fa-database"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='crosshairs' class='picker-icon fa fa-crosshairs' icon='icon fa fa-crosshairs'></i>
+	<i title="deaf" class="picker-icon fas fa-deaf" icon="icon fas fa-deaf"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='eyedropper' class='picker-icon fa fa-eyedropper' icon='icon fa fa-eyedropper'></i>
+	<i title="desktop" class="picker-icon fas fa-desktop" icon="icon fas fa-desktop"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='image' class='picker-icon fa fa-image' icon='icon fa fa-image'></i>
+	<i title="diagnoses" class="picker-icon fas fa-diagnoses" icon="icon fas fa-diagnoses"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='magic' class='picker-icon fa fa-magic' icon='icon fa fa-magic'></i>
+	<i title="dna" class="picker-icon fas fa-dna" icon="icon fas fa-dna"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='paint-brush' class='picker-icon fa fa-paint-brush' icon='icon fa fa-paint-brush'></i>
+	<i title="dollar-sign" class="picker-icon fas fa-dollar-sign" icon="icon fas fa-dollar-sign"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='pencil' class='picker-icon fa fa-pencil' icon='icon fa fa-pencil'></i>
+	<i title="dolly" class="picker-icon fas fa-dolly" icon="icon fas fa-dolly"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='pencil-square' class='picker-icon fa fa-pencil-square' icon='icon fa fa-pencil-square'></i>
+	<i title="dolly-flatbed" class="picker-icon fas fa-dolly-flatbed" icon="icon fas fa-dolly-flatbed"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='pencil-square-o' class='picker-icon fa fa-pencil-square-o' icon='icon fa fa-pencil-square-o'></i>
+	<i title="donate" class="picker-icon fas fa-donate" icon="icon fas fa-donate"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='photo' class='picker-icon fa fa-photo' icon='icon fa fa-photo'></i>
+	<i title="dot-circle" class="picker-icon fas fa-dot-circle" icon="icon fas fa-dot-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='picture-o' class='picker-icon fa fa-picture-o' icon='icon fa fa-picture-o'></i>
+	<i title="dove" class="picker-icon fas fa-dove" icon="icon fas fa-dove"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='qrcode' class='picker-icon fa fa-qrcode' icon='icon fa fa-qrcode'></i>
+	<i title="download" class="picker-icon fas fa-download" icon="icon fas fa-download"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='tint' class='picker-icon fa fa-tint' icon='icon fa fa-tint'></i>
+	<i title="edit" class="picker-icon fas fa-edit" icon="icon fas fa-edit"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='area-chart' class='picker-icon fa fa-area-chart' icon='icon fa fa-area-chart'></i>
+	<i title="eject" class="picker-icon fas fa-eject" icon="icon fas fa-eject"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bar-chart' class='picker-icon fa fa-bar-chart' icon='icon fa fa-bar-chart'></i>
+	<i title="ellipsis-h" class="picker-icon fas fa-ellipsis-h" icon="icon fas fa-ellipsis-h"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bar-chart-o' class='picker-icon fa fa-bar-chart-o' icon='icon fa fa-bar-chart-o'></i>
+	<i title="ellipsis-v" class="picker-icon fas fa-ellipsis-v" icon="icon fas fa-ellipsis-v"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='line-chart' class='picker-icon fa fa-line-chart' icon='icon fa fa-line-chart'></i>
+	<i title="envelope" class="picker-icon fas fa-envelope" icon="icon fas fa-envelope"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='pie-chart' class='picker-icon fa fa-pie-chart' icon='icon fa fa-pie-chart'></i>
+	<i title="envelope-open" class="picker-icon fas fa-envelope-open" icon="icon fas fa-envelope-open"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='angle-left' class='picker-icon fa fa-angle-left' icon='icon fa fa-angle-left'></i>
+	<i title="envelope-square" class="picker-icon fas fa-envelope-square" icon="icon fas fa-envelope-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='angle-right' class='picker-icon fa fa-angle-right' icon='icon fa fa-angle-right'></i>
+	<i title="eraser" class="picker-icon fas fa-eraser" icon="icon fas fa-eraser"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cogs' class='picker-icon fa fa-cogs' icon='icon fa fa-cogs'></i>
+	<i title="euro-sign" class="picker-icon fas fa-euro-sign" icon="icon fas fa-euro-sign"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='filter' class='picker-icon fa fa-filter' icon='icon fa fa-filter'></i>
+	<i title="exchange-alt" class="picker-icon fas fa-exchange-alt" icon="icon fas fa-exchange-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='gears' class='picker-icon fa fa-gears' icon='icon fa fa-gears'></i>
+	<i title="exclamation" class="picker-icon fas fa-exclamation" icon="icon fas fa-exclamation"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='plug' class='picker-icon fa fa-plug' icon='icon fa fa-plug'></i>
+	<i title="exclamation-circle" class="picker-icon fas fa-exclamation-circle" icon="icon fas fa-exclamation-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='power-off' class='picker-icon fa fa-power-off' icon='icon fa fa-power-off'></i>
+	<i title="exclamation-triangle" class="picker-icon fas fa-exclamation-triangle" icon="icon fas fa-exclamation-triangle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='refresh' class='picker-icon fa fa-refresh' icon='icon fa fa-refresh'></i>
+	<i title="expand" class="picker-icon fas fa-expand" icon="icon fas fa-expand"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sliders' class='picker-icon fa fa-sliders' icon='icon fa fa-sliders'></i>
+	<i title="expand-arrows-alt" class="picker-icon fas fa-expand-arrows-alt" icon="icon fas fa-expand-arrows-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='stop' class='picker-icon fa fa-stop' icon='icon fa fa-stop'></i>
+	<i title="external-link-alt" class="picker-icon fas fa-external-link-alt" icon="icon fas fa-external-link-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='toggle-off' class='picker-icon fa fa-toggle-off' icon='icon fa fa-toggle-off'></i>
+	<i title="external-link-square-alt" class="picker-icon fas fa-external-link-square-alt" icon="icon fas fa-external-link-square-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='toggle-on' class='picker-icon fa fa-toggle-on' icon='icon fa fa-toggle-on'></i>
+	<i title="eye" class="picker-icon fas fa-eye" icon="icon fas fa-eye"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='wrench' class='picker-icon fa fa-wrench' icon='icon fa fa-wrench'></i>
+	<i title="eye-dropper" class="picker-icon fas fa-eye-dropper" icon="icon fas fa-eye-dropper"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='birthday-cake' class='picker-icon fa fa-birthday-cake' icon='icon fa fa-birthday-cake'></i>
+	<i title="eye-slash" class="picker-icon fas fa-eye-slash" icon="icon fas fa-eye-slash"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='certificate' class='picker-icon fa fa-certificate' icon='icon fa fa-certificate'></i>
+	<i title="fast-backward" class="picker-icon fas fa-fast-backward" icon="icon fas fa-fast-backward"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='flag-checkered' class='picker-icon fa fa-flag-checkered' icon='icon fa fa-flag-checkered'></i>
+	<i title="fast-forward" class="picker-icon fas fa-fast-forward" icon="icon fas fa-fast-forward"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='futbol-o' class='picker-icon fa fa-futbol-o' icon='icon fa fa-futbol-o'></i>
+	<i title="fax" class="picker-icon fas fa-fax" icon="icon fas fa-fax"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='gift' class='picker-icon fa fa-gift' icon='icon fa fa-gift'></i>
+	<i title="female" class="picker-icon fas fa-female" icon="icon fas fa-female"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='graduation-cap' class='picker-icon fa fa-graduation-cap' icon='icon fa fa-graduation-cap'></i>
+	<i title="fighter-jet" class="picker-icon fas fa-fighter-jet" icon="icon fas fa-fighter-jet"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mortar-board' class='picker-icon fa fa-mortar-board' icon='icon fa fa-mortar-board'></i>
+	<i title="file" class="picker-icon fas fa-file" icon="icon fas fa-file"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='soccer-ball-o' class='picker-icon fa fa-soccer-ball-o' icon='icon fa fa-soccer-ball-o'></i>
+	<i title="file-alt" class="picker-icon fas fa-file-alt" icon="icon fas fa-file-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='tree' class='picker-icon fa fa-tree' icon='icon fa fa-tree'></i>
+	<i title="file-archive" class="picker-icon fas fa-file-archive" icon="icon fas fa-file-archive"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='trophy' class='picker-icon fa fa-trophy' icon='icon fa fa-trophy'></i>
+	<i title="file-audio" class="picker-icon fas fa-file-audio" icon="icon fas fa-file-audio"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='university' class='picker-icon fa fa-university' icon='icon fa fa-university'></i>
+	<i title="file-code" class="picker-icon fas fa-file-code" icon="icon fas fa-file-code"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='info' class='picker-icon fa fa-info' icon='icon fa fa-info'></i>
+	<i title="file-excel" class="picker-icon fas fa-file-excel" icon="icon fas fa-file-excel"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='info-circle' class='picker-icon fa fa-info-circle' icon='icon fa fa-info-circle'></i>
+	<i title="file-image" class="picker-icon fas fa-file-image" icon="icon fas fa-file-image"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='question' class='picker-icon fa fa-question' icon='icon fa fa-question'></i>
+	<i title="file-medical" class="picker-icon fas fa-file-medical" icon="icon fas fa-file-medical"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='question-circle' class='picker-icon fa fa-question-circle' icon='icon fa fa-question-circle'></i>
+	<i title="file-medical-alt" class="picker-icon fas fa-file-medical-alt" icon="icon fas fa-file-medical-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='flag' class='picker-icon fa fa-flag' icon='icon fa fa-flag'></i>
+	<i title="file-pdf" class="picker-icon fas fa-file-pdf" icon="icon fas fa-file-pdf"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='flag-checkered' class='picker-icon fa fa-flag-checkered' icon='icon fa fa-flag-checkered'></i>
+	<i title="file-powerpoint" class="picker-icon fas fa-file-powerpoint" icon="icon fas fa-file-powerpoint"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='flag-o' class='picker-icon fa fa-flag-o' icon='icon fa fa-flag-o'></i>
+	<i title="file-video" class="picker-icon fas fa-file-video" icon="icon fas fa-file-video"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='align-center' class='picker-icon fa fa-align-center' icon='icon fa fa-align-center'></i>
+	<i title="file-word" class="picker-icon fas fa-file-word" icon="icon fas fa-file-word"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='align-justify' class='picker-icon fa fa-align-justify' icon='icon fa fa-align-justify'></i>
+	<i title="film" class="picker-icon fas fa-film" icon="icon fas fa-film"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='align-left' class='picker-icon fa fa-align-left' icon='icon fa fa-align-left'></i>
+	<i title="filter" class="picker-icon fas fa-filter" icon="icon fas fa-filter"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='align-right' class='picker-icon fa fa-align-right' icon='icon fa fa-align-right'></i>
+	<i title="fire" class="picker-icon fas fa-fire" icon="icon fas fa-fire"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bold' class='picker-icon fa fa-bold' icon='icon fa fa-bold'></i>
+	<i title="fire-extinguisher" class="picker-icon fas fa-fire-extinguisher" icon="icon fas fa-fire-extinguisher"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='chain' class='picker-icon fa fa-chain' icon='icon fa fa-chain'></i>
+	<i title="first-aid" class="picker-icon fas fa-first-aid" icon="icon fas fa-first-aid"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='chain-broken' class='picker-icon fa fa-chain-broken' icon='icon fa fa-chain-broken'></i>
+	<i title="flag" class="picker-icon fas fa-flag" icon="icon fas fa-flag"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='clipboard' class='picker-icon fa fa-clipboard' icon='icon fa fa-clipboard'></i>
+	<i title="flag-checkered" class="picker-icon fas fa-flag-checkered" icon="icon fas fa-flag-checkered"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='columns' class='picker-icon fa fa-columns' icon='icon fa fa-columns'></i>
+	<i title="flask" class="picker-icon fas fa-flask" icon="icon fas fa-flask"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='copy' class='picker-icon fa fa-copy' icon='icon fa fa-copy'></i>
+	<i title="folder" class="picker-icon fas fa-folder" icon="icon fas fa-folder"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cut' class='picker-icon fa fa-cut' icon='icon fa fa-cut'></i>
+	<i title="folder-open" class="picker-icon fas fa-folder-open" icon="icon fas fa-folder-open"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='dedent' class='picker-icon fa fa-dedent' icon='icon fa fa-dedent'></i>
+	<i title="font" class="picker-icon fas fa-font" icon="icon fas fa-font"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='edit' class='picker-icon fa fa-edit' icon='icon fa fa-edit'></i>
+	<i title="football-ball" class="picker-icon fas fa-football-ball" icon="icon fas fa-football-ball"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='eraser' class='picker-icon fa fa-eraser' icon='icon fa fa-eraser'></i>
+	<i title="forward" class="picker-icon fas fa-forward" icon="icon fas fa-forward"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file' class='picker-icon fa fa-file' icon='icon fa fa-file'></i>
+	<i title="frown" class="picker-icon fas fa-frown" icon="icon fas fa-frown"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-o' class='picker-icon fa fa-file-o' icon='icon fa fa-file-o'></i>
+	<i title="futbol" class="picker-icon fas fa-futbol" icon="icon fas fa-futbol"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-text' class='picker-icon fa fa-file-text' icon='icon fa fa-file-text'></i>
+	<i title="gamepad" class="picker-icon fas fa-gamepad" icon="icon fas fa-gamepad"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-text-o' class='picker-icon fa fa-file-text-o' icon='icon fa fa-file-text-o'></i>
+	<i title="gavel" class="picker-icon fas fa-gavel" icon="icon fas fa-gavel"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='files-o' class='picker-icon fa fa-files-o' icon='icon fa fa-files-o'></i>
+	<i title="gem" class="picker-icon fas fa-gem" icon="icon fas fa-gem"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='floppy-o' class='picker-icon fa fa-floppy-o' icon='icon fa fa-floppy-o'></i>
+	<i title="genderless" class="picker-icon fas fa-genderless" icon="icon fas fa-genderless"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='font' class='picker-icon fa fa-font' icon='icon fa fa-font'></i>
+	<i title="gift" class="picker-icon fas fa-gift" icon="icon fas fa-gift"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='header' class='picker-icon fa fa-header' icon='icon fa fa-header'></i>
+	<i title="glass-martini" class="picker-icon fas fa-glass-martini" icon="icon fas fa-glass-martini"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='indent' class='picker-icon fa fa-indent' icon='icon fa fa-indent'></i>
+	<i title="globe" class="picker-icon fas fa-globe" icon="icon fas fa-globe"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='italic' class='picker-icon fa fa-italic' icon='icon fa fa-italic'></i>
+	<i title="golf-ball" class="picker-icon fas fa-golf-ball" icon="icon fas fa-golf-ball"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='link' class='picker-icon fa fa-link' icon='icon fa fa-link'></i>
+	<i title="graduation-cap" class="picker-icon fas fa-graduation-cap" icon="icon fas fa-graduation-cap"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='list' class='picker-icon fa fa-list' icon='icon fa fa-list'></i>
+	<i title="h-square" class="picker-icon fas fa-h-square" icon="icon fas fa-h-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='list-alt' class='picker-icon fa fa-list-alt' icon='icon fa fa-list-alt'></i>
+	<i title="hand-holding" class="picker-icon fas fa-hand-holding" icon="icon fas fa-hand-holding"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='list-ol' class='picker-icon fa fa-list-ol' icon='icon fa fa-list-ol'></i>
+	<i title="hand-holding-heart" class="picker-icon fas fa-hand-holding-heart" icon="icon fas fa-hand-holding-heart"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='list-ul' class='picker-icon fa fa-list-ul' icon='icon fa fa-list-ul'></i>
+	<i title="hand-holding-usd" class="picker-icon fas fa-hand-holding-usd" icon="icon fas fa-hand-holding-usd"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='outdent' class='picker-icon fa fa-outdent' icon='icon fa fa-outdent'></i>
+	<i title="hand-lizard" class="picker-icon fas fa-hand-lizard" icon="icon fas fa-hand-lizard"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='paperclip' class='picker-icon fa fa-paperclip' icon='icon fa fa-paperclip'></i>
+	<i title="hand-paper" class="picker-icon fas fa-hand-paper" icon="icon fas fa-hand-paper"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='paragraph' class='picker-icon fa fa-paragraph' icon='icon fa fa-paragraph'></i>
+	<i title="hand-peace" class="picker-icon fas fa-hand-peace" icon="icon fas fa-hand-peace"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='paste' class='picker-icon fa fa-paste' icon='icon fa fa-paste'></i>
+	<i title="hand-point-down" class="picker-icon fas fa-hand-point-down" icon="icon fas fa-hand-point-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='repeat' class='picker-icon fa fa-repeat' icon='icon fa fa-repeat'></i>
+	<i title="hand-point-left" class="picker-icon fas fa-hand-point-left" icon="icon fas fa-hand-point-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='rotate-left' class='picker-icon fa fa-rotate-left' icon='icon fa fa-rotate-left'></i>
+	<i title="hand-point-right" class="picker-icon fas fa-hand-point-right" icon="icon fas fa-hand-point-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='rotate-right' class='picker-icon fa fa-rotate-right' icon='icon fa fa-rotate-right'></i>
+	<i title="hand-point-up" class="picker-icon fas fa-hand-point-up" icon="icon fas fa-hand-point-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='save' class='picker-icon fa fa-save' icon='icon fa fa-save'></i>
+	<i title="hand-pointer" class="picker-icon fas fa-hand-pointer" icon="icon fas fa-hand-pointer"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='scissors' class='picker-icon fa fa-scissors' icon='icon fa fa-scissors'></i>
+	<i title="hand-rock" class="picker-icon fas fa-hand-rock" icon="icon fas fa-hand-rock"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='strikethrough' class='picker-icon fa fa-strikethrough' icon='icon fa fa-strikethrough'></i>
+	<i title="hand-scissors" class="picker-icon fas fa-hand-scissors" icon="icon fas fa-hand-scissors"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='subscript' class='picker-icon fa fa-subscript' icon='icon fa fa-subscript'></i>
+	<i title="hand-spock" class="picker-icon fas fa-hand-spock" icon="icon fas fa-hand-spock"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='superscript' class='picker-icon fa fa-superscript' icon='icon fa fa-superscript'></i>
+	<i title="hands" class="picker-icon fas fa-hands" icon="icon fas fa-hands"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='table' class='picker-icon fa fa-table' icon='icon fa fa-table'></i>
+	<i title="hands-helping" class="picker-icon fas fa-hands-helping" icon="icon fas fa-hands-helping"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='text-height' class='picker-icon fa fa-text-height' icon='icon fa fa-text-height'></i>
+	<i title="handshake" class="picker-icon fas fa-handshake" icon="icon fas fa-handshake"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='text-width' class='picker-icon fa fa-text-width' icon='icon fa fa-text-width'></i>
+	<i title="hashtag" class="picker-icon fas fa-hashtag" icon="icon fas fa-hashtag"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='th' class='picker-icon fa fa-th' icon='icon fa fa-th'></i>
+	<i title="hdd" class="picker-icon fas fa-hdd" icon="icon fas fa-hdd"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='th-large' class='picker-icon fa fa-th-large' icon='icon fa fa-th-large'></i>
+	<i title="heading" class="picker-icon fas fa-heading" icon="icon fas fa-heading"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='th-list' class='picker-icon fa fa-th-list' icon='icon fa fa-th-list'></i>
+	<i title="headphones" class="picker-icon fas fa-headphones" icon="icon fas fa-headphones"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='underline' class='picker-icon fa fa-underline' icon='icon fa fa-underline'></i>
+	<i title="heart" class="picker-icon fas fa-heart" icon="icon fas fa-heart"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='undo' class='picker-icon fa fa-undo' icon='icon fa fa-undo'></i>
+	<i title="heartbeat" class="picker-icon fas fa-heartbeat" icon="icon fas fa-heartbeat"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='unlink' class='picker-icon fa fa-unlink' icon='icon fa fa-unlink'></i>
+	<i title="history" class="picker-icon fas fa-history" icon="icon fas fa-history"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='check-square' class='picker-icon fa fa-check-square' icon='icon fa fa-check-square'></i>
+	<i title="hockey-puck" class="picker-icon fas fa-hockey-puck" icon="icon fas fa-hockey-puck"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='check-square-o' class='picker-icon fa fa-check-square-o' icon='icon fa fa-check-square-o'></i>
+	<i title="home" class="picker-icon fas fa-home" icon="icon fas fa-home"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='circle' class='picker-icon fa fa-circle' icon='icon fa fa-circle'></i>
+	<i title="hospital" class="picker-icon fas fa-hospital" icon="icon fas fa-hospital"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='circle-o' class='picker-icon fa fa-circle-o' icon='icon fa fa-circle-o'></i>
+	<i title="hospital-alt" class="picker-icon fas fa-hospital-alt" icon="icon fas fa-hospital-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='dot-circle-o' class='picker-icon fa fa-dot-circle-o' icon='icon fa fa-dot-circle-o'></i>
+	<i title="hospital-symbol" class="picker-icon fas fa-hospital-symbol" icon="icon fas fa-hospital-symbol"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='minus-square' class='picker-icon fa fa-minus-square' icon='icon fa fa-minus-square'></i>
+	<i title="hourglass" class="picker-icon fas fa-hourglass" icon="icon fas fa-hourglass"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='minus-square-o' class='picker-icon fa fa-minus-square-o' icon='icon fa fa-minus-square-o'></i>
+	<i title="hourglass-end" class="picker-icon fas fa-hourglass-end" icon="icon fas fa-hourglass-end"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='plus-square' class='picker-icon fa fa-plus-square' icon='icon fa fa-plus-square'></i>
+	<i title="hourglass-half" class="picker-icon fas fa-hourglass-half" icon="icon fas fa-hourglass-half"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='plus-square-o' class='picker-icon fa fa-plus-square-o' icon='icon fa fa-plus-square-o'></i>
+	<i title="hourglass-start" class="picker-icon fas fa-hourglass-start" icon="icon fas fa-hourglass-start"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='square' class='picker-icon fa fa-square' icon='icon fa fa-square'></i>
+	<i title="i-cursor" class="picker-icon fas fa-i-cursor" icon="icon fas fa-i-cursor"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='square-o' class='picker-icon fa fa-square-o' icon='icon fa fa-square-o'></i>
+	<i title="id-badge" class="picker-icon fas fa-id-badge" icon="icon fas fa-id-badge"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='arrows-alt' class='picker-icon fa fa-arrows-alt' icon='icon fa fa-arrows-alt'></i>
+	<i title="id-card" class="picker-icon fas fa-id-card" icon="icon fas fa-id-card"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='backward' class='picker-icon fa fa-backward' icon='icon fa fa-backward'></i>
+	<i title="id-card-alt" class="picker-icon fas fa-id-card-alt" icon="icon fas fa-id-card-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='compress' class='picker-icon fa fa-compress' icon='icon fa fa-compress'></i>
+	<i title="image" class="picker-icon fas fa-image" icon="icon fas fa-image"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='eject' class='picker-icon fa fa-eject' icon='icon fa fa-eject'></i>
+	<i title="images" class="picker-icon fas fa-images" icon="icon fas fa-images"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='expand' class='picker-icon fa fa-expand' icon='icon fa fa-expand'></i>
+	<i title="inbox" class="picker-icon fas fa-inbox" icon="icon fas fa-inbox"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='fast-backward' class='picker-icon fa fa-fast-backward' icon='icon fa fa-fast-backward'></i>
+	<i title="indent" class="picker-icon fas fa-indent" icon="icon fas fa-indent"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='fast-forward' class='picker-icon fa fa-fast-forward' icon='icon fa fa-fast-forward'></i>
+	<i title="industry" class="picker-icon fas fa-industry" icon="icon fas fa-industry"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='film' class='picker-icon fa fa-film' icon='icon fa fa-film'></i>
+	<i title="info" class="picker-icon fas fa-info" icon="icon fas fa-info"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='forward' class='picker-icon fa fa-forward' icon='icon fa fa-forward'></i>
+	<i title="info-circle" class="picker-icon fas fa-info-circle" icon="icon fas fa-info-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='headphones' class='picker-icon fa fa-headphones' icon='icon fa fa-headphones'></i>
+	<i title="italic" class="picker-icon fas fa-italic" icon="icon fas fa-italic"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='microphone' class='picker-icon fa fa-microphone' icon='icon fa fa-microphone'></i>
+	<i title="key" class="picker-icon fas fa-key" icon="icon fas fa-key"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='microphone-slash' class='picker-icon fa fa-microphone-slash' icon='icon fa fa-microphone-slash'></i>
+	<i title="keyboard" class="picker-icon fas fa-keyboard" icon="icon fas fa-keyboard"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='music' class='picker-icon fa fa-music' icon='icon fa fa-music'></i>
+	<i title="language" class="picker-icon fas fa-language" icon="icon fas fa-language"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='pause' class='picker-icon fa fa-pause' icon='icon fa fa-pause'></i>
+	<i title="laptop" class="picker-icon fas fa-laptop" icon="icon fas fa-laptop"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='play' class='picker-icon fa fa-play' icon='icon fa fa-play'></i>
+	<i title="leaf" class="picker-icon fas fa-leaf" icon="icon fas fa-leaf"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='play-circle' class='picker-icon fa fa-play-circle' icon='icon fa fa-play-circle'></i>
+	<i title="lemon" class="picker-icon fas fa-lemon" icon="icon fas fa-lemon"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='play-circle-o' class='picker-icon fa fa-play-circle-o' icon='icon fa fa-play-circle-o'></i>
+	<i title="level-down-alt" class="picker-icon fas fa-level-down-alt" icon="icon fas fa-level-down-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='step-backward' class='picker-icon fa fa-step-backward' icon='icon fa fa-step-backward'></i>
+	<i title="level-up-alt" class="picker-icon fas fa-level-up-alt" icon="icon fas fa-level-up-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='step-forward' class='picker-icon fa fa-step-forward' icon='icon fa fa-step-forward'></i>
+	<i title="life-ring" class="picker-icon fas fa-life-ring" icon="icon fas fa-life-ring"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='stop' class='picker-icon fa fa-stop' icon='icon fa fa-stop'></i>
+	<i title="lightbulb" class="picker-icon fas fa-lightbulb" icon="icon fas fa-lightbulb"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='ticket' class='picker-icon fa fa-ticket' icon='icon fa fa-ticket'></i>
+	<i title="link" class="picker-icon fas fa-link" icon="icon fas fa-link"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='video-camera' class='picker-icon fa fa-video-camera' icon='icon fa fa-video-camera'></i>
+	<i title="lira-sign" class="picker-icon fas fa-lira-sign" icon="icon fas fa-lira-sign"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='volume-down' class='picker-icon fa fa-volume-down' icon='icon fa fa-volume-down'></i>
+	<i title="list" class="picker-icon fas fa-list" icon="icon fas fa-list"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='volume-off' class='picker-icon fa fa-volume-off' icon='icon fa fa-volume-off'></i>
+	<i title="list-alt" class="picker-icon fas fa-list-alt" icon="icon fas fa-list-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='volume-up' class='picker-icon fa fa-volume-up' icon='icon fa fa-volume-up'></i>
+	<i title="list-ol" class="picker-icon fas fa-list-ol" icon="icon fas fa-list-ol"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='youtube-play' class='picker-icon fa fa-youtube-play' icon='icon fa fa-youtube-play'></i>
+	<i title="list-ul" class="picker-icon fas fa-list-ul" icon="icon fas fa-list-ul"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='minus' class='picker-icon fa fa-minus' icon='icon fa fa-minus'></i>
+	<i title="location-arrow" class="picker-icon fas fa-location-arrow" icon="icon fas fa-location-arrow"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='minus-circle' class='picker-icon fa fa-minus-circle' icon='icon fa fa-minus-circle'></i>
+	<i title="lock" class="picker-icon fas fa-lock" icon="icon fas fa-lock"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='plus' class='picker-icon fa fa-plus' icon='icon fa fa-plus'></i>
+	<i title="lock-open" class="picker-icon fas fa-lock-open" icon="icon fas fa-lock-open"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='plus-circle' class='picker-icon fa fa-plus-circle' icon='icon fa fa-plus-circle'></i>
+	<i title="long-arrow-alt-down" class="picker-icon fas fa-long-arrow-alt-down" icon="icon fas fa-long-arrow-alt-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='times' class='picker-icon fa fa-times' icon='icon fa fa-times'></i>
+	<i title="long-arrow-alt-left" class="picker-icon fas fa-long-arrow-alt-left" icon="icon fas fa-long-arrow-alt-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='times-circle' class='picker-icon fa fa-times-circle' icon='icon fa fa-times-circle'></i>
+	<i title="long-arrow-alt-right" class="picker-icon fas fa-long-arrow-alt-right" icon="icon fas fa-long-arrow-alt-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='times-circle-o' class='picker-icon fa fa-times-circle-o' icon='icon fa fa-times-circle-o'></i>
+	<i title="long-arrow-alt-up" class="picker-icon fas fa-long-arrow-alt-up" icon="icon fas fa-long-arrow-alt-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='calculator' class='picker-icon fa fa-calculator' icon='icon fa fa-calculator'></i>
+	<i title="low-vision" class="picker-icon fas fa-low-vision" icon="icon fas fa-low-vision"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='camera' class='picker-icon fa fa-camera' icon='icon fa fa-camera'></i>
+	<i title="magic" class="picker-icon fas fa-magic" icon="icon fas fa-magic"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='camera-retro' class='picker-icon fa fa-camera-retro' icon='icon fa fa-camera-retro'></i>
+	<i title="magnet" class="picker-icon fas fa-magnet" icon="icon fas fa-magnet"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cloud' class='picker-icon fa fa-cloud' icon='icon fa fa-cloud'></i>
+	<i title="male" class="picker-icon fas fa-male" icon="icon fas fa-male"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cloud-download' class='picker-icon fa fa-cloud-download' icon='icon fa fa-cloud-download'></i>
+	<i title="map" class="picker-icon fas fa-map" icon="icon fas fa-map"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cloud-upload' class='picker-icon fa fa-cloud-upload' icon='icon fa fa-cloud-upload'></i>
+	<i title="map-marker" class="picker-icon fas fa-map-marker" icon="icon fas fa-map-marker"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='code' class='picker-icon fa fa-code' icon='icon fa fa-code'></i>
+	<i title="map-marker-alt" class="picker-icon fas fa-map-marker-alt" icon="icon fas fa-map-marker-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='code-fork' class='picker-icon fa fa-code-fork' icon='icon fa fa-code-fork'></i>
+	<i title="map-pin" class="picker-icon fas fa-map-pin" icon="icon fas fa-map-pin"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='database' class='picker-icon fa fa-database' icon='icon fa fa-database'></i>
+	<i title="map-signs" class="picker-icon fas fa-map-signs" icon="icon fas fa-map-signs"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='desktop' class='picker-icon fa fa-desktop' icon='icon fa fa-desktop'></i>
+	<i title="mars" class="picker-icon fas fa-mars" icon="icon fas fa-mars"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='download' class='picker-icon fa fa-download' icon='icon fa fa-download'></i>
+	<i title="mars-double" class="picker-icon fas fa-mars-double" icon="icon fas fa-mars-double"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='fax' class='picker-icon fa fa-fax' icon='icon fa fa-fax'></i>
+	<i title="mars-stroke" class="picker-icon fas fa-mars-stroke" icon="icon fas fa-mars-stroke"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='gamepad' class='picker-icon fa fa-gamepad' icon='icon fa fa-gamepad'></i>
+	<i title="mars-stroke-h" class="picker-icon fas fa-mars-stroke-h" icon="icon fas fa-mars-stroke-h"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hdd-o' class='picker-icon fa fa-hdd-o' icon='icon fa fa-hdd-o'></i>
+	<i title="mars-stroke-v" class="picker-icon fas fa-mars-stroke-v" icon="icon fas fa-mars-stroke-v"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='keyboard-o' class='picker-icon fa fa-keyboard-o' icon='icon fa fa-keyboard-o'></i>
+	<i title="medkit" class="picker-icon fas fa-medkit" icon="icon fas fa-medkit"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='laptop' class='picker-icon fa fa-laptop' icon='icon fa fa-laptop'></i>
+	<i title="meh" class="picker-icon fas fa-meh" icon="icon fas fa-meh"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mobile' class='picker-icon fa fa-mobile' icon='icon fa fa-mobile'></i>
+	<i title="mercury" class="picker-icon fas fa-mercury" icon="icon fas fa-mercury"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mobile-phone' class='picker-icon fa fa-mobile-phone' icon='icon fa fa-mobile-phone'></i>
+	<i title="microchip" class="picker-icon fas fa-microchip" icon="icon fas fa-microchip"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='phone' class='picker-icon fa fa-phone' icon='icon fa fa-phone'></i>
+	<i title="microphone" class="picker-icon fas fa-microphone" icon="icon fas fa-microphone"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='phone-square' class='picker-icon fa fa-phone-square' icon='icon fa fa-phone-square'></i>
+	<i title="microphone-slash" class="picker-icon fas fa-microphone-slash" icon="icon fas fa-microphone-slash"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='print' class='picker-icon fa fa-print' icon='icon fa fa-print'></i>
+	<i title="minus" class="picker-icon fas fa-minus" icon="icon fas fa-minus"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='qrcode' class='picker-icon fa fa-qrcode' icon='icon fa fa-qrcode'></i>
+	<i title="minus-circle" class="picker-icon fas fa-minus-circle" icon="icon fas fa-minus-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='rss' class='picker-icon fa fa-rss' icon='icon fa fa-rss'></i>
+	<i title="minus-square" class="picker-icon fas fa-minus-square" icon="icon fas fa-minus-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='rss-square' class='picker-icon fa fa-rss-square' icon='icon fa fa-rss-square'></i>
+	<i title="mobile" class="picker-icon fas fa-mobile" icon="icon fas fa-mobile"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='server' class='picker-icon fa fa-server' icon='icon fa fa-server'></i>
+	<i title="mobile-alt" class="picker-icon fas fa-mobile-alt" icon="icon fas fa-mobile-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='signal' class='picker-icon fa fa-signal' icon='icon fa fa-signal'></i>
+	<i title="money-bill-alt" class="picker-icon fas fa-money-bill-alt" icon="icon fas fa-money-bill-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='tablet' class='picker-icon fa fa-tablet' icon='icon fa fa-tablet'></i>
+	<i title="moon" class="picker-icon fas fa-moon" icon="icon fas fa-moon"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='television' class='picker-icon fa fa-television' icon='icon fa fa-television'></i>
+	<i title="motorcycle" class="picker-icon fas fa-motorcycle" icon="icon fas fa-motorcycle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='terminal' class='picker-icon fa fa-terminal' icon='icon fa fa-terminal'></i>
+	<i title="mouse-pointer" class="picker-icon fas fa-mouse-pointer" icon="icon fas fa-mouse-pointer"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='tty' class='picker-icon fa fa-tty' icon='icon fa fa-tty'></i>
+	<i title="music" class="picker-icon fas fa-music" icon="icon fas fa-music"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='tv' class='picker-icon fa fa-tv' icon='icon fa fa-tv'></i>
+	<i title="neuter" class="picker-icon fas fa-neuter" icon="icon fas fa-neuter"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='upload' class='picker-icon fa fa-upload' icon='icon fa fa-upload'></i>
+	<i title="newspaper" class="picker-icon fas fa-newspaper" icon="icon fas fa-newspaper"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='wifi' class='picker-icon fa fa-wifi' icon='icon fa fa-wifi'></i>
+	<i title="notes-medical" class="picker-icon fas fa-notes-medical" icon="icon fas fa-notes-medical"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='chrome' class='picker-icon fa fa-chrome' icon='icon fa fa-chrome'></i>
+	<i title="object-group" class="picker-icon fas fa-object-group" icon="icon fas fa-object-group"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='firefox' class='picker-icon fa fa-firefox' icon='icon fa fa-firefox'></i>
+	<i title="object-ungroup" class="picker-icon fas fa-object-ungroup" icon="icon fas fa-object-ungroup"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='internet-explorer' class='picker-icon fa fa-internet-explorer' icon='icon fa fa-internet-explorer'></i>
+	<i title="outdent" class="picker-icon fas fa-outdent" icon="icon fas fa-outdent"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='opera' class='picker-icon fa fa-opera' icon='icon fa fa-opera'></i>
+	<i title="paint-brush" class="picker-icon fas fa-paint-brush" icon="icon fas fa-paint-brush"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='safari' class='picker-icon fa fa-safari' icon='icon fa fa-safari'></i>
+	<i title="pallet" class="picker-icon fas fa-pallet" icon="icon fas fa-pallet"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='beer' class='picker-icon fa fa-beer' icon='icon fa fa-beer'></i>
+	<i title="paper-plane" class="picker-icon fas fa-paper-plane" icon="icon fas fa-paper-plane"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='birthday-cake' class='picker-icon fa fa-birthday-cake' icon='icon fa fa-birthday-cake'></i>
+	<i title="paperclip" class="picker-icon fas fa-paperclip" icon="icon fas fa-paperclip"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='coffee' class='picker-icon fa fa-coffee' icon='icon fa fa-coffee'></i>
+	<i title="parachute-box" class="picker-icon fas fa-parachute-box" icon="icon fas fa-parachute-box"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cutlery' class='picker-icon fa fa-cutlery' icon='icon fa fa-cutlery'></i>
+	<i title="paragraph" class="picker-icon fas fa-paragraph" icon="icon fas fa-paragraph"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='glass' class='picker-icon fa fa-glass' icon='icon fa fa-glass'></i>
+	<i title="paste" class="picker-icon fas fa-paste" icon="icon fas fa-paste"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='lemon-o' class='picker-icon fa fa-lemon-o' icon='icon fa fa-lemon-o'></i>
+	<i title="pause" class="picker-icon fas fa-pause" icon="icon fas fa-pause"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='spoon' class='picker-icon fa fa-spoon' icon='icon fa fa-spoon'></i>
+	<i title="pause-circle" class="picker-icon fas fa-pause-circle" icon="icon fas fa-pause-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bug' class='picker-icon fa fa-bug' icon='icon fa fa-bug'></i>
+	<i title="paw" class="picker-icon fas fa-paw" icon="icon fas fa-paw"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='globe' class='picker-icon fa fa-globe' icon='icon fa fa-globe'></i>
+	<i title="pen-square" class="picker-icon fas fa-pen-square" icon="icon fas fa-pen-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='leaf' class='picker-icon fa fa-leaf' icon='icon fa fa-leaf'></i>
+	<i title="pencil-alt" class="picker-icon fas fa-pencil-alt" icon="icon fas fa-pencil-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='lemon-o' class='picker-icon fa fa-lemon-o' icon='icon fa fa-lemon-o'></i>
+	<i title="people-carry" class="picker-icon fas fa-people-carry" icon="icon fas fa-people-carry"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='paw' class='picker-icon fa fa-paw' icon='icon fa fa-paw'></i>
+	<i title="percent" class="picker-icon fas fa-percent" icon="icon fas fa-percent"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='tree' class='picker-icon fa fa-tree' icon='icon fa fa-tree'></i>
+	<i title="phone" class="picker-icon fas fa-phone" icon="icon fas fa-phone"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bolt' class='picker-icon fa fa-bolt' icon='icon fa fa-bolt'></i>
+	<i title="phone-slash" class="picker-icon fas fa-phone-slash" icon="icon fas fa-phone-slash"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cloud' class='picker-icon fa fa-cloud' icon='icon fa fa-cloud'></i>
+	<i title="phone-square" class="picker-icon fas fa-phone-square" icon="icon fas fa-phone-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='flash' class='picker-icon fa fa-flash' icon='icon fa fa-flash'></i>
+	<i title="phone-volume" class="picker-icon fas fa-phone-volume" icon="icon fas fa-phone-volume"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='moon-o' class='picker-icon fa fa-moon-o' icon='icon fa fa-moon-o'></i>
+	<i title="piggy-bank" class="picker-icon fas fa-piggy-bank" icon="icon fas fa-piggy-bank"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sun-o' class='picker-icon fa fa-sun-o' icon='icon fa fa-sun-o'></i>
+	<i title="pills" class="picker-icon fas fa-pills" icon="icon fas fa-pills"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='umbrella' class='picker-icon fa fa-umbrella' icon='icon fa fa-umbrella'></i>
+	<i title="plane" class="picker-icon fas fa-plane" icon="icon fas fa-plane"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='ambulance' class='picker-icon fa fa-ambulance' icon='icon fa fa-ambulance'></i>
+	<i title="play" class="picker-icon fas fa-play" icon="icon fas fa-play"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bullhorn' class='picker-icon fa fa-bullhorn' icon='icon fa fa-bullhorn'></i>
+	<i title="play-circle" class="picker-icon fas fa-play-circle" icon="icon fas fa-play-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='exclamation' class='picker-icon fa fa-exclamation' icon='icon fa fa-exclamation'></i>
+	<i title="plug" class="picker-icon fas fa-plug" icon="icon fas fa-plug"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='exclamation-circle' class='picker-icon fa fa-exclamation-circle' icon='icon fa fa-exclamation-circle'></i>
+	<i title="plus" class="picker-icon fas fa-plus" icon="icon fas fa-plus"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='exclamation-triangle' class='picker-icon fa fa-exclamation-triangle' icon='icon fa fa-exclamation-triangle'></i>
+	<i title="plus-circle" class="picker-icon fas fa-plus-circle" icon="icon fas fa-plus-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='fire' class='picker-icon fa fa-fire' icon='icon fa fa-fire'></i>
+	<i title="plus-square" class="picker-icon fas fa-plus-square" icon="icon fas fa-plus-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='fire-extinguisher' class='picker-icon fa fa-fire-extinguisher' icon='icon fa fa-fire-extinguisher'></i>
+	<i title="podcast" class="picker-icon fas fa-podcast" icon="icon fas fa-podcast"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='heartbeat' class='picker-icon fa fa-heartbeat' icon='icon fa fa-heartbeat'></i>
+	<i title="poo" class="picker-icon fas fa-poo" icon="icon fas fa-poo"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hospital-o' class='picker-icon fa fa-hospital-o' icon='icon fa fa-hospital-o'></i>
+	<i title="pound-sign" class="picker-icon fas fa-pound-sign" icon="icon fas fa-pound-sign"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='life-bouy' class='picker-icon fa fa-life-bouy' icon='icon fa fa-life-bouy'></i>
+	<i title="power-off" class="picker-icon fas fa-power-off" icon="icon fas fa-power-off"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='life-buoy' class='picker-icon fa fa-life-buoy' icon='icon fa fa-life-buoy'></i>
+	<i title="prescription-bottle" class="picker-icon fas fa-prescription-bottle" icon="icon fas fa-prescription-bottle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='life-ring' class='picker-icon fa fa-life-ring' icon='icon fa fa-life-ring'></i>
+	<i title="prescription-bottle-alt" class="picker-icon fas fa-prescription-bottle-alt" icon="icon fas fa-prescription-bottle-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='life-saver' class='picker-icon fa fa-life-saver' icon='icon fa fa-life-saver'></i>
+	<i title="print" class="picker-icon fas fa-print" icon="icon fas fa-print"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='medkit' class='picker-icon fa fa-medkit' icon='icon fa fa-medkit'></i>
+	<i title="procedures" class="picker-icon fas fa-procedures" icon="icon fas fa-procedures"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='stethoscope' class='picker-icon fa fa-stethoscope' icon='icon fa fa-stethoscope'></i>
+	<i title="puzzle-piece" class="picker-icon fas fa-puzzle-piece" icon="icon fas fa-puzzle-piece"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='support' class='picker-icon fa fa-support' icon='icon fa fa-support'></i>
+	<i title="qrcode" class="picker-icon fas fa-qrcode" icon="icon fas fa-qrcode"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='warning' class='picker-icon fa fa-warning' icon='icon fa fa-warning'></i>
+	<i title="question" class="picker-icon fas fa-question" icon="icon fas fa-question"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='ban' class='picker-icon fa fa-ban' icon='icon fa fa-ban'></i>
+	<i title="question-circle" class="picker-icon fas fa-question-circle" icon="icon fas fa-question-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bell' class='picker-icon fa fa-bell' icon='icon fa fa-bell'></i>
+	<i title="quidditch" class="picker-icon fas fa-quidditch" icon="icon fas fa-quidditch"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bell-o' class='picker-icon fa fa-bell-o' icon='icon fa fa-bell-o'></i>
+	<i title="quote-left" class="picker-icon fas fa-quote-left" icon="icon fas fa-quote-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bell-slash' class='picker-icon fa fa-bell-slash' icon='icon fa fa-bell-slash'></i>
+	<i title="quote-right" class="picker-icon fas fa-quote-right" icon="icon fas fa-quote-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bell-slash-o' class='picker-icon fa fa-bell-slash-o' icon='icon fa fa-bell-slash-o'></i>
+	<i title="random" class="picker-icon fas fa-random" icon="icon fas fa-random"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bomb' class='picker-icon fa fa-bomb' icon='icon fa fa-bomb'></i>
+	<i title="recycle" class="picker-icon fas fa-recycle" icon="icon fas fa-recycle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='exclamation' class='picker-icon fa fa-exclamation' icon='icon fa fa-exclamation'></i>
+	<i title="redo" class="picker-icon fas fa-redo" icon="icon fas fa-redo"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='exclamation-circle' class='picker-icon fa fa-exclamation-circle' icon='icon fa fa-exclamation-circle'></i>
+	<i title="redo-alt" class="picker-icon fas fa-redo-alt" icon="icon fas fa-redo-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='exclamation-triangle' class='picker-icon fa fa-exclamation-triangle' icon='icon fa fa-exclamation-triangle'></i>
+	<i title="registered" class="picker-icon fas fa-registered" icon="icon fas fa-registered"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='key' class='picker-icon fa fa-key' icon='icon fa fa-key'></i>
+	<i title="reply" class="picker-icon fas fa-reply" icon="icon fas fa-reply"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='lock' class='picker-icon fa fa-lock' icon='icon fa fa-lock'></i>
+	<i title="reply-all" class="picker-icon fas fa-reply-all" icon="icon fas fa-reply-all"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='shield' class='picker-icon fa fa-shield' icon='icon fa fa-shield'></i>
+	<i title="retweet" class="picker-icon fas fa-retweet" icon="icon fas fa-retweet"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='unlock' class='picker-icon fa fa-unlock' icon='icon fa fa-unlock'></i>
+	<i title="ribbon" class="picker-icon fas fa-ribbon" icon="icon fas fa-ribbon"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='unlock-alt' class='picker-icon fa fa-unlock-alt' icon='icon fa fa-unlock-alt'></i>
+	<i title="road" class="picker-icon fas fa-road" icon="icon fas fa-road"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='warning' class='picker-icon fa fa-warning' icon='icon fa fa-warning'></i>
+	<i title="rocket" class="picker-icon fas fa-rocket" icon="icon fas fa-rocket"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='archive' class='picker-icon fa fa-archive' icon='icon fa fa-archive'></i>
+	<i title="rss" class="picker-icon fas fa-rss" icon="icon fas fa-rss"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='barcode' class='picker-icon fa fa-barcode' icon='icon fa fa-barcode'></i>
+	<i title="rss-square" class="picker-icon fas fa-rss-square" icon="icon fas fa-rss-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='calendar' class='picker-icon fa fa-calendar' icon='icon fa fa-calendar'></i>
+	<i title="ruble-sign" class="picker-icon fas fa-ruble-sign" icon="icon fas fa-ruble-sign"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='calendar-o' class='picker-icon fa fa-calendar-o' icon='icon fa fa-calendar-o'></i>
+	<i title="rupee-sign" class="picker-icon fas fa-rupee-sign" icon="icon fas fa-rupee-sign"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='folder' class='picker-icon fa fa-folder' icon='icon fa fa-folder'></i>
+	<i title="save" class="picker-icon fas fa-save" icon="icon fas fa-save"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='folder-o' class='picker-icon fa fa-folder-o' icon='icon fa fa-folder-o'></i>
+	<i title="search" class="picker-icon fas fa-search" icon="icon fas fa-search"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='folder-open' class='picker-icon fa fa-folder-open' icon='icon fa fa-folder-open'></i>
+	<i title="search-minus" class="picker-icon fas fa-search-minus" icon="icon fas fa-search-minus"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='folder-open-o' class='picker-icon fa fa-folder-open-o' icon='icon fa fa-folder-open-o'></i>
+	<i title="search-plus" class="picker-icon fas fa-search-plus" icon="icon fas fa-search-plus"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='remove' class='picker-icon fa fa-remove' icon='icon fa fa-remove'></i>
+	<i title="seedling" class="picker-icon fas fa-seedling" icon="icon fas fa-seedling"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='reorder' class='picker-icon fa fa-reorder' icon='icon fa fa-reorder'></i>
+	<i title="server" class="picker-icon fas fa-server" icon="icon fas fa-server"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='search' class='picker-icon fa fa-search' icon='icon fa fa-search'></i>
+	<i title="share" class="picker-icon fas fa-share" icon="icon fas fa-share"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='search-minus' class='picker-icon fa fa-search-minus' icon='icon fa fa-search-minus'></i>
+	<i title="share-alt" class="picker-icon fas fa-share-alt" icon="icon fas fa-share-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='search-plus' class='picker-icon fa fa-search-plus' icon='icon fa fa-search-plus'></i>
+	<i title="share-alt-square" class="picker-icon fas fa-share-alt-square" icon="icon fas fa-share-alt-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sitemap' class='picker-icon fa fa-sitemap' icon='icon fa fa-sitemap'></i>
+	<i title="share-square" class="picker-icon fas fa-share-square" icon="icon fas fa-share-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='tag' class='picker-icon fa fa-tag' icon='icon fa fa-tag'></i>
+	<i title="shekel-sign" class="picker-icon fas fa-shekel-sign" icon="icon fas fa-shekel-sign"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='tags' class='picker-icon fa fa-tags' icon='icon fa fa-tags'></i>
+	<i title="shield-alt" class="picker-icon fas fa-shield-alt" icon="icon fas fa-shield-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='tasks' class='picker-icon fa fa-tasks' icon='icon fa fa-tasks'></i>
+	<i title="ship" class="picker-icon fas fa-ship" icon="icon fas fa-ship"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thumb-tack' class='picker-icon fa fa-thumb-tack' icon='icon fa fa-thumb-tack'></i>
+	<i title="shipping-fast" class="picker-icon fas fa-shipping-fast" icon="icon fas fa-shipping-fast"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='trash' class='picker-icon fa fa-trash' icon='icon fa fa-trash'></i>
+	<i title="shopping-bag" class="picker-icon fas fa-shopping-bag" icon="icon fas fa-shopping-bag"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='trash-o' class='picker-icon fa fa-trash-o' icon='icon fa fa-trash-o'></i>
+	<i title="shopping-basket" class="picker-icon fas fa-shopping-basket" icon="icon fas fa-shopping-basket"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='book' class='picker-icon fa fa-book' icon='icon fa fa-book'></i>
+	<i title="shopping-cart" class="picker-icon fas fa-shopping-cart" icon="icon fas fa-shopping-cart"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cube' class='picker-icon fa fa-cube' icon='icon fa fa-cube'></i>
+	<i title="shower" class="picker-icon fas fa-shower" icon="icon fas fa-shower"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cubes' class='picker-icon fa fa-cubes' icon='icon fa fa-cubes'></i>
+	<i title="sign" class="picker-icon fas fa-sign" icon="icon fas fa-sign"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='language' class='picker-icon fa fa-language' icon='icon fa fa-language'></i>
+	<i title="sign-in-alt" class="picker-icon fas fa-sign-in-alt" icon="icon fas fa-sign-in-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='paper-plane' class='picker-icon fa fa-paper-plane' icon='icon fa fa-paper-plane'></i>
+	<i title="sign-language" class="picker-icon fas fa-sign-language" icon="icon fas fa-sign-language"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='paper-plane-o' class='picker-icon fa fa-paper-plane-o' icon='icon fa fa-paper-plane-o'></i>
+	<i title="sign-out-alt" class="picker-icon fas fa-sign-out-alt" icon="icon fas fa-sign-out-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='battery-0' class='picker-icon fa fa-battery-0' icon='icon fa fa-battery-0'></i>
+	<i title="signal" class="picker-icon fas fa-signal" icon="icon fas fa-signal"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='battery-1' class='picker-icon fa fa-battery-1' icon='icon fa fa-battery-1'></i>
+	<i title="sitemap" class="picker-icon fas fa-sitemap" icon="icon fas fa-sitemap"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='battery-2' class='picker-icon fa fa-battery-2' icon='icon fa fa-battery-2'></i>
+	<i title="sliders-h" class="picker-icon fas fa-sliders-h" icon="icon fas fa-sliders-h"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='battery-3' class='picker-icon fa fa-battery-3' icon='icon fa fa-battery-3'></i>
+	<i title="smile" class="picker-icon fas fa-smile" icon="icon fas fa-smile"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='battery-4' class='picker-icon fa fa-battery-4' icon='icon fa fa-battery-4'></i>
+	<i title="smoking" class="picker-icon fas fa-smoking" icon="icon fas fa-smoking"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='battery-empty' class='picker-icon fa fa-battery-empty' icon='icon fa fa-battery-empty'></i>
+	<i title="snowflake" class="picker-icon fas fa-snowflake" icon="icon fas fa-snowflake"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='battery-full' class='picker-icon fa fa-battery-full' icon='icon fa fa-battery-full'></i>
+	<i title="sort" class="picker-icon fas fa-sort" icon="icon fas fa-sort"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='battery-half' class='picker-icon fa fa-battery-half' icon='icon fa fa-battery-half'></i>
+	<i title="sort-alpha-down" class="picker-icon fas fa-sort-alpha-down" icon="icon fas fa-sort-alpha-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='battery-quarter' class='picker-icon fa fa-battery-quarter' icon='icon fa fa-battery-quarter'></i>
+	<i title="sort-alpha-up" class="picker-icon fas fa-sort-alpha-up" icon="icon fas fa-sort-alpha-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='battery-three-quarters' class='picker-icon fa fa-battery-three-quarters' icon='icon fa fa-battery-three-quarters'></i>
+	<i title="sort-amount-down" class="picker-icon fas fa-sort-amount-down" icon="icon fas fa-sort-amount-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='plug' class='picker-icon fa fa-plug' icon='icon fa fa-plug'></i>
+	<i title="sort-amount-up" class="picker-icon fas fa-sort-amount-up" icon="icon fas fa-sort-amount-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='power-off' class='picker-icon fa fa-power-off' icon='icon fa fa-power-off'></i>
+	<i title="sort-down" class="picker-icon fas fa-sort-down" icon="icon fas fa-sort-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bank' class='picker-icon fa fa-bank' icon='icon fa fa-bank'></i>
+	<i title="sort-numeric-down" class="picker-icon fas fa-sort-numeric-down" icon="icon fas fa-sort-numeric-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cc-amex' class='picker-icon fa fa-cc-amex' icon='icon fa fa-cc-amex'></i>
+	<i title="sort-numeric-up" class="picker-icon fas fa-sort-numeric-up" icon="icon fas fa-sort-numeric-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cc-discover' class='picker-icon fa fa-cc-discover' icon='icon fa fa-cc-discover'></i>
+	<i title="sort-up" class="picker-icon fas fa-sort-up" icon="icon fas fa-sort-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cc-mastercard' class='picker-icon fa fa-cc-mastercard' icon='icon fa fa-cc-mastercard'></i>
+	<i title="space-shuttle" class="picker-icon fas fa-space-shuttle" icon="icon fas fa-space-shuttle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cc-paypal' class='picker-icon fa fa-cc-paypal' icon='icon fa fa-cc-paypal'></i>
+	<i title="spinner" class="picker-icon fas fa-spinner" icon="icon fas fa-spinner"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cc-stripe' class='picker-icon fa fa-cc-stripe' icon='icon fa fa-cc-stripe'></i>
+	<i title="square" class="picker-icon fas fa-square" icon="icon fas fa-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cc-visa' class='picker-icon fa fa-cc-visa' icon='icon fa fa-cc-visa'></i>
+	<i title="square-full" class="picker-icon fas fa-square-full" icon="icon fas fa-square-full"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='credit-card' class='picker-icon fa fa-credit-card' icon='icon fa fa-credit-card'></i>
+	<i title="star" class="picker-icon fas fa-star" icon="icon fas fa-star"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='google-wallet' class='picker-icon fa fa-google-wallet' icon='icon fa fa-google-wallet'></i>
+	<i title="star-half" class="picker-icon fas fa-star-half" icon="icon fas fa-star-half"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='paypal' class='picker-icon fa fa-paypal' icon='icon fa fa-paypal'></i>
+	<i title="step-backward" class="picker-icon fas fa-step-backward" icon="icon fas fa-step-backward"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bitcoin' class='picker-icon fa fa-bitcoin' icon='icon fa fa-bitcoin'></i>
+	<i title="step-forward" class="picker-icon fas fa-step-forward" icon="icon fas fa-step-forward"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='btc' class='picker-icon fa fa-btc' icon='icon fa fa-btc'></i>
+	<i title="stethoscope" class="picker-icon fas fa-stethoscope" icon="icon fas fa-stethoscope"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cny' class='picker-icon fa fa-cny' icon='icon fa fa-cny'></i>
+	<i title="sticky-note" class="picker-icon fas fa-sticky-note" icon="icon fas fa-sticky-note"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='dollar' class='picker-icon fa fa-dollar' icon='icon fa fa-dollar'></i>
+	<i title="stop" class="picker-icon fas fa-stop" icon="icon fas fa-stop"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='eur' class='picker-icon fa fa-eur' icon='icon fa fa-eur'></i>
+	<i title="stop-circle" class="picker-icon fas fa-stop-circle" icon="icon fas fa-stop-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='euro' class='picker-icon fa fa-euro' icon='icon fa fa-euro'></i>
+	<i title="stopwatch" class="picker-icon fas fa-stopwatch" icon="icon fas fa-stopwatch"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='gbp' class='picker-icon fa fa-gbp' icon='icon fa fa-gbp'></i>
+	<i title="street-view" class="picker-icon fas fa-street-view" icon="icon fas fa-street-view"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='ils' class='picker-icon fa fa-ils' icon='icon fa fa-ils'></i>
+	<i title="strikethrough" class="picker-icon fas fa-strikethrough" icon="icon fas fa-strikethrough"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='inr' class='picker-icon fa fa-inr' icon='icon fa fa-inr'></i>
+	<i title="subscript" class="picker-icon fas fa-subscript" icon="icon fas fa-subscript"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='jpy' class='picker-icon fa fa-jpy' icon='icon fa fa-jpy'></i>
+	<i title="subway" class="picker-icon fas fa-subway" icon="icon fas fa-subway"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='krw' class='picker-icon fa fa-krw' icon='icon fa fa-krw'></i>
+	<i title="suitcase" class="picker-icon fas fa-suitcase" icon="icon fas fa-suitcase"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='money' class='picker-icon fa fa-money' icon='icon fa fa-money'></i>
+	<i title="sun" class="picker-icon fas fa-sun" icon="icon fas fa-sun"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='rmb' class='picker-icon fa fa-rmb' icon='icon fa fa-rmb'></i>
+	<i title="superscript" class="picker-icon fas fa-superscript" icon="icon fas fa-superscript"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='rouble' class='picker-icon fa fa-rouble' icon='icon fa fa-rouble'></i>
+	<i title="sync" class="picker-icon fas fa-sync" icon="icon fas fa-sync"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='rub' class='picker-icon fa fa-rub' icon='icon fa fa-rub'></i>
+	<i title="sync-alt" class="picker-icon fas fa-sync-alt" icon="icon fas fa-sync-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='ruble' class='picker-icon fa fa-ruble' icon='icon fa fa-ruble'></i>
+	<i title="syringe" class="picker-icon fas fa-syringe" icon="icon fas fa-syringe"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='rupee' class='picker-icon fa fa-rupee' icon='icon fa fa-rupee'></i>
+	<i title="table" class="picker-icon fas fa-table" icon="icon fas fa-table"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='shekel' class='picker-icon fa fa-shekel' icon='icon fa fa-shekel'></i>
+	<i title="table-tennis" class="picker-icon fas fa-table-tennis" icon="icon fas fa-table-tennis"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sheqel' class='picker-icon fa fa-sheqel' icon='icon fa fa-sheqel'></i>
+	<i title="tablet" class="picker-icon fas fa-tablet" icon="icon fas fa-tablet"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='try' class='picker-icon fa fa-try' icon='icon fa fa-try'></i>
+	<i title="tablet-alt" class="picker-icon fas fa-tablet-alt" icon="icon fas fa-tablet-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='turkish-lira' class='picker-icon fa fa-turkish-lira' icon='icon fa fa-turkish-lira'></i>
+	<i title="tablets" class="picker-icon fas fa-tablets" icon="icon fas fa-tablets"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='usd' class='picker-icon fa fa-usd' icon='icon fa fa-usd'></i>
+	<i title="tachometer-alt" class="picker-icon fas fa-tachometer-alt" icon="icon fas fa-tachometer-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='won' class='picker-icon fa fa-won' icon='icon fa fa-won'></i>
+	<i title="tag" class="picker-icon fas fa-tag" icon="icon fas fa-tag"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='yen' class='picker-icon fa fa-yen' icon='icon fa fa-yen'></i>
+	<i title="tags" class="picker-icon fas fa-tags" icon="icon fas fa-tags"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cart-arrow-down' class='picker-icon fa fa-cart-arrow-down' icon='icon fa fa-cart-arrow-down'></i>
+	<i title="tape" class="picker-icon fas fa-tape" icon="icon fas fa-tape"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cart-plus' class='picker-icon fa fa-cart-plus' icon='icon fa fa-cart-plus'></i>
+	<i title="tasks" class="picker-icon fas fa-tasks" icon="icon fas fa-tasks"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='credit-card' class='picker-icon fa fa-credit-card' icon='icon fa fa-credit-card'></i>
+	<i title="taxi" class="picker-icon fas fa-taxi" icon="icon fas fa-taxi"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='shopping-cart' class='picker-icon fa fa-shopping-cart' icon='icon fa fa-shopping-cart'></i>
+	<i title="terminal" class="picker-icon fas fa-terminal" icon="icon fas fa-terminal"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='circle-o-notch' class='picker-icon fa fa-circle-o-notch' icon='icon fa fa-circle-o-notch'></i>
+	<i title="text-height" class="picker-icon fas fa-text-height" icon="icon fas fa-text-height"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cog' class='picker-icon fa fa-cog' icon='icon fa fa-cog'></i>
+	<i title="text-width" class="picker-icon fas fa-text-width" icon="icon fas fa-text-width"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='gear' class='picker-icon fa fa-gear' icon='icon fa fa-gear'></i>
+	<i title="th" class="picker-icon fas fa-th" icon="icon fas fa-th"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='refresh' class='picker-icon fa fa-refresh' icon='icon fa fa-refresh'></i>
+	<i title="th-large" class="picker-icon fas fa-th-large" icon="icon fas fa-th-large"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='spinner' class='picker-icon fa fa-spinner' icon='icon fa fa-spinner'></i>
+	<i title="th-list" class="picker-icon fas fa-th-list" icon="icon fas fa-th-list"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file' class='picker-icon fa fa-file' icon='icon fa fa-file'></i>
+	<i title="thermometer" class="picker-icon fas fa-thermometer" icon="icon fas fa-thermometer"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-archive-o' class='picker-icon fa fa-file-archive-o' icon='icon fa fa-file-archive-o'></i>
+	<i title="thermometer-empty" class="picker-icon fas fa-thermometer-empty" icon="icon fas fa-thermometer-empty"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-audio-o' class='picker-icon fa fa-file-audio-o' icon='icon fa fa-file-audio-o'></i>
+	<i title="thermometer-full" class="picker-icon fas fa-thermometer-full" icon="icon fas fa-thermometer-full"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-code-o' class='picker-icon fa fa-file-code-o' icon='icon fa fa-file-code-o'></i>
+	<i title="thermometer-half" class="picker-icon fas fa-thermometer-half" icon="icon fas fa-thermometer-half"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-excel-o' class='picker-icon fa fa-file-excel-o' icon='icon fa fa-file-excel-o'></i>
+	<i title="thermometer-quarter" class="picker-icon fas fa-thermometer-quarter" icon="icon fas fa-thermometer-quarter"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-image-o' class='picker-icon fa fa-file-image-o' icon='icon fa fa-file-image-o'></i>
+	<i title="thermometer-three-quarters" class="picker-icon fas fa-thermometer-three-quarters" icon="icon fas fa-thermometer-three-quarters"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-movie-o' class='picker-icon fa fa-file-movie-o' icon='icon fa fa-file-movie-o'></i>
+	<i title="thumbs-down" class="picker-icon fas fa-thumbs-down" icon="icon fas fa-thumbs-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-o' class='picker-icon fa fa-file-o' icon='icon fa fa-file-o'></i>
+	<i title="thumbs-up" class="picker-icon fas fa-thumbs-up" icon="icon fas fa-thumbs-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-pdf-o' class='picker-icon fa fa-file-pdf-o' icon='icon fa fa-file-pdf-o'></i>
+	<i title="thumbtack" class="picker-icon fas fa-thumbtack" icon="icon fas fa-thumbtack"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-photo-o' class='picker-icon fa fa-file-photo-o' icon='icon fa fa-file-photo-o'></i>
+	<i title="ticket-alt" class="picker-icon fas fa-ticket-alt" icon="icon fas fa-ticket-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-picture-o' class='picker-icon fa fa-file-picture-o' icon='icon fa fa-file-picture-o'></i>
+	<i title="times" class="picker-icon fas fa-times" icon="icon fas fa-times"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-powerpoint-o' class='picker-icon fa fa-file-powerpoint-o' icon='icon fa fa-file-powerpoint-o'></i>
+	<i title="times-circle" class="picker-icon fas fa-times-circle" icon="icon fas fa-times-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-sound-o' class='picker-icon fa fa-file-sound-o' icon='icon fa fa-file-sound-o'></i>
+	<i title="tint" class="picker-icon fas fa-tint" icon="icon fas fa-tint"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-text' class='picker-icon fa fa-file-text' icon='icon fa fa-file-text'></i>
+	<i title="toggle-off" class="picker-icon fas fa-toggle-off" icon="icon fas fa-toggle-off"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-text-o' class='picker-icon fa fa-file-text-o' icon='icon fa fa-file-text-o'></i>
+	<i title="toggle-on" class="picker-icon fas fa-toggle-on" icon="icon fas fa-toggle-on"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-video-o' class='picker-icon fa fa-file-video-o' icon='icon fa fa-file-video-o'></i>
+	<i title="trademark" class="picker-icon fas fa-trademark" icon="icon fas fa-trademark"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-word-o' class='picker-icon fa fa-file-word-o' icon='icon fa fa-file-word-o'></i>
+	<i title="train" class="picker-icon fas fa-train" icon="icon fas fa-train"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='file-zip-o' class='picker-icon fa fa-file-zip-o' icon='icon fa fa-file-zip-o'></i>
+	<i title="transgender" class="picker-icon fas fa-transgender" icon="icon fas fa-transgender"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='child' class='picker-icon fa fa-child' icon='icon fa fa-child'></i>
+	<i title="transgender-alt" class="picker-icon fas fa-transgender-alt" icon="icon fas fa-transgender-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='eye' class='picker-icon fa fa-eye' icon='icon fa fa-eye'></i>
+	<i title="trash" class="picker-icon fas fa-trash" icon="icon fas fa-trash"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='eye-slash' class='picker-icon fa fa-eye-slash' icon='icon fa fa-eye-slash'></i>
+	<i title="trash-alt" class="picker-icon fas fa-trash-alt" icon="icon fas fa-trash-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='female' class='picker-icon fa fa-female' icon='icon fa fa-female'></i>
+	<i title="tree" class="picker-icon fas fa-tree" icon="icon fas fa-tree"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='frown-o' class='picker-icon fa fa-frown-o' icon='icon fa fa-frown-o'></i>
+	<i title="trophy" class="picker-icon fas fa-trophy" icon="icon fas fa-trophy"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='group' class='picker-icon fa fa-group' icon='icon fa fa-group'></i>
+	<i title="truck" class="picker-icon fas fa-truck" icon="icon fas fa-truck"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='heart' class='picker-icon fa fa-heart' icon='icon fa fa-heart'></i>
+	<i title="truck-loading" class="picker-icon fas fa-truck-loading" icon="icon fas fa-truck-loading"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='heart-o' class='picker-icon fa fa-heart-o' icon='icon fa fa-heart-o'></i>
+	<i title="truck-moving" class="picker-icon fas fa-truck-moving" icon="icon fas fa-truck-moving"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='male' class='picker-icon fa fa-male' icon='icon fa fa-male'></i>
+	<i title="tty" class="picker-icon fas fa-tty" icon="icon fas fa-tty"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='meh-o' class='picker-icon fa fa-meh-o' icon='icon fa fa-meh-o'></i>
+	<i title="tv" class="picker-icon fas fa-tv" icon="icon fas fa-tv"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='smile-o' class='picker-icon fa fa-smile-o' icon='icon fa fa-smile-o'></i>
+	<i title="umbrella" class="picker-icon fas fa-umbrella" icon="icon fas fa-umbrella"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='street-view' class='picker-icon fa fa-street-view' icon='icon fa fa-street-view'></i>
+	<i title="underline" class="picker-icon fas fa-underline" icon="icon fas fa-underline"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thumbs-down' class='picker-icon fa fa-thumbs-down' icon='icon fa fa-thumbs-down'></i>
+	<i title="undo" class="picker-icon fas fa-undo" icon="icon fas fa-undo"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thumbs-o-down' class='picker-icon fa fa-thumbs-o-down' icon='icon fa fa-thumbs-o-down'></i>
+	<i title="undo-alt" class="picker-icon fas fa-undo-alt" icon="icon fas fa-undo-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thumbs-o-up' class='picker-icon fa fa-thumbs-o-up' icon='icon fa fa-thumbs-o-up'></i>
+	<i title="universal-access" class="picker-icon fas fa-universal-access" icon="icon fas fa-universal-access"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thumbs-up' class='picker-icon fa fa-thumbs-up' icon='icon fa fa-thumbs-up'></i>
+	<i title="university" class="picker-icon fas fa-university" icon="icon fas fa-university"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='user' class='picker-icon fa fa-user' icon='icon fa fa-user'></i>
+	<i title="unlink" class="picker-icon fas fa-unlink" icon="icon fas fa-unlink"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='user-md' class='picker-icon fa fa-user-md' icon='icon fa fa-user-md'></i>
+	<i title="unlock" class="picker-icon fas fa-unlock" icon="icon fas fa-unlock"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='user-plus' class='picker-icon fa fa-user-plus' icon='icon fa fa-user-plus'></i>
+	<i title="unlock-alt" class="picker-icon fas fa-unlock-alt" icon="icon fas fa-unlock-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='user-secret' class='picker-icon fa fa-user-secret' icon='icon fa fa-user-secret'></i>
+	<i title="upload" class="picker-icon fas fa-upload" icon="icon fas fa-upload"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='user-times' class='picker-icon fa fa-user-times' icon='icon fa fa-user-times'></i>
+	<i title="user" class="picker-icon fas fa-user" icon="icon fas fa-user"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='users' class='picker-icon fa fa-users' icon='icon fa fa-users'></i>
+	<i title="user-circle" class="picker-icon fas fa-user-circle" icon="icon fas fa-user-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='genderless' class='picker-icon fa fa-genderless' icon='icon fa fa-genderless'></i>
+	<i title="user-md" class="picker-icon fas fa-user-md" icon="icon fas fa-user-md"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='intersex' class='picker-icon fa fa-intersex' icon='icon fa fa-intersex'></i>
+	<i title="user-plus" class="picker-icon fas fa-user-plus" icon="icon fas fa-user-plus"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mars' class='picker-icon fa fa-mars' icon='icon fa fa-mars'></i>
+	<i title="user-secret" class="picker-icon fas fa-user-secret" icon="icon fas fa-user-secret"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mars-double' class='picker-icon fa fa-mars-double' icon='icon fa fa-mars-double'></i>
+	<i title="user-times" class="picker-icon fas fa-user-times" icon="icon fas fa-user-times"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mars-stroke' class='picker-icon fa fa-mars-stroke' icon='icon fa fa-mars-stroke'></i>
+	<i title="users" class="picker-icon fas fa-users" icon="icon fas fa-users"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mars-stroke-h' class='picker-icon fa fa-mars-stroke-h' icon='icon fa fa-mars-stroke-h'></i>
+	<i title="utensil-spoon" class="picker-icon fas fa-utensil-spoon" icon="icon fas fa-utensil-spoon"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mars-stroke-v' class='picker-icon fa fa-mars-stroke-v' icon='icon fa fa-mars-stroke-v'></i>
+	<i title="utensils" class="picker-icon fas fa-utensils" icon="icon fas fa-utensils"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mercury' class='picker-icon fa fa-mercury' icon='icon fa fa-mercury'></i>
+	<i title="venus" class="picker-icon fas fa-venus" icon="icon fas fa-venus"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='neuter' class='picker-icon fa fa-neuter' icon='icon fa fa-neuter'></i>
+	<i title="venus-double" class="picker-icon fas fa-venus-double" icon="icon fas fa-venus-double"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='transgender' class='picker-icon fa fa-transgender' icon='icon fa fa-transgender'></i>
+	<i title="venus-mars" class="picker-icon fas fa-venus-mars" icon="icon fas fa-venus-mars"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='transgender-alt' class='picker-icon fa fa-transgender-alt' icon='icon fa fa-transgender-alt'></i>
+	<i title="vial" class="picker-icon fas fa-vial" icon="icon fas fa-vial"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='venus' class='picker-icon fa fa-venus' icon='icon fa fa-venus'></i>
+	<i title="vials" class="picker-icon fas fa-vials" icon="icon fas fa-vials"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='venus-double' class='picker-icon fa fa-venus-double' icon='icon fa fa-venus-double'></i>
+	<i title="video" class="picker-icon fas fa-video" icon="icon fas fa-video"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='venus-mars' class='picker-icon fa fa-venus-mars' icon='icon fa fa-venus-mars'></i>
+	<i title="video-slash" class="picker-icon fas fa-video-slash" icon="icon fas fa-video-slash"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='check' class='picker-icon fa fa-check' icon='icon fa fa-check'></i>
+	<i title="volleyball-ball" class="picker-icon fas fa-volleyball-ball" icon="icon fas fa-volleyball-ball"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='check-circle' class='picker-icon fa fa-check-circle' icon='icon fa fa-check-circle'></i>
+	<i title="volume-down" class="picker-icon fas fa-volume-down" icon="icon fas fa-volume-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='check-circle-o' class='picker-icon fa fa-check-circle-o' icon='icon fa fa-check-circle-o'></i>
+	<i title="volume-off" class="picker-icon fas fa-volume-off" icon="icon fas fa-volume-off"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='check-square' class='picker-icon fa fa-check-square' icon='icon fa fa-check-square'></i>
+	<i title="volume-up" class="picker-icon fas fa-volume-up" icon="icon fas fa-volume-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='check-square-o' class='picker-icon fa fa-check-square-o' icon='icon fa fa-check-square-o'></i>
+	<i title="warehouse" class="picker-icon fas fa-warehouse" icon="icon fas fa-warehouse"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='close' class='picker-icon fa fa-close' icon='icon fa fa-close'></i>
+	<i title="weight" class="picker-icon fas fa-weight" icon="icon fas fa-weight"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='times' class='picker-icon fa fa-times' icon='icon fa fa-times'></i>
+	<i title="wheelchair" class="picker-icon fas fa-wheelchair" icon="icon fas fa-wheelchair"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='times-circle' class='picker-icon fa fa-times-circle' icon='icon fa fa-times-circle'></i>
+	<i title="wifi" class="picker-icon fas fa-wifi" icon="icon fas fa-wifi"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='times-circle-o' class='picker-icon fa fa-times-circle-o' icon='icon fa fa-times-circle-o'></i>
+	<i title="window-close" class="picker-icon fas fa-window-close" icon="icon fas fa-window-close"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='balance-scale' class='picker-icon fa fa-balance-scale' icon='icon fa fa-balance-scale'></i>
+	<i title="window-maximize" class="picker-icon fas fa-window-maximize" icon="icon fas fa-window-maximize"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='briefcase' class='picker-icon fa fa-briefcase' icon='icon fa fa-briefcase'></i>
+	<i title="window-minimize" class="picker-icon fas fa-window-minimize" icon="icon fas fa-window-minimize"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cc' class='picker-icon fa fa-cc' icon='icon fa fa-cc'></i>
+	<i title="window-restore" class="picker-icon fas fa-window-restore" icon="icon fas fa-window-restore"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='copyright' class='picker-icon fa fa-copyright' icon='icon fa fa-copyright'></i>
+	<i title="wine-glass" class="picker-icon fas fa-wine-glass" icon="icon fas fa-wine-glass"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='creative-commons' class='picker-icon fa fa-creative-commons' icon='icon fa fa-creative-commons'></i>
+	<i title="won-sign" class="picker-icon fas fa-won-sign" icon="icon fas fa-won-sign"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='gavel' class='picker-icon fa fa-gavel' icon='icon fa fa-gavel'></i>
+	<i title="wrench" class="picker-icon fas fa-wrench" icon="icon fas fa-wrench"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='institution' class='picker-icon fa fa-institution' icon='icon fa fa-institution'></i>
+	<i title="x-ray" class="picker-icon fas fa-x-ray" icon="icon fas fa-x-ray"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='legal' class='picker-icon fa fa-legal' icon='icon fa fa-legal'></i>
+	<i title="yen-sign" class="picker-icon fas fa-yen-sign" icon="icon fas fa-yen-sign"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='registered' class='picker-icon fa fa-registered' icon='icon fa fa-registered'></i>
+	<i title="address-book" class="picker-icon far fa-address-book" icon="icon far fa-address-book"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='trademark' class='picker-icon fa fa-trademark' icon='icon fa fa-trademark'></i>
+	<i title="address-card" class="picker-icon far fa-address-card" icon="icon far fa-address-card"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='address-book' class='picker-icon fa fa-address-book' icon='icon fa fa-address-book'></i>
+	<i title="arrow-alt-circle-down" class="picker-icon far fa-arrow-alt-circle-down" icon="icon far fa-arrow-alt-circle-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='address-book-o' class='picker-icon fa fa-address-book-o' icon='icon fa fa-address-book-o'></i>
+	<i title="arrow-alt-circle-left" class="picker-icon far fa-arrow-alt-circle-left" icon="icon far fa-arrow-alt-circle-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='address-card' class='picker-icon fa fa-address-card' icon='icon fa fa-address-card'></i>
+	<i title="arrow-alt-circle-right" class="picker-icon far fa-arrow-alt-circle-right" icon="icon far fa-arrow-alt-circle-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='address-card-o' class='picker-icon fa fa-address-card-o' icon='icon fa fa-address-card-o'></i>
+	<i title="arrow-alt-circle-up" class="picker-icon far fa-arrow-alt-circle-up" icon="icon far fa-arrow-alt-circle-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='american-sign-language-interpreting' class='picker-icon fa fa-american-sign-language-interpreting' icon='icon fa fa-american-sign-language-interpreting'></i>
+	<i title="bell" class="picker-icon far fa-bell" icon="icon far fa-bell"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='asl-interpreting' class='picker-icon fa fa-asl-interpreting' icon='icon fa fa-asl-interpreting'></i>
+	<i title="bell-slash" class="picker-icon far fa-bell-slash" icon="icon far fa-bell-slash"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='assistive-listening-systems' class='picker-icon fa fa-assistive-listening-systems' icon='icon fa fa-assistive-listening-systems'></i>
+	<i title="bookmark" class="picker-icon far fa-bookmark" icon="icon far fa-bookmark"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='audio-description' class='picker-icon fa fa-audio-description' icon='icon fa fa-audio-description'></i>
+	<i title="building" class="picker-icon far fa-building" icon="icon far fa-building"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bandcamp' class='picker-icon fa fa-bandcamp' icon='icon fa fa-bandcamp'></i>
+	<i title="calendar" class="picker-icon far fa-calendar" icon="icon far fa-calendar"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bars' class='picker-icon fa fa-bars' icon='icon fa fa-bars'></i>
+	<i title="calendar-alt" class="picker-icon far fa-calendar-alt" icon="icon far fa-calendar-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bath' class='picker-icon fa fa-bath' icon='icon fa fa-bath'></i>
+	<i title="calendar-check" class="picker-icon far fa-calendar-check" icon="icon far fa-calendar-check"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bathtub' class='picker-icon fa fa-bathtub' icon='icon fa fa-bathtub'></i>
+	<i title="calendar-minus" class="picker-icon far fa-calendar-minus" icon="icon far fa-calendar-minus"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='battery' class='picker-icon fa fa-battery' icon='icon fa fa-battery'></i>
+	<i title="calendar-plus" class="picker-icon far fa-calendar-plus" icon="icon far fa-calendar-plus"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='binoculars' class='picker-icon fa fa-binoculars' icon='icon fa fa-binoculars'></i>
+	<i title="calendar-times" class="picker-icon far fa-calendar-times" icon="icon far fa-calendar-times"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='black-tie' class='picker-icon fa fa-black-tie' icon='icon fa fa-black-tie'></i>
+	<i title="caret-square-down" class="picker-icon far fa-caret-square-down" icon="icon far fa-caret-square-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='blind' class='picker-icon fa fa-blind' icon='icon fa fa-blind'></i>
+	<i title="caret-square-left" class="picker-icon far fa-caret-square-left" icon="icon far fa-caret-square-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bluetooth' class='picker-icon fa fa-bluetooth' icon='icon fa fa-bluetooth'></i>
+	<i title="caret-square-right" class="picker-icon far fa-caret-square-right" icon="icon far fa-caret-square-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bluetooth-b' class='picker-icon fa fa-bluetooth-b' icon='icon fa fa-bluetooth-b'></i>
+	<i title="caret-square-up" class="picker-icon far fa-caret-square-up" icon="icon far fa-caret-square-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bookmark' class='picker-icon fa fa-bookmark' icon='icon fa fa-bookmark'></i>
+	<i title="chart-bar" class="picker-icon far fa-chart-bar" icon="icon far fa-chart-bar"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bookmark-o' class='picker-icon fa fa-bookmark-o' icon='icon fa fa-bookmark-o'></i>
+	<i title="check-circle" class="picker-icon far fa-check-circle" icon="icon far fa-check-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='braille' class='picker-icon fa fa-braille' icon='icon fa fa-braille'></i>
+	<i title="check-square" class="picker-icon far fa-check-square" icon="icon far fa-check-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bullseye' class='picker-icon fa fa-bullseye' icon='icon fa fa-bullseye'></i>
+	<i title="circle" class="picker-icon far fa-circle" icon="icon far fa-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='calendar-check-o' class='picker-icon fa fa-calendar-check-o' icon='icon fa fa-calendar-check-o'></i>
+	<i title="clipboard" class="picker-icon far fa-clipboard" icon="icon far fa-clipboard"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='calendar-minus-o' class='picker-icon fa fa-calendar-minus-o' icon='icon fa fa-calendar-minus-o'></i>
+	<i title="clock" class="picker-icon far fa-clock" icon="icon far fa-clock"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='calendar-plus-o' class='picker-icon fa fa-calendar-plus-o' icon='icon fa fa-calendar-plus-o'></i>
+	<i title="clone" class="picker-icon far fa-clone" icon="icon far fa-clone"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='calendar-times-o' class='picker-icon fa fa-calendar-times-o' icon='icon fa fa-calendar-times-o'></i>
+	<i title="closed-captioning" class="picker-icon far fa-closed-captioning" icon="icon far fa-closed-captioning"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cc-diners-club' class='picker-icon fa fa-cc-diners-club' icon='icon fa fa-cc-diners-club'></i>
+	<i title="comment" class="picker-icon far fa-comment" icon="icon far fa-comment"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='cc-jcb' class='picker-icon fa fa-cc-jcb' icon='icon fa fa-cc-jcb'></i>
+	<i title="comment-alt" class="picker-icon far fa-comment-alt" icon="icon far fa-comment-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='circle-thin' class='picker-icon fa fa-circle-thin' icon='icon fa fa-circle-thin'></i>
+	<i title="comments" class="picker-icon far fa-comments" icon="icon far fa-comments"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='clock-o' class='picker-icon fa fa-clock-o' icon='icon fa fa-clock-o'></i>
+	<i title="compass" class="picker-icon far fa-compass" icon="icon far fa-compass"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='clone' class='picker-icon fa fa-clone' icon='icon fa fa-clone'></i>
+	<i title="copy" class="picker-icon far fa-copy" icon="icon far fa-copy"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='codiepie' class='picker-icon fa fa-codiepie' icon='icon fa fa-codiepie'></i>
+	<i title="copyright" class="picker-icon far fa-copyright" icon="icon far fa-copyright"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='commenting' class='picker-icon fa fa-commenting' icon='icon fa fa-commenting'></i>
+	<i title="credit-card" class="picker-icon far fa-credit-card" icon="icon far fa-credit-card"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='commenting-o' class='picker-icon fa fa-commenting-o' icon='icon fa fa-commenting-o'></i>
+	<i title="dot-circle" class="picker-icon far fa-dot-circle" icon="icon far fa-dot-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='credit-card-alt' class='picker-icon fa fa-credit-card-alt' icon='icon fa fa-credit-card-alt'></i>
+	<i title="edit" class="picker-icon far fa-edit" icon="icon far fa-edit"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='deaf' class='picker-icon fa fa-deaf' icon='icon fa fa-deaf'></i>
+	<i title="envelope" class="picker-icon far fa-envelope" icon="icon far fa-envelope"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='deafness' class='picker-icon fa fa-deafness' icon='icon fa fa-deafness'></i>
+	<i title="envelope-open" class="picker-icon far fa-envelope-open" icon="icon far fa-envelope-open"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='diamond' class='picker-icon fa fa-diamond' icon='icon fa fa-diamond'></i>
+	<i title="eye-slash" class="picker-icon far fa-eye-slash" icon="icon far fa-eye-slash"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='drivers-license' class='picker-icon fa fa-drivers-license' icon='icon fa fa-drivers-license'></i>
+	<i title="file" class="picker-icon far fa-file" icon="icon far fa-file"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='drivers-license-o' class='picker-icon fa fa-drivers-license-o' icon='icon fa fa-drivers-license-o'></i>
+	<i title="file-alt" class="picker-icon far fa-file-alt" icon="icon far fa-file-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='edge' class='picker-icon fa fa-edge' icon='icon fa fa-edge'></i>
+	<i title="file-archive" class="picker-icon far fa-file-archive" icon="icon far fa-file-archive"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='eercast' class='picker-icon fa fa-eercast' icon='icon fa fa-eercast'></i>
+	<i title="file-audio" class="picker-icon far fa-file-audio" icon="icon far fa-file-audio"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='ellipsis-h' class='picker-icon fa fa-ellipsis-h' icon='icon fa fa-ellipsis-h'></i>
+	<i title="file-code" class="picker-icon far fa-file-code" icon="icon far fa-file-code"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='ellipsis-v' class='picker-icon fa fa-ellipsis-v' icon='icon fa fa-ellipsis-v'></i>
+	<i title="file-excel" class="picker-icon far fa-file-excel" icon="icon far fa-file-excel"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='envelope-open' class='picker-icon fa fa-envelope-open' icon='icon fa fa-envelope-open'></i>
+	<i title="file-image" class="picker-icon far fa-file-image" icon="icon far fa-file-image"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='envelope-open-o' class='picker-icon fa fa-envelope-open-o' icon='icon fa fa-envelope-open-o'></i>
+	<i title="file-pdf" class="picker-icon far fa-file-pdf" icon="icon far fa-file-pdf"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='envira' class='picker-icon fa fa-envira' icon='icon fa fa-envira'></i>
+	<i title="file-powerpoint" class="picker-icon far fa-file-powerpoint" icon="icon far fa-file-powerpoint"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='etsy' class='picker-icon fa fa-etsy' icon='icon fa fa-etsy'></i>
+	<i title="file-video" class="picker-icon far fa-file-video" icon="icon far fa-file-video"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='expeditedssl' class='picker-icon fa fa-expeditedssl' icon='icon fa fa-expeditedssl'></i>
+	<i title="file-word" class="picker-icon far fa-file-word" icon="icon far fa-file-word"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='fa' class='picker-icon fa fa-fa' icon='icon fa fa-fa'></i>
+	<i title="flag" class="picker-icon far fa-flag" icon="icon far fa-flag"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='feed' class='picker-icon fa fa-feed' icon='icon fa fa-feed'></i>
+	<i title="folder" class="picker-icon far fa-folder" icon="icon far fa-folder"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='first-order' class='picker-icon fa fa-first-order' icon='icon fa fa-first-order'></i>
+	<i title="folder-open" class="picker-icon far fa-folder-open" icon="icon far fa-folder-open"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='flask' class='picker-icon fa fa-flask' icon='icon fa fa-flask'></i>
+	<i title="frown" class="picker-icon far fa-frown" icon="icon far fa-frown"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='font-awesome' class='picker-icon fa fa-font-awesome' icon='icon fa fa-font-awesome'></i>
+	<i title="futbol" class="picker-icon far fa-futbol" icon="icon far fa-futbol"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='fort-awesome' class='picker-icon fa fa-fort-awesome' icon='icon fa fa-fort-awesome'></i>
+	<i title="gem" class="picker-icon far fa-gem" icon="icon far fa-gem"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='free-code-camp' class='picker-icon fa fa-free-code-camp' icon='icon fa fa-free-code-camp'></i>
+	<i title="hand-lizard" class="picker-icon far fa-hand-lizard" icon="icon far fa-hand-lizard"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='gg' class='picker-icon fa fa-gg' icon='icon fa fa-gg'></i>
+	<i title="hand-paper" class="picker-icon far fa-hand-paper" icon="icon far fa-hand-paper"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='gg-circle' class='picker-icon fa fa-gg-circle' icon='icon fa fa-gg-circle'></i>
+	<i title="hand-peace" class="picker-icon far fa-hand-peace" icon="icon far fa-hand-peace"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='gitlab' class='picker-icon fa fa-gitlab' icon='icon fa fa-gitlab'></i>
+	<i title="hand-point-down" class="picker-icon far fa-hand-point-down" icon="icon far fa-hand-point-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='glide' class='picker-icon fa fa-glide' icon='icon fa fa-glide'></i>
+	<i title="hand-point-left" class="picker-icon far fa-hand-point-left" icon="icon far fa-hand-point-left"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='glide-g' class='picker-icon fa fa-glide-g' icon='icon fa fa-glide-g'></i>
+	<i title="hand-point-right" class="picker-icon far fa-hand-point-right" icon="icon far fa-hand-point-right"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='google-plus-circle' class='picker-icon fa fa-google-plus-circle' icon='icon fa fa-google-plus-circle'></i>
+	<i title="hand-point-up" class="picker-icon far fa-hand-point-up" icon="icon far fa-hand-point-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='google-plus-official' class='picker-icon fa fa-google-plus-official' icon='icon fa fa-google-plus-official'></i>
+	<i title="hand-pointer" class="picker-icon far fa-hand-pointer" icon="icon far fa-hand-pointer"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='grav' class='picker-icon fa fa-grav' icon='icon fa fa-grav'></i>
+	<i title="hand-rock" class="picker-icon far fa-hand-rock" icon="icon far fa-hand-rock"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hand-grab-o' class='picker-icon fa fa-hand-grab-o' icon='icon fa fa-hand-grab-o'></i>
+	<i title="hand-scissors" class="picker-icon far fa-hand-scissors" icon="icon far fa-hand-scissors"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hand-lizard-o' class='picker-icon fa fa-hand-lizard-o' icon='icon fa fa-hand-lizard-o'></i>
+	<i title="hand-spock" class="picker-icon far fa-hand-spock" icon="icon far fa-hand-spock"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hand-paper-o' class='picker-icon fa fa-hand-paper-o' icon='icon fa fa-hand-paper-o'></i>
+	<i title="handshake" class="picker-icon far fa-handshake" icon="icon far fa-handshake"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hand-peace-o' class='picker-icon fa fa-hand-peace-o' icon='icon fa fa-hand-peace-o'></i>
+	<i title="hdd" class="picker-icon far fa-hdd" icon="icon far fa-hdd"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hand-pointer-o' class='picker-icon fa fa-hand-pointer-o' icon='icon fa fa-hand-pointer-o'></i>
+	<i title="heart" class="picker-icon far fa-heart" icon="icon far fa-heart"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hand-rock-o' class='picker-icon fa fa-hand-rock-o' icon='icon fa fa-hand-rock-o'></i>
+	<i title="hospital" class="picker-icon far fa-hospital" icon="icon far fa-hospital"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hand-scissors-o' class='picker-icon fa fa-hand-scissors-o' icon='icon fa fa-hand-scissors-o'></i>
+	<i title="hourglass" class="picker-icon far fa-hourglass" icon="icon far fa-hourglass"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hand-spock-o' class='picker-icon fa fa-hand-spock-o' icon='icon fa fa-hand-spock-o'></i>
+	<i title="id-badge" class="picker-icon far fa-id-badge" icon="icon far fa-id-badge"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hand-stop-o' class='picker-icon fa fa-hand-stop-o' icon='icon fa fa-hand-stop-o'></i>
+	<i title="id-card" class="picker-icon far fa-id-card" icon="icon far fa-id-card"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='handshake-o' class='picker-icon fa fa-handshake-o' icon='icon fa fa-handshake-o'></i>
+	<i title="image" class="picker-icon far fa-image" icon="icon far fa-image"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hard-of-hearing' class='picker-icon fa fa-hard-of-hearing' icon='icon fa fa-hard-of-hearing'></i>
+	<i title="images" class="picker-icon far fa-images" icon="icon far fa-images"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hashtag' class='picker-icon fa fa-hashtag' icon='icon fa fa-hashtag'></i>
+	<i title="keyboard" class="picker-icon far fa-keyboard" icon="icon far fa-keyboard"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hourglass' class='picker-icon fa fa-hourglass' icon='icon fa fa-hourglass'></i>
+	<i title="lemon" class="picker-icon far fa-lemon" icon="icon far fa-lemon"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hourglass-1' class='picker-icon fa fa-hourglass-1' icon='icon fa fa-hourglass-1'></i>
+	<i title="life-ring" class="picker-icon far fa-life-ring" icon="icon far fa-life-ring"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hourglass-2' class='picker-icon fa fa-hourglass-2' icon='icon fa fa-hourglass-2'></i>
+	<i title="lightbulb" class="picker-icon far fa-lightbulb" icon="icon far fa-lightbulb"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hourglass-3' class='picker-icon fa fa-hourglass-3' icon='icon fa fa-hourglass-3'></i>
+	<i title="list-alt" class="picker-icon far fa-list-alt" icon="icon far fa-list-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hourglass-end' class='picker-icon fa fa-hourglass-end' icon='icon fa fa-hourglass-end'></i>
+	<i title="map" class="picker-icon far fa-map" icon="icon far fa-map"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hourglass-half' class='picker-icon fa fa-hourglass-half' icon='icon fa fa-hourglass-half'></i>
+	<i title="meh" class="picker-icon far fa-meh" icon="icon far fa-meh"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hourglass-o' class='picker-icon fa fa-hourglass-o' icon='icon fa fa-hourglass-o'></i>
+	<i title="minus-square" class="picker-icon far fa-minus-square" icon="icon far fa-minus-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hourglass-start' class='picker-icon fa fa-hourglass-start' icon='icon fa fa-hourglass-start'></i>
+	<i title="money-bill-alt" class="picker-icon far fa-money-bill-alt" icon="icon far fa-money-bill-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='i-cursor' class='picker-icon fa fa-i-cursor' icon='icon fa fa-i-cursor'></i>
+	<i title="moon" class="picker-icon far fa-moon" icon="icon far fa-moon"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='id-badge' class='picker-icon fa fa-id-badge' icon='icon fa fa-id-badge'></i>
+	<i title="newspaper" class="picker-icon far fa-newspaper" icon="icon far fa-newspaper"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='id-card' class='picker-icon fa fa-id-card' icon='icon fa fa-id-card'></i>
+	<i title="object-group" class="picker-icon far fa-object-group" icon="icon far fa-object-group"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='id-card-o' class='picker-icon fa fa-id-card-o' icon='icon fa fa-id-card-o'></i>
+	<i title="object-ungroup" class="picker-icon far fa-object-ungroup" icon="icon far fa-object-ungroup"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='imdb' class='picker-icon fa fa-imdb' icon='icon fa fa-imdb'></i>
+	<i title="paper-plane" class="picker-icon far fa-paper-plane" icon="icon far fa-paper-plane"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='industry' class='picker-icon fa fa-industry' icon='icon fa fa-industry'></i>
+	<i title="pause-circle" class="picker-icon far fa-pause-circle" icon="icon far fa-pause-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='lightbulb-o' class='picker-icon fa fa-lightbulb-o' icon='icon fa fa-lightbulb-o'></i>
+	<i title="play-circle" class="picker-icon far fa-play-circle" icon="icon far fa-play-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='linode' class='picker-icon fa fa-linode' icon='icon fa fa-linode'></i>
+	<i title="plus-square" class="picker-icon far fa-plus-square" icon="icon far fa-plus-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='low-vision' class='picker-icon fa fa-low-vision' icon='icon fa fa-low-vision'></i>
+	<i title="question-circle" class="picker-icon far fa-question-circle" icon="icon far fa-question-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='magnet' class='picker-icon fa fa-magnet' icon='icon fa fa-magnet'></i>
+	<i title="registered" class="picker-icon far fa-registered" icon="icon far fa-registered"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='map' class='picker-icon fa fa-map' icon='icon fa fa-map'></i>
+	<i title="save" class="picker-icon far fa-save" icon="icon far fa-save"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='map-o' class='picker-icon fa fa-map-o' icon='icon fa fa-map-o'></i>
+	<i title="share-square" class="picker-icon far fa-share-square" icon="icon far fa-share-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='map-pin' class='picker-icon fa fa-map-pin' icon='icon fa fa-map-pin'></i>
+	<i title="smile" class="picker-icon far fa-smile" icon="icon far fa-smile"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='map-signs' class='picker-icon fa fa-map-signs' icon='icon fa fa-map-signs'></i>
+	<i title="snowflake" class="picker-icon far fa-snowflake" icon="icon far fa-snowflake"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='meetup' class='picker-icon fa fa-meetup' icon='icon fa fa-meetup'></i>
+	<i title="square" class="picker-icon far fa-square" icon="icon far fa-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='microchip' class='picker-icon fa fa-microchip' icon='icon fa fa-microchip'></i>
+	<i title="star" class="picker-icon far fa-star" icon="icon far fa-star"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mixcloud' class='picker-icon fa fa-mixcloud' icon='icon fa fa-mixcloud'></i>
+	<i title="star-half" class="picker-icon far fa-star-half" icon="icon far fa-star-half"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='modx' class='picker-icon fa fa-modx' icon='icon fa fa-modx'></i>
+	<i title="sticky-note" class="picker-icon far fa-sticky-note" icon="icon far fa-sticky-note"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='mouse-pointer' class='picker-icon fa fa-mouse-pointer' icon='icon fa fa-mouse-pointer'></i>
+	<i title="stop-circle" class="picker-icon far fa-stop-circle" icon="icon far fa-stop-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='navicon' class='picker-icon fa fa-navicon' icon='icon fa fa-navicon'></i>
+	<i title="sun" class="picker-icon far fa-sun" icon="icon far fa-sun"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='newspaper-o' class='picker-icon fa fa-newspaper-o' icon='icon fa fa-newspaper-o'></i>
+	<i title="thumbs-down" class="picker-icon far fa-thumbs-down" icon="icon far fa-thumbs-down"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='object-group' class='picker-icon fa fa-object-group' icon='icon fa fa-object-group'></i>
+	<i title="thumbs-up" class="picker-icon far fa-thumbs-up" icon="icon far fa-thumbs-up"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='object-ungroup' class='picker-icon fa fa-object-ungroup' icon='icon fa fa-object-ungroup'></i>
+	<i title="times-circle" class="picker-icon far fa-times-circle" icon="icon far fa-times-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='pause-circle' class='picker-icon fa fa-pause-circle' icon='icon fa fa-pause-circle'></i>
+	<i title="trash-alt" class="picker-icon far fa-trash-alt" icon="icon far fa-trash-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='pause-circle-o' class='picker-icon fa fa-pause-circle-o' icon='icon fa fa-pause-circle-o'></i>
+	<i title="user" class="picker-icon far fa-user" icon="icon far fa-user"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='percent' class='picker-icon fa fa-percent' icon='icon fa fa-percent'></i>
+	<i title="user-circle" class="picker-icon far fa-user-circle" icon="icon far fa-user-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='pied-piper-pp' class='picker-icon fa fa-pied-piper-pp' icon='icon fa fa-pied-piper-pp'></i>
+	<i title="window-close" class="picker-icon far fa-window-close" icon="icon far fa-window-close"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='podcast' class='picker-icon fa fa-podcast' icon='icon fa fa-podcast'></i>
+	<i title="window-maximize" class="picker-icon far fa-window-maximize" icon="icon far fa-window-maximize"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='product-hunt' class='picker-icon fa fa-product-hunt' icon='icon fa fa-product-hunt'></i>
+	<i title="window-minimize" class="picker-icon far fa-window-minimize" icon="icon far fa-window-minimize"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='puzzle-piece' class='picker-icon fa fa-puzzle-piece' icon='icon fa fa-puzzle-piece'></i>
+	<i title="window-restore" class="picker-icon far fa-window-restore" icon="icon far fa-window-restore"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='question-circle-o' class='picker-icon fa fa-question-circle-o' icon='icon fa fa-question-circle-o'></i>
+	<i title="500px" class="picker-icon fab fa-500px" icon="icon fab fa-500px"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='quora' class='picker-icon fa fa-quora' icon='icon fa fa-quora'></i>
+	<i title="accessible-icon" class="picker-icon fab fa-accessible-icon" icon="icon fab fa-accessible-icon"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='ravelry' class='picker-icon fa fa-ravelry' icon='icon fa fa-ravelry'></i>
+	<i title="accusoft" class="picker-icon fab fa-accusoft" icon="icon fab fa-accusoft"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='reddit-alien' class='picker-icon fa fa-reddit-alien' icon='icon fa fa-reddit-alien'></i>
+	<i title="adn" class="picker-icon fab fa-adn" icon="icon fab fa-adn"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='resistance' class='picker-icon fa fa-resistance' icon='icon fa fa-resistance'></i>
+	<i title="adversal" class="picker-icon fab fa-adversal" icon="icon fab fa-adversal"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='s15' class='picker-icon fa fa-s15' icon='icon fa fa-s15'></i>
+	<i title="affiliatetheme" class="picker-icon fab fa-affiliatetheme" icon="icon fab fa-affiliatetheme"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='scribd' class='picker-icon fa fa-scribd' icon='icon fa fa-scribd'></i>
+	<i title="algolia" class="picker-icon fab fa-algolia" icon="icon fab fa-algolia"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='shopping-bag' class='picker-icon fa fa-shopping-bag' icon='icon fa fa-shopping-bag'></i>
+	<i title="amazon" class="picker-icon fab fa-amazon" icon="icon fab fa-amazon"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='shopping-basket' class='picker-icon fa fa-shopping-basket' icon='icon fa fa-shopping-basket'></i>
+	<i title="amazon-pay" class="picker-icon fab fa-amazon-pay" icon="icon fab fa-amazon-pay"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='shower' class='picker-icon fa fa-shower' icon='icon fa fa-shower'></i>
+	<i title="amilia" class="picker-icon fab fa-amilia" icon="icon fab fa-amilia"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sign-language' class='picker-icon fa fa-sign-language' icon='icon fa fa-sign-language'></i>
+	<i title="android" class="picker-icon fab fa-android" icon="icon fab fa-android"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='signing' class='picker-icon fa fa-signing' icon='icon fa fa-signing'></i>
+	<i title="angellist" class="picker-icon fab fa-angellist" icon="icon fab fa-angellist"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='snapchat' class='picker-icon fa fa-snapchat' icon='icon fa fa-snapchat'></i>
+	<i title="angrycreative" class="picker-icon fab fa-angrycreative" icon="icon fab fa-angrycreative"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='snapchat-ghost' class='picker-icon fa fa-snapchat-ghost' icon='icon fa fa-snapchat-ghost'></i>
+	<i title="angular" class="picker-icon fab fa-angular" icon="icon fab fa-angular"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='snapchat-square' class='picker-icon fa fa-snapchat-square' icon='icon fa fa-snapchat-square'></i>
+	<i title="app-store" class="picker-icon fab fa-app-store" icon="icon fab fa-app-store"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='snowflake-o' class='picker-icon fa fa-snowflake-o' icon='icon fa fa-snowflake-o'></i>
+	<i title="app-store-ios" class="picker-icon fab fa-app-store-ios" icon="icon fab fa-app-store-ios"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sticky-note' class='picker-icon fa fa-sticky-note' icon='icon fa fa-sticky-note'></i>
+	<i title="apper" class="picker-icon fab fa-apper" icon="icon fab fa-apper"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sticky-note-o' class='picker-icon fa fa-sticky-note-o' icon='icon fa fa-sticky-note-o'></i>
+	<i title="apple" class="picker-icon fab fa-apple" icon="icon fab fa-apple"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='stop-circle' class='picker-icon fa fa-stop-circle' icon='icon fa fa-stop-circle'></i>
+	<i title="apple-pay" class="picker-icon fab fa-apple-pay" icon="icon fab fa-apple-pay"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='stop-circle-o' class='picker-icon fa fa-stop-circle-o' icon='icon fa fa-stop-circle-o'></i>
+	<i title="asymmetrik" class="picker-icon fab fa-asymmetrik" icon="icon fab fa-asymmetrik"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='superpowers' class='picker-icon fa fa-superpowers' icon='icon fa fa-superpowers'></i>
+	<i title="audible" class="picker-icon fab fa-audible" icon="icon fab fa-audible"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='telegram' class='picker-icon fa fa-telegram' icon='icon fa fa-telegram'></i>
+	<i title="autoprefixer" class="picker-icon fab fa-autoprefixer" icon="icon fab fa-autoprefixer"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='themeisle' class='picker-icon fa fa-themeisle' icon='icon fa fa-themeisle'></i>
+	<i title="avianex" class="picker-icon fab fa-avianex" icon="icon fab fa-avianex"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thermometer' class='picker-icon fa fa-thermometer' icon='icon fa fa-thermometer'></i>
+	<i title="aviato" class="picker-icon fab fa-aviato" icon="icon fab fa-aviato"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thermometer-0' class='picker-icon fa fa-thermometer-0' icon='icon fa fa-thermometer-0'></i>
+	<i title="aws" class="picker-icon fab fa-aws" icon="icon fab fa-aws"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thermometer-1' class='picker-icon fa fa-thermometer-1' icon='icon fa fa-thermometer-1'></i>
+	<i title="bandcamp" class="picker-icon fab fa-bandcamp" icon="icon fab fa-bandcamp"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thermometer-2' class='picker-icon fa fa-thermometer-2' icon='icon fa fa-thermometer-2'></i>
+	<i title="behance" class="picker-icon fab fa-behance" icon="icon fab fa-behance"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thermometer-3' class='picker-icon fa fa-thermometer-3' icon='icon fa fa-thermometer-3'></i>
+	<i title="behance-square" class="picker-icon fab fa-behance-square" icon="icon fab fa-behance-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thermometer-4' class='picker-icon fa fa-thermometer-4' icon='icon fa fa-thermometer-4'></i>
+	<i title="bimobject" class="picker-icon fab fa-bimobject" icon="icon fab fa-bimobject"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thermometer-empty' class='picker-icon fa fa-thermometer-empty' icon='icon fa fa-thermometer-empty'></i>
+	<i title="bitbucket" class="picker-icon fab fa-bitbucket" icon="icon fab fa-bitbucket"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thermometer-full' class='picker-icon fa fa-thermometer-full' icon='icon fa fa-thermometer-full'></i>
+	<i title="bitcoin" class="picker-icon fab fa-bitcoin" icon="icon fab fa-bitcoin"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thermometer-half' class='picker-icon fa fa-thermometer-half' icon='icon fa fa-thermometer-half'></i>
+	<i title="bity" class="picker-icon fab fa-bity" icon="icon fab fa-bity"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thermometer-quarter' class='picker-icon fa fa-thermometer-quarter' icon='icon fa fa-thermometer-quarter'></i>
+	<i title="black-tie" class="picker-icon fab fa-black-tie" icon="icon fab fa-black-tie"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='thermometer-three-quarters' class='picker-icon fa fa-thermometer-three-quarters' icon='icon fa fa-thermometer-three-quarters'></i>
+	<i title="blackberry" class="picker-icon fab fa-blackberry" icon="icon fab fa-blackberry"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='times-rectangle' class='picker-icon fa fa-times-rectangle' icon='icon fa fa-times-rectangle'></i>
+	<i title="blogger" class="picker-icon fab fa-blogger" icon="icon fab fa-blogger"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='times-rectangle-o' class='picker-icon fa fa-times-rectangle-o' icon='icon fa fa-times-rectangle-o'></i>
+	<i title="blogger-b" class="picker-icon fab fa-blogger-b" icon="icon fab fa-blogger-b"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='tripadvisor' class='picker-icon fa fa-tripadvisor' icon='icon fa fa-tripadvisor'></i>
+	<i title="bluetooth" class="picker-icon fab fa-bluetooth" icon="icon fab fa-bluetooth"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='universal-access' class='picker-icon fa fa-universal-access' icon='icon fa fa-universal-access'></i>
+	<i title="bluetooth-b" class="picker-icon fab fa-bluetooth-b" icon="icon fab fa-bluetooth-b"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='usb' class='picker-icon fa fa-usb' icon='icon fa fa-usb'></i>
+	<i title="btc" class="picker-icon fab fa-btc" icon="icon fab fa-btc"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='user-circle' class='picker-icon fa fa-user-circle' icon='icon fa fa-user-circle'></i>
+	<i title="buromobelexperte" class="picker-icon fab fa-buromobelexperte" icon="icon fab fa-buromobelexperte"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='user-circle-o' class='picker-icon fa fa-user-circle-o' icon='icon fa fa-user-circle-o'></i>
+	<i title="buysellads" class="picker-icon fab fa-buysellads" icon="icon fab fa-buysellads"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='user-o' class='picker-icon fa fa-user-o' icon='icon fa fa-user-o'></i>
+	<i title="cc-amazon-pay" class="picker-icon fab fa-cc-amazon-pay" icon="icon fab fa-cc-amazon-pay"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='vcard' class='picker-icon fa fa-vcard' icon='icon fa fa-vcard'></i>
+	<i title="cc-amex" class="picker-icon fab fa-cc-amex" icon="icon fab fa-cc-amex"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='vcard-o' class='picker-icon fa fa-vcard-o' icon='icon fa fa-vcard-o'></i>
+	<i title="cc-apple-pay" class="picker-icon fab fa-cc-apple-pay" icon="icon fab fa-cc-apple-pay"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='viadeo' class='picker-icon fa fa-viadeo' icon='icon fa fa-viadeo'></i>
+	<i title="cc-diners-club" class="picker-icon fab fa-cc-diners-club" icon="icon fab fa-cc-diners-club"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='viadeo-square' class='picker-icon fa fa-viadeo-square' icon='icon fa fa-viadeo-square'></i>
+	<i title="cc-discover" class="picker-icon fab fa-cc-discover" icon="icon fab fa-cc-discover"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='volume-control-phone' class='picker-icon fa fa-volume-control-phone' icon='icon fa fa-volume-control-phone'></i>
+	<i title="cc-jcb" class="picker-icon fab fa-cc-jcb" icon="icon fab fa-cc-jcb"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='wheelchair-alt' class='picker-icon fa fa-wheelchair-alt' icon='icon fa fa-wheelchair-alt'></i>
+	<i title="cc-mastercard" class="picker-icon fab fa-cc-mastercard" icon="icon fab fa-cc-mastercard"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='window-close' class='picker-icon fa fa-window-close' icon='icon fa fa-window-close'></i>
+	<i title="cc-paypal" class="picker-icon fab fa-cc-paypal" icon="icon fab fa-cc-paypal"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='window-close-o' class='picker-icon fa fa-window-close-o' icon='icon fa fa-window-close-o'></i>
+	<i title="cc-stripe" class="picker-icon fab fa-cc-stripe" icon="icon fab fa-cc-stripe"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='window-maximize' class='picker-icon fa fa-window-maximize' icon='icon fa fa-window-maximize'></i>
+	<i title="cc-visa" class="picker-icon fab fa-cc-visa" icon="icon fab fa-cc-visa"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='window-minimize' class='picker-icon fa fa-window-minimize' icon='icon fa fa-window-minimize'></i>
+	<i title="centercode" class="picker-icon fab fa-centercode" icon="icon fab fa-centercode"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='window-restore' class='picker-icon fa fa-window-restore' icon='icon fa fa-window-restore'></i>
+	<i title="chrome" class="picker-icon fab fa-chrome" icon="icon fab fa-chrome"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='wpbeginner' class='picker-icon fa fa-wpbeginner' icon='icon fa fa-wpbeginner'></i>
+	<i title="cloudscale" class="picker-icon fab fa-cloudscale" icon="icon fab fa-cloudscale"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='wpexplorer' class='picker-icon fa fa-wpexplorer' icon='icon fa fa-wpexplorer'></i>
+	<i title="cloudsmith" class="picker-icon fab fa-cloudsmith" icon="icon fab fa-cloudsmith"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='wpforms' class='picker-icon fa fa-wpforms' icon='icon fa fa-wpforms'></i>
+	<i title="cloudversify" class="picker-icon fab fa-cloudversify" icon="icon fab fa-cloudversify"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='yoast' class='picker-icon fa fa-yoast' icon='icon fa fa-yoast'></i>
+	<i title="codepen" class="picker-icon fab fa-codepen" icon="icon fab fa-codepen"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='500px' class='picker-icon fa fa-500px' icon='icon fa fa-500px'></i>
+	<i title="codiepie" class="picker-icon fab fa-codiepie" icon="icon fab fa-codiepie"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='adn' class='picker-icon fa fa-adn' icon='icon fa fa-adn'></i>
+	<i title="connectdevelop" class="picker-icon fab fa-connectdevelop" icon="icon fab fa-connectdevelop"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='amazon' class='picker-icon fa fa-amazon' icon='icon fa fa-amazon'></i>
+	<i title="contao" class="picker-icon fab fa-contao" icon="icon fab fa-contao"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='android' class='picker-icon fa fa-android' icon='icon fa fa-android'></i>
+	<i title="cpanel" class="picker-icon fab fa-cpanel" icon="icon fab fa-cpanel"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='angellist' class='picker-icon fa fa-angellist' icon='icon fa fa-angellist'></i>
+	<i title="creative-commons" class="picker-icon fab fa-creative-commons" icon="icon fab fa-creative-commons"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='apple' class='picker-icon fa fa-apple' icon='icon fa fa-apple'></i>
+	<i title="css3" class="picker-icon fab fa-css3" icon="icon fab fa-css3"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='behance' class='picker-icon fa fa-behance' icon='icon fa fa-behance'></i>
+	<i title="css3-alt" class="picker-icon fab fa-css3-alt" icon="icon fab fa-css3-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='behance-square' class='picker-icon fa fa-behance-square' icon='icon fa fa-behance-square'></i>
+	<i title="cuttlefish" class="picker-icon fab fa-cuttlefish" icon="icon fab fa-cuttlefish"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bitbucket' class='picker-icon fa fa-bitbucket' icon='icon fa fa-bitbucket'></i>
+	<i title="d-and-d" class="picker-icon fab fa-d-and-d" icon="icon fab fa-d-and-d"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bitbucket-square' class='picker-icon fa fa-bitbucket-square' icon='icon fa fa-bitbucket-square'></i>
+	<i title="dashcube" class="picker-icon fab fa-dashcube" icon="icon fab fa-dashcube"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='bitcoin' class='picker-icon fa fa-bitcoin' icon='icon fa fa-bitcoin'></i>
+	<i title="delicious" class="picker-icon fab fa-delicious" icon="icon fab fa-delicious"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='btc' class='picker-icon fa fa-btc' icon='icon fa fa-btc'></i>
+	<i title="deploydog" class="picker-icon fab fa-deploydog" icon="icon fab fa-deploydog"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='buysellads' class='picker-icon fa fa-buysellads' icon='icon fa fa-buysellads'></i>
+	<i title="deskpro" class="picker-icon fab fa-deskpro" icon="icon fab fa-deskpro"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='codepen' class='picker-icon fa fa-codepen' icon='icon fa fa-codepen'></i>
+	<i title="deviantart" class="picker-icon fab fa-deviantart" icon="icon fab fa-deviantart"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='connectdevelop' class='picker-icon fa fa-connectdevelop' icon='icon fa fa-connectdevelop'></i>
+	<i title="digg" class="picker-icon fab fa-digg" icon="icon fab fa-digg"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='contao' class='picker-icon fa fa-contao' icon='icon fa fa-contao'></i>
+	<i title="digital-ocean" class="picker-icon fab fa-digital-ocean" icon="icon fab fa-digital-ocean"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='css3' class='picker-icon fa fa-css3' icon='icon fa fa-css3'></i>
+	<i title="discord" class="picker-icon fab fa-discord" icon="icon fab fa-discord"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='dashcube' class='picker-icon fa fa-dashcube' icon='icon fa fa-dashcube'></i>
+	<i title="discourse" class="picker-icon fab fa-discourse" icon="icon fab fa-discourse"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='delicious' class='picker-icon fa fa-delicious' icon='icon fa fa-delicious'></i>
+	<i title="dochub" class="picker-icon fab fa-dochub" icon="icon fab fa-dochub"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='deviantart' class='picker-icon fa fa-deviantart' icon='icon fa fa-deviantart'></i>
+	<i title="docker" class="picker-icon fab fa-docker" icon="icon fab fa-docker"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='digg' class='picker-icon fa fa-digg' icon='icon fa fa-digg'></i>
+	<i title="draft2digital" class="picker-icon fab fa-draft2digital" icon="icon fab fa-draft2digital"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='dribbble' class='picker-icon fa fa-dribbble' icon='icon fa fa-dribbble'></i>
+	<i title="dribbble" class="picker-icon fab fa-dribbble" icon="icon fab fa-dribbble"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='dropbox' class='picker-icon fa fa-dropbox' icon='icon fa fa-dropbox'></i>
+	<i title="dribbble-square" class="picker-icon fab fa-dribbble-square" icon="icon fab fa-dribbble-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='drupal' class='picker-icon fa fa-drupal' icon='icon fa fa-drupal'></i>
+	<i title="dropbox" class="picker-icon fab fa-dropbox" icon="icon fab fa-dropbox"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='empire' class='picker-icon fa fa-empire' icon='icon fa fa-empire'></i>
+	<i title="drupal" class="picker-icon fab fa-drupal" icon="icon fab fa-drupal"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='facebook' class='picker-icon fa fa-facebook' icon='icon fa fa-facebook'></i>
+	<i title="dyalog" class="picker-icon fab fa-dyalog" icon="icon fab fa-dyalog"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='facebook-f' class='picker-icon fa fa-facebook-f' icon='icon fa fa-facebook-f'></i>
+	<i title="earlybirds" class="picker-icon fab fa-earlybirds" icon="icon fab fa-earlybirds"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='facebook-official' class='picker-icon fa fa-facebook-official' icon='icon fa fa-facebook-official'></i>
+	<i title="edge" class="picker-icon fab fa-edge" icon="icon fab fa-edge"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='facebook-square' class='picker-icon fa fa-facebook-square' icon='icon fa fa-facebook-square'></i>
+	<i title="elementor" class="picker-icon fab fa-elementor" icon="icon fab fa-elementor"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='flickr' class='picker-icon fa fa-flickr' icon='icon fa fa-flickr'></i>
+	<i title="ember" class="picker-icon fab fa-ember" icon="icon fab fa-ember"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='fonticons' class='picker-icon fa fa-fonticons' icon='icon fa fa-fonticons'></i>
+	<i title="empire" class="picker-icon fab fa-empire" icon="icon fab fa-empire"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='forumbee' class='picker-icon fa fa-forumbee' icon='icon fa fa-forumbee'></i>
+	<i title="envira" class="picker-icon fab fa-envira" icon="icon fab fa-envira"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='foursquare' class='picker-icon fa fa-foursquare' icon='icon fa fa-foursquare'></i>
+	<i title="erlang" class="picker-icon fab fa-erlang" icon="icon fab fa-erlang"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='ge' class='picker-icon fa fa-ge' icon='icon fa fa-ge'></i>
+	<i title="ethereum" class="picker-icon fab fa-ethereum" icon="icon fab fa-ethereum"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='get-pocket' class='picker-icon fa fa-get-pocket' icon='icon fa fa-get-pocket'></i>
+	<i title="etsy" class="picker-icon fab fa-etsy" icon="icon fab fa-etsy"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='git' class='picker-icon fa fa-git' icon='icon fa fa-git'></i>
+	<i title="expeditedssl" class="picker-icon fab fa-expeditedssl" icon="icon fab fa-expeditedssl"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='git-square' class='picker-icon fa fa-git-square' icon='icon fa fa-git-square'></i>
+	<i title="facebook" class="picker-icon fab fa-facebook" icon="icon fab fa-facebook"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='github' class='picker-icon fa fa-github' icon='icon fa fa-github'></i>
+	<i title="facebook-f" class="picker-icon fab fa-facebook-f" icon="icon fab fa-facebook-f"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='github-alt' class='picker-icon fa fa-github-alt' icon='icon fa fa-github-alt'></i>
+	<i title="facebook-messenger" class="picker-icon fab fa-facebook-messenger" icon="icon fab fa-facebook-messenger"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='github-square' class='picker-icon fa fa-github-square' icon='icon fa fa-github-square'></i>
+	<i title="facebook-square" class="picker-icon fab fa-facebook-square" icon="icon fab fa-facebook-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='gittip' class='picker-icon fa fa-gittip' icon='icon fa fa-gittip'></i>
+	<i title="firefox" class="picker-icon fab fa-firefox" icon="icon fab fa-firefox"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='google' class='picker-icon fa fa-google' icon='icon fa fa-google'></i>
+	<i title="first-order" class="picker-icon fab fa-first-order" icon="icon fab fa-first-order"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='google-plus' class='picker-icon fa fa-google-plus' icon='icon fa fa-google-plus'></i>
+	<i title="firstdraft" class="picker-icon fab fa-firstdraft" icon="icon fab fa-firstdraft"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='google-plus-square' class='picker-icon fa fa-google-plus-square' icon='icon fa fa-google-plus-square'></i>
+	<i title="flickr" class="picker-icon fab fa-flickr" icon="icon fab fa-flickr"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='google-wallet' class='picker-icon fa fa-google-wallet' icon='icon fa fa-google-wallet'></i>
+	<i title="flipboard" class="picker-icon fab fa-flipboard" icon="icon fab fa-flipboard"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='gratipay' class='picker-icon fa fa-gratipay' icon='icon fa fa-gratipay'></i>
+	<i title="fly" class="picker-icon fab fa-fly" icon="icon fab fa-fly"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='hacker-news' class='picker-icon fa fa-hacker-news' icon='icon fa fa-hacker-news'></i>
+	<i title="font-awesome" class="picker-icon fab fa-font-awesome" icon="icon fab fa-font-awesome"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='houzz' class='picker-icon fa fa-houzz' icon='icon fa fa-houzz'></i>
+	<i title="font-awesome-alt" class="picker-icon fab fa-font-awesome-alt" icon="icon fab fa-font-awesome-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='html5' class='picker-icon fa fa-html5' icon='icon fa fa-html5'></i>
+	<i title="font-awesome-flag" class="picker-icon fab fa-font-awesome-flag" icon="icon fab fa-font-awesome-flag"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='instagram' class='picker-icon fa fa-instagram' icon='icon fa fa-instagram'></i>
+	<i title="fonticons" class="picker-icon fab fa-fonticons" icon="icon fab fa-fonticons"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='ioxhost' class='picker-icon fa fa-ioxhost' icon='icon fa fa-ioxhost'></i>
+	<i title="fonticons-fi" class="picker-icon fab fa-fonticons-fi" icon="icon fab fa-fonticons-fi"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='joomla' class='picker-icon fa fa-joomla' icon='icon fa fa-joomla'></i>
+	<i title="fort-awesome" class="picker-icon fab fa-fort-awesome" icon="icon fab fa-fort-awesome"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='jsfiddle' class='picker-icon fa fa-jsfiddle' icon='icon fa fa-jsfiddle'></i>
+	<i title="fort-awesome-alt" class="picker-icon fab fa-fort-awesome-alt" icon="icon fab fa-fort-awesome-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='lastfm' class='picker-icon fa fa-lastfm' icon='icon fa fa-lastfm'></i>
+	<i title="forumbee" class="picker-icon fab fa-forumbee" icon="icon fab fa-forumbee"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='lastfm-square' class='picker-icon fa fa-lastfm-square' icon='icon fa fa-lastfm-square'></i>
+	<i title="foursquare" class="picker-icon fab fa-foursquare" icon="icon fab fa-foursquare"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='leanpub' class='picker-icon fa fa-leanpub' icon='icon fa fa-leanpub'></i>
+	<i title="free-code-camp" class="picker-icon fab fa-free-code-camp" icon="icon fab fa-free-code-camp"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='linkedin' class='picker-icon fa fa-linkedin' icon='icon fa fa-linkedin'></i>
+	<i title="freebsd" class="picker-icon fab fa-freebsd" icon="icon fab fa-freebsd"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='linkedin-square' class='picker-icon fa fa-linkedin-square' icon='icon fa fa-linkedin-square'></i>
+	<i title="get-pocket" class="picker-icon fab fa-get-pocket" icon="icon fab fa-get-pocket"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='linux' class='picker-icon fa fa-linux' icon='icon fa fa-linux'></i>
+	<i title="gg" class="picker-icon fab fa-gg" icon="icon fab fa-gg"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='maxcdn' class='picker-icon fa fa-maxcdn' icon='icon fa fa-maxcdn'></i>
+	<i title="gg-circle" class="picker-icon fab fa-gg-circle" icon="icon fab fa-gg-circle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='meanpath' class='picker-icon fa fa-meanpath' icon='icon fa fa-meanpath'></i>
+	<i title="git" class="picker-icon fab fa-git" icon="icon fab fa-git"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='medium' class='picker-icon fa fa-medium' icon='icon fa fa-medium'></i>
+	<i title="git-square" class="picker-icon fab fa-git-square" icon="icon fab fa-git-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='odnoklassniki' class='picker-icon fa fa-odnoklassniki' icon='icon fa fa-odnoklassniki'></i>
+	<i title="github" class="picker-icon fab fa-github" icon="icon fab fa-github"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='odnoklassniki-square' class='picker-icon fa fa-odnoklassniki-square' icon='icon fa fa-odnoklassniki-square'></i>
+	<i title="github-alt" class="picker-icon fab fa-github-alt" icon="icon fab fa-github-alt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='opencart' class='picker-icon fa fa-opencart' icon='icon fa fa-opencart'></i>
+	<i title="github-square" class="picker-icon fab fa-github-square" icon="icon fab fa-github-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='openid' class='picker-icon fa fa-openid' icon='icon fa fa-openid'></i>
+	<i title="gitkraken" class="picker-icon fab fa-gitkraken" icon="icon fab fa-gitkraken"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='optin-monster' class='picker-icon fa fa-optin-monster' icon='icon fa fa-optin-monster'></i>
+	<i title="gitlab" class="picker-icon fab fa-gitlab" icon="icon fab fa-gitlab"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='pagelines' class='picker-icon fa fa-pagelines' icon='icon fa fa-pagelines'></i>
+	<i title="gitter" class="picker-icon fab fa-gitter" icon="icon fab fa-gitter"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='paypal' class='picker-icon fa fa-paypal' icon='icon fa fa-paypal'></i>
+	<i title="glide" class="picker-icon fab fa-glide" icon="icon fab fa-glide"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='pied-piper' class='picker-icon fa fa-pied-piper' icon='icon fa fa-pied-piper'></i>
+	<i title="glide-g" class="picker-icon fab fa-glide-g" icon="icon fab fa-glide-g"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='pied-piper-alt' class='picker-icon fa fa-pied-piper-alt' icon='icon fa fa-pied-piper-alt'></i>
+	<i title="gofore" class="picker-icon fab fa-gofore" icon="icon fab fa-gofore"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='pinterest' class='picker-icon fa fa-pinterest' icon='icon fa fa-pinterest'></i>
+	<i title="goodreads" class="picker-icon fab fa-goodreads" icon="icon fab fa-goodreads"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='pinterest-p' class='picker-icon fa fa-pinterest-p' icon='icon fa fa-pinterest-p'></i>
+	<i title="goodreads-g" class="picker-icon fab fa-goodreads-g" icon="icon fab fa-goodreads-g"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='pinterest-square' class='picker-icon fa fa-pinterest-square' icon='icon fa fa-pinterest-square'></i>
+	<i title="google" class="picker-icon fab fa-google" icon="icon fab fa-google"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='qq' class='picker-icon fa fa-qq' icon='icon fa fa-qq'></i>
+	<i title="google-drive" class="picker-icon fab fa-google-drive" icon="icon fab fa-google-drive"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='ra' class='picker-icon fa fa-ra' icon='icon fa fa-ra'></i>
+	<i title="google-play" class="picker-icon fab fa-google-play" icon="icon fab fa-google-play"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='rebel' class='picker-icon fa fa-rebel' icon='icon fa fa-rebel'></i>
+	<i title="google-plus" class="picker-icon fab fa-google-plus" icon="icon fab fa-google-plus"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='reddit' class='picker-icon fa fa-reddit' icon='icon fa fa-reddit'></i>
+	<i title="google-plus-g" class="picker-icon fab fa-google-plus-g" icon="icon fab fa-google-plus-g"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='reddit-square' class='picker-icon fa fa-reddit-square' icon='icon fa fa-reddit-square'></i>
+	<i title="google-plus-square" class="picker-icon fab fa-google-plus-square" icon="icon fab fa-google-plus-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='renren' class='picker-icon fa fa-renren' icon='icon fa fa-renren'></i>
+	<i title="google-wallet" class="picker-icon fab fa-google-wallet" icon="icon fab fa-google-wallet"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='sellsy' class='picker-icon fa fa-sellsy' icon='icon fa fa-sellsy'></i>
+	<i title="gratipay" class="picker-icon fab fa-gratipay" icon="icon fab fa-gratipay"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='share-alt' class='picker-icon fa fa-share-alt' icon='icon fa fa-share-alt'></i>
+	<i title="grav" class="picker-icon fab fa-grav" icon="icon fab fa-grav"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='share-alt-square' class='picker-icon fa fa-share-alt-square' icon='icon fa fa-share-alt-square'></i>
+	<i title="gripfire" class="picker-icon fab fa-gripfire" icon="icon fab fa-gripfire"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='shirtsinbulk' class='picker-icon fa fa-shirtsinbulk' icon='icon fa fa-shirtsinbulk'></i>
+	<i title="grunt" class="picker-icon fab fa-grunt" icon="icon fab fa-grunt"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='simplybuilt' class='picker-icon fa fa-simplybuilt' icon='icon fa fa-simplybuilt'></i>
+	<i title="gulp" class="picker-icon fab fa-gulp" icon="icon fab fa-gulp"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='skyatlas' class='picker-icon fa fa-skyatlas' icon='icon fa fa-skyatlas'></i>
+	<i title="hacker-news" class="picker-icon fab fa-hacker-news" icon="icon fab fa-hacker-news"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='skype' class='picker-icon fa fa-skype' icon='icon fa fa-skype'></i>
+	<i title="hacker-news-square" class="picker-icon fab fa-hacker-news-square" icon="icon fab fa-hacker-news-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='slack' class='picker-icon fa fa-slack' icon='icon fa fa-slack'></i>
+	<i title="hips" class="picker-icon fab fa-hips" icon="icon fab fa-hips"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='slideshare' class='picker-icon fa fa-slideshare' icon='icon fa fa-slideshare'></i>
+	<i title="hire-a-helper" class="picker-icon fab fa-hire-a-helper" icon="icon fab fa-hire-a-helper"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='soundcloud' class='picker-icon fa fa-soundcloud' icon='icon fa fa-soundcloud'></i>
+	<i title="hooli" class="picker-icon fab fa-hooli" icon="icon fab fa-hooli"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='spotify' class='picker-icon fa fa-spotify' icon='icon fa fa-spotify'></i>
+	<i title="hotjar" class="picker-icon fab fa-hotjar" icon="icon fab fa-hotjar"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='stack-exchange' class='picker-icon fa fa-stack-exchange' icon='icon fa fa-stack-exchange'></i>
+	<i title="houzz" class="picker-icon fab fa-houzz" icon="icon fab fa-houzz"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='stack-overflow' class='picker-icon fa fa-stack-overflow' icon='icon fa fa-stack-overflow'></i>
+	<i title="html5" class="picker-icon fab fa-html5" icon="icon fab fa-html5"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='steam' class='picker-icon fa fa-steam' icon='icon fa fa-steam'></i>
+	<i title="hubspot" class="picker-icon fab fa-hubspot" icon="icon fab fa-hubspot"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='steam-square' class='picker-icon fa fa-steam-square' icon='icon fa fa-steam-square'></i>
+	<i title="imdb" class="picker-icon fab fa-imdb" icon="icon fab fa-imdb"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='stumbleupon' class='picker-icon fa fa-stumbleupon' icon='icon fa fa-stumbleupon'></i>
+	<i title="instagram" class="picker-icon fab fa-instagram" icon="icon fab fa-instagram"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='stumbleupon-circle' class='picker-icon fa fa-stumbleupon-circle' icon='icon fa fa-stumbleupon-circle'></i>
+	<i title="internet-explorer" class="picker-icon fab fa-internet-explorer" icon="icon fab fa-internet-explorer"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='tencent-weibo' class='picker-icon fa fa-tencent-weibo' icon='icon fa fa-tencent-weibo'></i>
+	<i title="ioxhost" class="picker-icon fab fa-ioxhost" icon="icon fab fa-ioxhost"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='trello' class='picker-icon fa fa-trello' icon='icon fa fa-trello'></i>
+	<i title="itunes" class="picker-icon fab fa-itunes" icon="icon fab fa-itunes"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='tumblr' class='picker-icon fa fa-tumblr' icon='icon fa fa-tumblr'></i>
+	<i title="itunes-note" class="picker-icon fab fa-itunes-note" icon="icon fab fa-itunes-note"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='tumblr-square' class='picker-icon fa fa-tumblr-square' icon='icon fa fa-tumblr-square'></i>
+	<i title="jenkins" class="picker-icon fab fa-jenkins" icon="icon fab fa-jenkins"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='twitch' class='picker-icon fa fa-twitch' icon='icon fa fa-twitch'></i>
+	<i title="joget" class="picker-icon fab fa-joget" icon="icon fab fa-joget"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='twitter' class='picker-icon fa fa-twitter' icon='icon fa fa-twitter'></i>
+	<i title="joomla" class="picker-icon fab fa-joomla" icon="icon fab fa-joomla"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='twitter-square' class='picker-icon fa fa-twitter-square' icon='icon fa fa-twitter-square'></i>
+	<i title="js" class="picker-icon fab fa-js" icon="icon fab fa-js"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='viacoin' class='picker-icon fa fa-viacoin' icon='icon fa fa-viacoin'></i>
+	<i title="js-square" class="picker-icon fab fa-js-square" icon="icon fab fa-js-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='vimeo' class='picker-icon fa fa-vimeo' icon='icon fa fa-vimeo'></i>
+	<i title="jsfiddle" class="picker-icon fab fa-jsfiddle" icon="icon fab fa-jsfiddle"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='vimeo-square' class='picker-icon fa fa-vimeo-square' icon='icon fa fa-vimeo-square'></i>
+	<i title="keycdn" class="picker-icon fab fa-keycdn" icon="icon fab fa-keycdn"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='vine' class='picker-icon fa fa-vine' icon='icon fa fa-vine'></i>
+	<i title="kickstarter" class="picker-icon fab fa-kickstarter" icon="icon fab fa-kickstarter"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='vk' class='picker-icon fa fa-vk' icon='icon fa fa-vk'></i>
+	<i title="kickstarter-k" class="picker-icon fab fa-kickstarter-k" icon="icon fab fa-kickstarter-k"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='wechat' class='picker-icon fa fa-wechat' icon='icon fa fa-wechat'></i>
+	<i title="korvue" class="picker-icon fab fa-korvue" icon="icon fab fa-korvue"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='weibo' class='picker-icon fa fa-weibo' icon='icon fa fa-weibo'></i>
+	<i title="laravel" class="picker-icon fab fa-laravel" icon="icon fab fa-laravel"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='weixin' class='picker-icon fa fa-weixin' icon='icon fa fa-weixin'></i>
+	<i title="lastfm" class="picker-icon fab fa-lastfm" icon="icon fab fa-lastfm"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='whatsapp' class='picker-icon fa fa-whatsapp' icon='icon fa fa-whatsapp'></i>
+	<i title="lastfm-square" class="picker-icon fab fa-lastfm-square" icon="icon fab fa-lastfm-square"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='wikipedia-w' class='picker-icon fa fa-wikipedia-w' icon='icon fa fa-wikipedia-w'></i>
+	<i title="leanpub" class="picker-icon fab fa-leanpub" icon="icon fab fa-leanpub"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='windows' class='picker-icon fa fa-windows' icon='icon fa fa-windows'></i>
+	<i title="less" class="picker-icon fab fa-less" icon="icon fab fa-less"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='wordpress' class='picker-icon fa fa-wordpress' icon='icon fa fa-wordpress'></i>
+	<i title="line" class="picker-icon fab fa-line" icon="icon fab fa-line"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='xing' class='picker-icon fa fa-xing' icon='icon fa fa-xing'></i>
+	<i title="linkedin" class="picker-icon fab fa-linkedin" icon="icon fab fa-linkedin"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='xing-square' class='picker-icon fa fa-xing-square' icon='icon fa fa-xing-square'></i>
+	<i title="linkedin-in" class="picker-icon fab fa-linkedin-in" icon="icon fab fa-linkedin-in"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='y-combinator' class='picker-icon fa fa-y-combinator' icon='icon fa fa-y-combinator'></i>
+	<i title="linode" class="picker-icon fab fa-linode" icon="icon fab fa-linode"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='y-combinator-square' class='picker-icon fa fa-y-combinator-square' icon='icon fa fa-y-combinator-square'></i>
+	<i title="linux" class="picker-icon fab fa-linux" icon="icon fab fa-linux"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='yahoo' class='picker-icon fa fa-yahoo' icon='icon fa fa-yahoo'></i>
+	<i title="lyft" class="picker-icon fab fa-lyft" icon="icon fab fa-lyft"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='yc' class='picker-icon fa fa-yc' icon='icon fa fa-yc'></i>
+	<i title="magento" class="picker-icon fab fa-magento" icon="icon fab fa-magento"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='yc-square' class='picker-icon fa fa-yc-square' icon='icon fa fa-yc-square'></i>
+	<i title="maxcdn" class="picker-icon fab fa-maxcdn" icon="icon fab fa-maxcdn"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='yelp' class='picker-icon fa fa-yelp' icon='icon fa fa-yelp'></i>
+	<i title="medapps" class="picker-icon fab fa-medapps" icon="icon fab fa-medapps"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='youtube' class='picker-icon fa fa-youtube' icon='icon fa fa-youtube'></i>
+	<i title="medium" class="picker-icon fab fa-medium" icon="icon fab fa-medium"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='youtube-play' class='picker-icon fa fa-youtube-play' icon='icon fa fa-youtube-play'></i>
+	<i title="medium-m" class="picker-icon fab fa-medium-m" icon="icon fab fa-medium-m"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title='youtube-square' class='picker-icon fa fa-youtube-square' icon='icon fa fa-youtube-square'></i>
+	<i title="medrt" class="picker-icon fab fa-medrt" icon="icon fab fa-medrt"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="meetup" class="picker-icon fab fa-meetup" icon="icon fab fa-meetup"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="microsoft" class="picker-icon fab fa-microsoft" icon="icon fab fa-microsoft"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="mix" class="picker-icon fab fa-mix" icon="icon fab fa-mix"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="mixcloud" class="picker-icon fab fa-mixcloud" icon="icon fab fa-mixcloud"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="mizuni" class="picker-icon fab fa-mizuni" icon="icon fab fa-mizuni"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="modx" class="picker-icon fab fa-modx" icon="icon fab fa-modx"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="monero" class="picker-icon fab fa-monero" icon="icon fab fa-monero"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="napster" class="picker-icon fab fa-napster" icon="icon fab fa-napster"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="nintendo-switch" class="picker-icon fab fa-nintendo-switch" icon="icon fab fa-nintendo-switch"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="node" class="picker-icon fab fa-node" icon="icon fab fa-node"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="node-js" class="picker-icon fab fa-node-js" icon="icon fab fa-node-js"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="npm" class="picker-icon fab fa-npm" icon="icon fab fa-npm"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="ns8" class="picker-icon fab fa-ns8" icon="icon fab fa-ns8"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="nutritionix" class="picker-icon fab fa-nutritionix" icon="icon fab fa-nutritionix"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="odnoklassniki" class="picker-icon fab fa-odnoklassniki" icon="icon fab fa-odnoklassniki"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="odnoklassniki-square" class="picker-icon fab fa-odnoklassniki-square" icon="icon fab fa-odnoklassniki-square"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="opencart" class="picker-icon fab fa-opencart" icon="icon fab fa-opencart"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="openid" class="picker-icon fab fa-openid" icon="icon fab fa-openid"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="opera" class="picker-icon fab fa-opera" icon="icon fab fa-opera"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="optin-monster" class="picker-icon fab fa-optin-monster" icon="icon fab fa-optin-monster"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="osi" class="picker-icon fab fa-osi" icon="icon fab fa-osi"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="page4" class="picker-icon fab fa-page4" icon="icon fab fa-page4"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="pagelines" class="picker-icon fab fa-pagelines" icon="icon fab fa-pagelines"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="palfed" class="picker-icon fab fa-palfed" icon="icon fab fa-palfed"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="patreon" class="picker-icon fab fa-patreon" icon="icon fab fa-patreon"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="paypal" class="picker-icon fab fa-paypal" icon="icon fab fa-paypal"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="periscope" class="picker-icon fab fa-periscope" icon="icon fab fa-periscope"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="phabricator" class="picker-icon fab fa-phabricator" icon="icon fab fa-phabricator"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="phoenix-framework" class="picker-icon fab fa-phoenix-framework" icon="icon fab fa-phoenix-framework"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="php" class="picker-icon fab fa-php" icon="icon fab fa-php"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="pied-piper" class="picker-icon fab fa-pied-piper" icon="icon fab fa-pied-piper"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="pied-piper-alt" class="picker-icon fab fa-pied-piper-alt" icon="icon fab fa-pied-piper-alt"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="pied-piper-pp" class="picker-icon fab fa-pied-piper-pp" icon="icon fab fa-pied-piper-pp"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="pinterest" class="picker-icon fab fa-pinterest" icon="icon fab fa-pinterest"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="pinterest-p" class="picker-icon fab fa-pinterest-p" icon="icon fab fa-pinterest-p"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="pinterest-square" class="picker-icon fab fa-pinterest-square" icon="icon fab fa-pinterest-square"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="playstation" class="picker-icon fab fa-playstation" icon="icon fab fa-playstation"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="product-hunt" class="picker-icon fab fa-product-hunt" icon="icon fab fa-product-hunt"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="pushed" class="picker-icon fab fa-pushed" icon="icon fab fa-pushed"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="python" class="picker-icon fab fa-python" icon="icon fab fa-python"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="qq" class="picker-icon fab fa-qq" icon="icon fab fa-qq"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="quinscape" class="picker-icon fab fa-quinscape" icon="icon fab fa-quinscape"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="quora" class="picker-icon fab fa-quora" icon="icon fab fa-quora"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="ravelry" class="picker-icon fab fa-ravelry" icon="icon fab fa-ravelry"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="react" class="picker-icon fab fa-react" icon="icon fab fa-react"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="readme" class="picker-icon fab fa-readme" icon="icon fab fa-readme"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="rebel" class="picker-icon fab fa-rebel" icon="icon fab fa-rebel"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="red-river" class="picker-icon fab fa-red-river" icon="icon fab fa-red-river"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="reddit" class="picker-icon fab fa-reddit" icon="icon fab fa-reddit"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="reddit-alien" class="picker-icon fab fa-reddit-alien" icon="icon fab fa-reddit-alien"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="reddit-square" class="picker-icon fab fa-reddit-square" icon="icon fab fa-reddit-square"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="rendact" class="picker-icon fab fa-rendact" icon="icon fab fa-rendact"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="renren" class="picker-icon fab fa-renren" icon="icon fab fa-renren"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="replyd" class="picker-icon fab fa-replyd" icon="icon fab fa-replyd"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="resolving" class="picker-icon fab fa-resolving" icon="icon fab fa-resolving"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="rocketchat" class="picker-icon fab fa-rocketchat" icon="icon fab fa-rocketchat"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="rockrms" class="picker-icon fab fa-rockrms" icon="icon fab fa-rockrms"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="safari" class="picker-icon fab fa-safari" icon="icon fab fa-safari"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="sass" class="picker-icon fab fa-sass" icon="icon fab fa-sass"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="schlix" class="picker-icon fab fa-schlix" icon="icon fab fa-schlix"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="scribd" class="picker-icon fab fa-scribd" icon="icon fab fa-scribd"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="searchengin" class="picker-icon fab fa-searchengin" icon="icon fab fa-searchengin"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="sellcast" class="picker-icon fab fa-sellcast" icon="icon fab fa-sellcast"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="sellsy" class="picker-icon fab fa-sellsy" icon="icon fab fa-sellsy"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="servicestack" class="picker-icon fab fa-servicestack" icon="icon fab fa-servicestack"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="shirtsinbulk" class="picker-icon fab fa-shirtsinbulk" icon="icon fab fa-shirtsinbulk"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="simplybuilt" class="picker-icon fab fa-simplybuilt" icon="icon fab fa-simplybuilt"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="sistrix" class="picker-icon fab fa-sistrix" icon="icon fab fa-sistrix"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="skyatlas" class="picker-icon fab fa-skyatlas" icon="icon fab fa-skyatlas"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="skype" class="picker-icon fab fa-skype" icon="icon fab fa-skype"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="slack" class="picker-icon fab fa-slack" icon="icon fab fa-slack"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="slack-hash" class="picker-icon fab fa-slack-hash" icon="icon fab fa-slack-hash"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="slideshare" class="picker-icon fab fa-slideshare" icon="icon fab fa-slideshare"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="snapchat" class="picker-icon fab fa-snapchat" icon="icon fab fa-snapchat"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="snapchat-ghost" class="picker-icon fab fa-snapchat-ghost" icon="icon fab fa-snapchat-ghost"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="snapchat-square" class="picker-icon fab fa-snapchat-square" icon="icon fab fa-snapchat-square"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="soundcloud" class="picker-icon fab fa-soundcloud" icon="icon fab fa-soundcloud"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="speakap" class="picker-icon fab fa-speakap" icon="icon fab fa-speakap"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="spotify" class="picker-icon fab fa-spotify" icon="icon fab fa-spotify"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="stack-exchange" class="picker-icon fab fa-stack-exchange" icon="icon fab fa-stack-exchange"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="stack-overflow" class="picker-icon fab fa-stack-overflow" icon="icon fab fa-stack-overflow"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="staylinked" class="picker-icon fab fa-staylinked" icon="icon fab fa-staylinked"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="steam" class="picker-icon fab fa-steam" icon="icon fab fa-steam"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="steam-square" class="picker-icon fab fa-steam-square" icon="icon fab fa-steam-square"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="steam-symbol" class="picker-icon fab fa-steam-symbol" icon="icon fab fa-steam-symbol"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="sticker-mule" class="picker-icon fab fa-sticker-mule" icon="icon fab fa-sticker-mule"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="strava" class="picker-icon fab fa-strava" icon="icon fab fa-strava"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="stripe" class="picker-icon fab fa-stripe" icon="icon fab fa-stripe"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="stripe-s" class="picker-icon fab fa-stripe-s" icon="icon fab fa-stripe-s"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="studiovinari" class="picker-icon fab fa-studiovinari" icon="icon fab fa-studiovinari"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="stumbleupon" class="picker-icon fab fa-stumbleupon" icon="icon fab fa-stumbleupon"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="stumbleupon-circle" class="picker-icon fab fa-stumbleupon-circle" icon="icon fab fa-stumbleupon-circle"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="superpowers" class="picker-icon fab fa-superpowers" icon="icon fab fa-superpowers"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="supple" class="picker-icon fab fa-supple" icon="icon fab fa-supple"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="telegram" class="picker-icon fab fa-telegram" icon="icon fab fa-telegram"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="telegram-plane" class="picker-icon fab fa-telegram-plane" icon="icon fab fa-telegram-plane"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="tencent-weibo" class="picker-icon fab fa-tencent-weibo" icon="icon fab fa-tencent-weibo"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="themeisle" class="picker-icon fab fa-themeisle" icon="icon fab fa-themeisle"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="trello" class="picker-icon fab fa-trello" icon="icon fab fa-trello"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="tripadvisor" class="picker-icon fab fa-tripadvisor" icon="icon fab fa-tripadvisor"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="tumblr" class="picker-icon fab fa-tumblr" icon="icon fab fa-tumblr"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="tumblr-square" class="picker-icon fab fa-tumblr-square" icon="icon fab fa-tumblr-square"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="twitch" class="picker-icon fab fa-twitch" icon="icon fab fa-twitch"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="twitter" class="picker-icon fab fa-twitter" icon="icon fab fa-twitter"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="twitter-square" class="picker-icon fab fa-twitter-square" icon="icon fab fa-twitter-square"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="typo3" class="picker-icon fab fa-typo3" icon="icon fab fa-typo3"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="uber" class="picker-icon fab fa-uber" icon="icon fab fa-uber"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="uikit" class="picker-icon fab fa-uikit" icon="icon fab fa-uikit"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="uniregistry" class="picker-icon fab fa-uniregistry" icon="icon fab fa-uniregistry"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="untappd" class="picker-icon fab fa-untappd" icon="icon fab fa-untappd"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="usb" class="picker-icon fab fa-usb" icon="icon fab fa-usb"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="ussunnah" class="picker-icon fab fa-ussunnah" icon="icon fab fa-ussunnah"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="vaadin" class="picker-icon fab fa-vaadin" icon="icon fab fa-vaadin"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="viacoin" class="picker-icon fab fa-viacoin" icon="icon fab fa-viacoin"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="viadeo" class="picker-icon fab fa-viadeo" icon="icon fab fa-viadeo"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="viadeo-square" class="picker-icon fab fa-viadeo-square" icon="icon fab fa-viadeo-square"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="viber" class="picker-icon fab fa-viber" icon="icon fab fa-viber"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="vimeo" class="picker-icon fab fa-vimeo" icon="icon fab fa-vimeo"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="vimeo-square" class="picker-icon fab fa-vimeo-square" icon="icon fab fa-vimeo-square"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="vimeo-v" class="picker-icon fab fa-vimeo-v" icon="icon fab fa-vimeo-v"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="vine" class="picker-icon fab fa-vine" icon="icon fab fa-vine"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="vk" class="picker-icon fab fa-vk" icon="icon fab fa-vk"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="vnv" class="picker-icon fab fa-vnv" icon="icon fab fa-vnv"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="vuejs" class="picker-icon fab fa-vuejs" icon="icon fab fa-vuejs"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="weibo" class="picker-icon fab fa-weibo" icon="icon fab fa-weibo"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="weixin" class="picker-icon fab fa-weixin" icon="icon fab fa-weixin"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="whatsapp" class="picker-icon fab fa-whatsapp" icon="icon fab fa-whatsapp"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="whatsapp-square" class="picker-icon fab fa-whatsapp-square" icon="icon fab fa-whatsapp-square"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="whmcs" class="picker-icon fab fa-whmcs" icon="icon fab fa-whmcs"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="wikipedia-w" class="picker-icon fab fa-wikipedia-w" icon="icon fab fa-wikipedia-w"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="windows" class="picker-icon fab fa-windows" icon="icon fab fa-windows"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="wordpress" class="picker-icon fab fa-wordpress" icon="icon fab fa-wordpress"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="wordpress-simple" class="picker-icon fab fa-wordpress-simple" icon="icon fab fa-wordpress-simple"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="wpbeginner" class="picker-icon fab fa-wpbeginner" icon="icon fab fa-wpbeginner"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="wpexplorer" class="picker-icon fab fa-wpexplorer" icon="icon fab fa-wpexplorer"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="wpforms" class="picker-icon fab fa-wpforms" icon="icon fab fa-wpforms"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="xbox" class="picker-icon fab fa-xbox" icon="icon fab fa-xbox"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="xing" class="picker-icon fab fa-xing" icon="icon fab fa-xing"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="xing-square" class="picker-icon fab fa-xing-square" icon="icon fab fa-xing-square"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="y-combinator" class="picker-icon fab fa-y-combinator" icon="icon fab fa-y-combinator"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="yahoo" class="picker-icon fab fa-yahoo" icon="icon fab fa-yahoo"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="yandex" class="picker-icon fab fa-yandex" icon="icon fab fa-yandex"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="yandex-international" class="picker-icon fab fa-yandex-international" icon="icon fab fa-yandex-international"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="yelp" class="picker-icon fab fa-yelp" icon="icon fab fa-yelp"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="yoast" class="picker-icon fab fa-yoast" icon="icon fab fa-yoast"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="youtube" class="picker-icon fab fa-youtube" icon="icon fab fa-youtube"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="youtube-square" class="picker-icon fab fa-youtube-square" icon="icon fab fa-youtube-square"></i>
 </span>

@@ -16,11 +16,11 @@ use yii\helpers\Html;
 use cmsgears\core\common\base\Widget;
 
 /**
- * IconChooser widget provide options to choose icon from standard libraries.
+ * TextureChooser widget provide options to choose texture.
  *
  * @since 1.0.0
  */
-class IconChooser extends Widget {
+class TextureChooser extends Widget {
 
 	// Variables ---------------------------------------------------
 
@@ -40,15 +40,15 @@ class IconChooser extends Widget {
 
 	public $class		= null;
 	public $model		= null;
-	public $attribute	= 'icon';
-	public $label		= 'Icon';
-	public $icon		= null;
+	public $attribute	= 'texture';
+	public $label		= 'Texture';
+	public $texture		= null;
 
-	public $default		= 'icon'; // none
+	public $default		= 'texture'; // none
 
 	public $disabled	= false;
 
-	public $template	= 'icon';
+	public $template	= 'texture';
 
 	// Protected --------------
 
@@ -76,7 +76,7 @@ class IconChooser extends Widget {
 			'name' => $this->getModelName(),
 			'attribute' => $this->attribute,
 			'label' => $this->label,
-			'icon' => $this->getIcon(),
+			'texture' => $this->getTexture(),
 			'disabled' => $this->disabled
 		]);
 
@@ -115,26 +115,26 @@ class IconChooser extends Widget {
 	}
 
 	/**
-	 * Return the icon to be displayed.
+	 * Return the texture to be displayed.
 	 *
 	 * @return string
 	 */
-	private function getIcon() {
+	private function getTexture() {
 
 		// Provided name will override
 		if( isset( $this->model ) ) {
 
-			$icon = $this->attribute;
+			$texture = $this->attribute;
 
-			if( isset( $this->model->$icon ) ) {
+			if( isset( $this->model->$texture ) ) {
 
-				return $this->model->$icon;
+				return $this->model->$texture;
 			}
 		}
 
-		if( isset( $this->icon ) ) {
+		if( isset( $this->texture ) ) {
 
-			return $this->icon;
+			return $this->texture;
 		}
 
 		return $this->default;
