@@ -7,7 +7,7 @@
 	<span class="picker-icon-wrap choose-icon <?php if( $disabled ) echo 'disabled'; ?>">
 		<i class="picker-icon <?= $icon ?>"></i>
 	</span>
-	<div class="tabs tabs-basic picker-icon-sets">
+	<div class="cmt-tabs tabs tabs-basic picker-icon-sets">
 		<div class="tab-links-wrap">
 			<span class="tab-link" target="#icon-tab-fa">FA</span>
 			<span class="tab-link" target="#icon-tab-breeze">Breeze</span>
