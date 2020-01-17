@@ -25,7 +25,9 @@ class CmtiCoreAssets extends AssetBundle {
 
 	// Load CSS
 	public $css = [
-		'dist/css/breeze-icons-core.min.css'
+		'dist/css/breeze-icons-core.min.css',
+		'dist/css/breeze-icons-brand.min.css',
+		'dist/css/breeze-icons-currency.min.css'
 	];
 
 	// Publish
