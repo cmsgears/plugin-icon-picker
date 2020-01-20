@@ -12,15 +12,12 @@ namespace cmsgears\icons\widgets;
 // Yii Imports
 use yii\helpers\Html;
 
-// CMG Imports
-use cmsgears\core\common\base\Widget;
-
 /**
  * IconChooser widget provide options to choose icon from standard libraries.
  *
  * @since 1.0.0
  */
-class IconChooser extends Widget {
+class IconChooser extends \cmsgears\core\common\base\Widget {
 
 	// Variables ---------------------------------------------------
 
@@ -36,7 +33,7 @@ class IconChooser extends Widget {
 
 	// Public -----------------
 
-	public $wrap		= true;
+	public $wrap = true;
 
 	public $class		= null;
 	public $model		= null;
@@ -44,11 +41,11 @@ class IconChooser extends Widget {
 	public $label		= 'Icon';
 	public $icon		= null;
 
-	public $default		= 'icon'; // none
+	public $default = 'icon'; // none
 
-	public $disabled	= false;
+	public $disabled = false;
 
-	public $template	= 'icon';
+	public $template = 'icon';
 
 	// Protected --------------
 

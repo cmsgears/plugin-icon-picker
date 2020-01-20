@@ -11,6 +11,8 @@
 		<div class="tab-links-wrap">
 			<span class="tab-link" target="#icon-tab-fa">FA</span>
 			<span class="tab-link" target="#icon-tab-breeze">Breeze</span>
+			<span class="tab-link" target="#icon-tab-brand">Brand</span>
+			<span class="tab-link" target="#icon-tab-currency">Currency</span>
 		</div>
 		<div class="tab-content-wrap">
 			<div id="icon-tab-fa" class="tab-content picker-icon-set cscroller">
@@ -23,7 +25,19 @@
 				<span class="picker-icon-wrap">
 					<i class="picker-icon" icon=""></i>
 				</span>
-				<?php include_once "library/breeze-icons.php"; ?>
+				<?php include_once "library/breeze-core.php"; ?>
+			</div>
+			<div id="icon-tab-brand" class="tab-content picker-icon-set cscroller">
+				<span class="picker-icon-wrap">
+					<i class="picker-icon" icon=""></i>
+				</span>
+				<?php include_once "library/breeze-brand.php"; ?>
+			</div>
+			<div id="icon-tab-currency" class="tab-content picker-icon-set cscroller">
+				<span class="picker-icon-wrap">
+					<i class="picker-icon" icon=""></i>
+				</span>
+				<?php include_once "library/breeze-currency.php"; ?>
 			</div>
 		</div>
 	</div>

@@ -12,15 +12,12 @@ namespace cmsgears\icons\widgets;
 // Yii Imports
 use yii\helpers\Html;
 
-// CMG Imports
-use cmsgears\core\common\base\Widget;
-
 /**
  * TextureChooser widget provide options to choose texture.
  *
  * @since 1.0.0
  */
-class TextureChooser extends Widget {
+class TextureChooser extends \cmsgears\core\common\base\Widget {
 
 	// Variables ---------------------------------------------------
 
@@ -36,7 +33,7 @@ class TextureChooser extends Widget {
 
 	// Public -----------------
 
-	public $wrap		= true;
+	public $wrap = true;
 
 	public $class		= null;
 	public $model		= null;
@@ -44,11 +41,11 @@ class TextureChooser extends Widget {
 	public $label		= 'Texture';
 	public $texture		= null;
 
-	public $default		= 'texture'; // none
+	public $default = 'texture'; // none
 
-	public $disabled	= false;
+	public $disabled = false;
 
-	public $template	= 'texture';
+	public $template = 'texture';
 
 	// Protected --------------
 

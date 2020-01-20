@@ -9,10 +9,7 @@
 
 namespace cmsgears\icons\assets;
 
-// Yii Imports
-use yii\web\AssetBundle;
-
-class CmtiCoreAssets extends AssetBundle {
+class CmtiCoreAssets extends \yii\web\AssetBundle {
 
 	// Variables ---------------------------------------------------
 
