@@ -18,7 +18,7 @@ class CmtiCoreAssets extends \yii\web\AssetBundle {
 	// Public -----------------
 
 	// Path Configuration
-	public $sourcePath = '@bower/cmt-breeze-icons';
+	public $sourcePath = '@cmgtools/breeze-icons';
 
 	// Load CSS
 	public $css = [
