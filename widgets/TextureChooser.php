@@ -35,7 +35,7 @@ class TextureChooser extends \cmsgears\core\common\base\Widget {
 
 	public $wrap = true;
 
-	public $class		= null;
+	public $className	= null;
 	public $model		= null;
 	public $attribute	= 'texture';
 	public $label		= 'Texture';
@@ -95,9 +95,9 @@ class TextureChooser extends \cmsgears\core\common\base\Widget {
 	private function getModelName() {
 
 		// Provided name will override
-		if( isset( $this->class ) ) {
+		if( isset( $this->className ) ) {
 
-			return $this->class;
+			return $this->className;
 		}
 
 		// Return class name if model is given
