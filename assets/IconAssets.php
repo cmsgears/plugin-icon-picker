@@ -66,6 +66,16 @@ class IconAssets extends AssetBundle {
 			$this->depends[] = 'cmsgears\icons\assets\CmtiCoreAssets';
 		}
 
+		if( isset( $iconSets[ 'cmti-brand' ] ) && $iconSets[ 'cmti-brand' ] ) {
+
+			$this->depends[] = 'cmsgears\icons\assets\CmtiBrandAssets';
+		}
+
+		if( isset( $iconSets[ 'cmti-currency' ] ) && $iconSets[ 'cmti-currency' ] ) {
+
+			$this->depends[] = 'cmsgears\icons\assets\CmtiCurrencyAssets';
+		}
+
 		parent::__construct( $config );
 	}
 

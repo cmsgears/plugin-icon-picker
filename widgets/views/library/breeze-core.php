@@ -56,13 +56,13 @@
 	<i title="arrow-right" class="picker-icon cmti cmti-arrow-right" icon="icon cmti cmti-arrow-right"></i>
 </span>
 <span class="picker-icon-wrap">
+	<i title="arrows" class="picker-icon cmti cmti-arrows" icon="icon cmti cmti-arrows"></i>
+</span>
+<span class="picker-icon-wrap">
 	<i title="arrow-up" class="picker-icon cmti cmti-arrow-up" icon="icon cmti cmti-arrow-up"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="arrow-width" class="picker-icon cmti cmti-arrow-width" icon="icon cmti cmti-arrow-width"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="arrows" class="picker-icon cmti cmti-arrows" icon="icon cmti cmti-arrows"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="asterisk" class="picker-icon cmti cmti-asterisk" icon="icon cmti cmti-asterisk"></i>
@@ -77,13 +77,16 @@
 	<i title="backward-btn" class="picker-icon cmti cmti-backward-btn" icon="icon cmti cmti-backward-btn"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title="backward-c" class="picker-icon cmti cmti-backward-c" icon="icon cmti cmti-backward-c"></i>
+	<i title="backward-btn-c" class="picker-icon cmti cmti-backward-btn-c" icon="icon cmti cmti-backward-btn-c"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="bag" class="picker-icon cmti cmti-bag" icon="icon cmti cmti-bag"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="bag-o" class="picker-icon cmti cmti-bag-o" icon="icon cmti cmti-bag-o"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="balance-scale" class="picker-icon cmti cmti-balance-scale" icon="icon cmti cmti-balance-scale"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="ban" class="picker-icon cmti cmti-ban" icon="icon cmti cmti-ban"></i>
@@ -105,6 +108,12 @@
 </span>
 <span class="picker-icon-wrap">
 	<i title="bed-o" class="picker-icon cmti cmti-bed-o" icon="icon cmti cmti-bed-o"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="beek" class="picker-icon cmti cmti-beek" icon="icon cmti cmti-beek"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="beek-o" class="picker-icon cmti cmti-beek-o" icon="icon cmti cmti-beek-o"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="beer" class="picker-icon cmti cmti-beer" icon="icon cmti cmti-beer"></i>
@@ -164,6 +173,9 @@
 	<i title="bus" class="picker-icon cmti cmti-bus" icon="icon cmti cmti-bus"></i>
 </span>
 <span class="picker-icon-wrap">
+	<i title="calculator" class="picker-icon cmti cmti-calculator" icon="icon cmti cmti-calculator"></i>
+</span>
+<span class="picker-icon-wrap">
 	<i title="calendar" class="picker-icon cmti cmti-calendar" icon="icon cmti cmti-calendar"></i>
 </span>
 <span class="picker-icon-wrap">
@@ -218,12 +230,6 @@
 	<i title="check" class="picker-icon cmti cmti-check" icon="icon cmti cmti-check"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title="check-o" class="picker-icon cmti cmti-check-o" icon="icon cmti cmti-check-o"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="check-report" class="picker-icon cmti cmti-check-report" icon="icon cmti cmti-check-report"></i>
-</span>
-<span class="picker-icon-wrap">
 	<i title="checkbox" class="picker-icon cmti cmti-checkbox" icon="icon cmti cmti-checkbox"></i>
 </span>
 <span class="picker-icon-wrap">
@@ -237,6 +243,12 @@
 </span>
 <span class="picker-icon-wrap">
 	<i title="checkbox-b-active" class="picker-icon cmti cmti-checkbox-b-active" icon="icon cmti cmti-checkbox-b-active"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="check-o" class="picker-icon cmti cmti-check-o" icon="icon cmti cmti-check-o"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="check-report" class="picker-icon cmti cmti-check-report" icon="icon cmti cmti-check-report"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="chevron-down" class="picker-icon cmti cmti-chevron-down" icon="icon cmti cmti-chevron-down"></i>
@@ -263,6 +275,9 @@
 	<i title="chevron-up-o" class="picker-icon cmti cmti-chevron-up-o" icon="icon cmti cmti-chevron-up-o"></i>
 </span>
 <span class="picker-icon-wrap">
+	<i title="clock" class="picker-icon cmti cmti-clock" icon="icon cmti cmti-clock"></i>
+</span>
+<span class="picker-icon-wrap">
 	<i title="close" class="picker-icon cmti cmti-close" icon="icon cmti cmti-close"></i>
 </span>
 <span class="picker-icon-wrap">
@@ -270,6 +285,15 @@
 </span>
 <span class="picker-icon-wrap">
 	<i title="close-c-o" class="picker-icon cmti cmti-close-c-o" icon="icon cmti cmti-close-c-o"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="cloud" class="picker-icon cmti cmti-cloud" icon="icon cmti cmti-cloud"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="cloud-download" class="picker-icon cmti cmti-cloud-download" icon="icon cmti cmti-cloud-download"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="cloud-upload" class="picker-icon cmti cmti-cloud-upload" icon="icon cmti cmti-cloud-upload"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="cms" class="picker-icon cmti cmti-cms" icon="icon cmti cmti-cms"></i>
@@ -294,15 +318,6 @@
 </span>
 <span class="picker-icon-wrap">
 	<i title="crop" class="picker-icon cmti cmti-crop" icon="icon cmti cmti-crop"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="curency-dollar-b" class="picker-icon cmti cmti-curency-dollar-b" icon="icon cmti cmti-curency-dollar-b"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="currency-dollar" class="picker-icon cmti cmti-currency-dollar" icon="icon cmti cmti-currency-dollar"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="currency-note" class="picker-icon cmti cmti-currency-note" icon="icon cmti cmti-currency-note"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="cutlery" class="picker-icon cmti cmti-cutlery" icon="icon cmti cmti-cutlery"></i>
@@ -347,6 +362,9 @@
 	<i title="eject-c" class="picker-icon cmti cmti-eject-c" icon="icon cmti cmti-eject-c"></i>
 </span>
 <span class="picker-icon-wrap">
+	<i title="emoticons-angry" class="picker-icon cmti cmti-emoticons-angry" icon="icon cmti cmti-emoticons-angry"></i>
+</span>
+<span class="picker-icon-wrap">
 	<i title="emoticons-happy" class="picker-icon cmti cmti-emoticons-happy" icon="icon cmti cmti-emoticons-happy"></i>
 </span>
 <span class="picker-icon-wrap">
@@ -374,6 +392,9 @@
 	<i title="envelope-o" class="picker-icon cmti cmti-envelope-o" icon="icon cmti cmti-envelope-o"></i>
 </span>
 <span class="picker-icon-wrap">
+	<i title="envelope-open" class="picker-icon cmti cmti-envelope-open" icon="icon cmti cmti-envelope-open"></i>
+</span>
+<span class="picker-icon-wrap">
 	<i title="equalizer" class="picker-icon cmti cmti-equalizer" icon="icon cmti cmti-equalizer"></i>
 </span>
 <span class="picker-icon-wrap">
@@ -390,6 +411,12 @@
 </span>
 <span class="picker-icon-wrap">
 	<i title="eye" class="picker-icon cmti cmti-eye" icon="icon cmti cmti-eye"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="eyedropper" class="picker-icon cmti cmti-eyedropper" icon="icon cmti cmti-eyedropper"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="eyedropper-l" class="picker-icon cmti cmti-eyedropper-l" icon="icon cmti cmti-eyedropper-l"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="eye-off" class="picker-icon cmti cmti-eye-off" icon="icon cmti cmti-eye-off"></i>
@@ -455,13 +482,31 @@
 	<i title="film" class="picker-icon cmti cmti-film" icon="icon cmti cmti-film"></i>
 </span>
 <span class="picker-icon-wrap">
+	<i title="fire" class="picker-icon cmti cmti-fire" icon="icon cmti cmti-fire"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="firecamp" class="picker-icon cmti cmti-firecamp" icon="icon cmti cmti-firecamp"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="fire-extinguisher" class="picker-icon cmti cmti-fire-extinguisher" icon="icon cmti cmti-fire-extinguisher"></i>
+</span>
+<span class="picker-icon-wrap">
 	<i title="flag" class="picker-icon cmti cmti-flag" icon="icon cmti cmti-flag"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="flag-o" class="picker-icon cmti cmti-flag-o" icon="icon cmti cmti-flag-o"></i>
 </span>
 <span class="picker-icon-wrap">
+	<i title="flash" class="picker-icon cmti cmti-flash" icon="icon cmti cmti-flash"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="flash-o" class="picker-icon cmti cmti-flash-o" icon="icon cmti cmti-flash-o"></i>
+</span>
+<span class="picker-icon-wrap">
 	<i title="flexible" class="picker-icon cmti cmti-flexible" icon="icon cmti cmti-flexible"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="flexible-c" class="picker-icon cmti cmti-flexible-c" icon="icon cmti cmti-flexible-c"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="flexible-o" class="picker-icon cmti cmti-flexible-o" icon="icon cmti cmti-flexible-o"></i>
@@ -482,10 +527,7 @@
 	<i title="forward-btn" class="picker-icon cmti cmti-forward-btn" icon="icon cmti cmti-forward-btn"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title="forward-c" class="picker-icon cmti cmti-forward-c" icon="icon cmti cmti-forward-c"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="forward-c-o" class="picker-icon cmti cmti-forward-c-o" icon="icon cmti cmti-forward-c-o"></i>
+	<i title="forward-btn-c" class="picker-icon cmti cmti-forward-btn-c" icon="icon cmti cmti-forward-btn-c"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="forward-o" class="picker-icon cmti cmti-forward-o" icon="icon cmti cmti-forward-o"></i>
@@ -581,13 +623,13 @@
 	<i title="list-disable" class="picker-icon cmti cmti-list-disable" icon="icon cmti cmti-list-disable"></i>
 </span>
 <span class="picker-icon-wrap">
+	<i title="listing" class="picker-icon cmti cmti-listing" icon="icon cmti cmti-listing"></i>
+</span>
+<span class="picker-icon-wrap">
 	<i title="list-new" class="picker-icon cmti cmti-list-new" icon="icon cmti cmti-list-new"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="list-small" class="picker-icon cmti cmti-list-small" icon="icon cmti cmti-list-small"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="listing" class="picker-icon cmti cmti-listing" icon="icon cmti cmti-listing"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="lock-close" class="picker-icon cmti cmti-lock-close" icon="icon cmti cmti-lock-close"></i>
@@ -692,9 +734,6 @@
 	<i title="pen" class="picker-icon cmti cmti-pen" icon="icon cmti cmti-pen"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title="pen-o" class="picker-icon cmti cmti-pen-o" icon="icon cmti cmti-pen-o"></i>
-</span>
-<span class="picker-icon-wrap">
 	<i title="pencil" class="picker-icon cmti cmti-pencil" icon="icon cmti cmti-pencil"></i>
 </span>
 <span class="picker-icon-wrap">
@@ -702,6 +741,9 @@
 </span>
 <span class="picker-icon-wrap">
 	<i title="pencil-o" class="picker-icon cmti cmti-pencil-o" icon="icon cmti cmti-pencil-o"></i>
+</span>
+<span class="picker-icon-wrap">
+	<i title="pen-o" class="picker-icon cmti cmti-pen-o" icon="icon cmti cmti-pen-o"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="percent" class="picker-icon cmti cmti-percent" icon="icon cmti cmti-percent"></i>
@@ -848,100 +890,19 @@
 	<i title="shipping-free" class="picker-icon cmti cmti-shipping-free" icon="icon cmti cmti-shipping-free"></i>
 </span>
 <span class="picker-icon-wrap">
+	<i title="signals" class="picker-icon cmti cmti-signals" icon="icon cmti cmti-signals"></i>
+</span>
+<span class="picker-icon-wrap">
 	<i title="sign-in" class="picker-icon cmti cmti-sign-in" icon="icon cmti cmti-sign-in"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="sign-out" class="picker-icon cmti cmti-sign-out" icon="icon cmti cmti-sign-out"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title="signals" class="picker-icon cmti cmti-signals" icon="icon cmti cmti-signals"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="site-amazon" class="picker-icon cmti cmti-site-amazon" icon="icon cmti cmti-site-amazon"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="site-apple" class="picker-icon cmti cmti-site-apple" icon="icon cmti cmti-site-apple"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="site-ebay" class="picker-icon cmti cmti-site-ebay" icon="icon cmti cmti-site-ebay"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="site-wordpress" class="picker-icon cmti cmti-site-wordpress" icon="icon cmti cmti-site-wordpress"></i>
-</span>
-<span class="picker-icon-wrap">
 	<i title="slider" class="picker-icon cmti cmti-slider" icon="icon cmti cmti-slider"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="sliders" class="picker-icon cmti cmti-sliders" icon="icon cmti cmti-sliders"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-dropbox" class="picker-icon cmti cmti-social-dropbox" icon="icon cmti cmti-social-dropbox"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-evernote" class="picker-icon cmti cmti-social-evernote" icon="icon cmti cmti-social-evernote"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-facebook" class="picker-icon cmti cmti-social-facebook" icon="icon cmti cmti-social-facebook"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-flicker" class="picker-icon cmti cmti-social-flicker" icon="icon cmti cmti-social-flicker"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-foursquare" class="picker-icon cmti cmti-social-foursquare" icon="icon cmti cmti-social-foursquare"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-gmail" class="picker-icon cmti cmti-social-gmail" icon="icon cmti cmti-social-gmail"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-google" class="picker-icon cmti cmti-social-google" icon="icon cmti cmti-social-google"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-google-plus" class="picker-icon cmti cmti-social-google-plus" icon="icon cmti cmti-social-google-plus"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-instagram" class="picker-icon cmti cmti-social-instagram" icon="icon cmti cmti-social-instagram"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-linkedin" class="picker-icon cmti cmti-social-linkedin" icon="icon cmti cmti-social-linkedin"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-picasa" class="picker-icon cmti cmti-social-picasa" icon="icon cmti cmti-social-picasa"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-pinterest" class="picker-icon cmti cmti-social-pinterest" icon="icon cmti cmti-social-pinterest"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-quora" class="picker-icon cmti cmti-social-quora" icon="icon cmti cmti-social-quora"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-skype" class="picker-icon cmti cmti-social-skype" icon="icon cmti cmti-social-skype"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-snapchat" class="picker-icon cmti cmti-social-snapchat" icon="icon cmti cmti-social-snapchat"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-tumblr" class="picker-icon cmti cmti-social-tumblr" icon="icon cmti cmti-social-tumblr"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-twitter" class="picker-icon cmti cmti-social-twitter" icon="icon cmti cmti-social-twitter"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-vimeo" class="picker-icon cmti cmti-social-vimeo" icon="icon cmti cmti-social-vimeo"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-vine" class="picker-icon cmti cmti-social-vine" icon="icon cmti cmti-social-vine"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-vk" class="picker-icon cmti cmti-social-vk" icon="icon cmti cmti-social-vk"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-whatsapp" class="picker-icon cmti cmti-social-whatsapp" icon="icon cmti cmti-social-whatsapp"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-yahoo" class="picker-icon cmti cmti-social-yahoo" icon="icon cmti cmti-social-yahoo"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="social-youtube" class="picker-icon cmti cmti-social-youtube" icon="icon cmti cmti-social-youtube"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="sound-off" class="picker-icon cmti cmti-sound-off" icon="icon cmti cmti-sound-off"></i>
@@ -1181,18 +1142,6 @@
 	<i title="user-stranger-o" class="picker-icon cmti cmti-user-stranger-o" icon="icon cmti cmti-user-stranger-o"></i>
 </span>
 <span class="picker-icon-wrap">
-	<i title="vc-cmgtools" class="picker-icon cmti cmti-vc-cmgtools" icon="icon cmti cmti-vc-cmgtools"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="vc-cmsgears" class="picker-icon cmti cmti-vc-cmsgears" icon="icon cmti cmti-vc-cmsgears"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="vc-foxslider" class="picker-icon cmti cmti-vc-foxslider" icon="icon cmti cmti-vc-foxslider"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="vc-vulpinecode" class="picker-icon cmti cmti-vc-vulpinecode" icon="icon cmti cmti-vc-vulpinecode"></i>
-</span>
-<span class="picker-icon-wrap">
 	<i title="wallet" class="picker-icon cmti cmti-wallet" icon="icon cmti cmti-wallet"></i>
 </span>
 <span class="picker-icon-wrap">
@@ -1212,9 +1161,6 @@
 </span>
 <span class="picker-icon-wrap">
 	<i title="wrench" class="picker-icon cmti cmti-wrench" icon="icon cmti cmti-wrench"></i>
-</span>
-<span class="picker-icon-wrap">
-	<i title="youtube-play" class="picker-icon cmti cmti-youtube-play" icon="icon cmti cmti-youtube-play"></i>
 </span>
 <span class="picker-icon-wrap">
 	<i title="zoom-in" class="picker-icon cmti cmti-zoom-in" icon="icon cmti cmti-zoom-in"></i>

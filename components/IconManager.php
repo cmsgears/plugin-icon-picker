@@ -23,7 +23,7 @@ class IconManager extends Component {
 
 	// Public -----------------
 
-	public $iconSets = [ 'cmti' => true, 'fa' => true ];
+	public $iconSets = [ 'fa' => true, 'cmti' => true, 'cmti-brand' => true, 'cmti-currency' => true ];
 
 	// Protected --------------
 
@@ -54,13 +54,13 @@ class IconManager extends Component {
 
 		switch( $iconLib ) {
 
-			case 'cmti': {
-
-				return $this->getCmtiFileIcon( $fileType );
-			}
 			case 'fa': {
 
 				return $this->getFaFileIcon( $fileType );
+			}
+			case 'cmti': {
+
+				return $this->getCmtiFileIcon( $fileType );
 			}
 		}
 	}

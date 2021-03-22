@@ -9,7 +9,7 @@
 
 namespace cmsgears\icons\assets;
 
-class CmtiCurrencyAssets extends \yii\web\AssetBundle {
+class CmtiBrandAssets extends \yii\web\AssetBundle {
 
 	// Variables ---------------------------------------------------
 
@@ -22,7 +22,7 @@ class CmtiCurrencyAssets extends \yii\web\AssetBundle {
 
 	// Load CSS
 	public $css = [
-		'dist/css/breeze-icons-currency.min.css'
+		'dist/css/breeze-icons-brand.min.css'
 	];
 
 	// Protected --------------
@@ -41,6 +41,6 @@ class CmtiCurrencyAssets extends \yii\web\AssetBundle {
 
 	// CMG parent classes --------------------
 
-	// CmtiCurrencyAssets ---------------------
+	// CmtiBrandAssets -----------------------
 
 }
